@@ -1,0 +1,1761 @@
+
+//*********XIB************
+
+/* Class = "UILabel"; text = "常用设备"; ObjectID = "LfT-zJ-hOJ"; */
+"LfT-zJ-hOJ.text" = "Common equipment";
+
+/* Class = "UILabel"; text = "极简模式"; ObjectID = "YjY-Dj-GtY"; */
+"YjY-Dj-GtY.text" = "Simple mode";
+
+/* Class = "UILabel"; text = "常用场景"; ObjectID = "efx-Sn-5Nq"; */
+"efx-Sn-5Nq.text" = "Common scene";
+
+/* Class = "UILabel"; text = "家庭管理"; ObjectID = "ydS-QE-hYe"; */
+"ydS-QE-hYe.text" = "Home management";
+
+/* Class = "UILabel"; text = "120s"; ObjectID = "2A3-Z3-wJK"; */
+"2A3-Z3-wJK.text" = "120s";
+
+/* Class = "UIButton"; normalTitle = "搜索不到设备？点击查看帮助 >"; ObjectID = "AL3-en-IXT"; */
+"AL3-en-IXT.normalTitle" = "Can't find the device? Click to view help";
+
+/* Class = "UIButton"; normalTitle = "重新搜索"; ObjectID = "Fxi-8R-ZBl"; */
+"Fxi-8R-ZBl.normalTitle" = "Search again";
+
+/* Class = "UILabel"; text = "正在搜索附近的设备..."; ObjectID = "Rfz-kh-esO"; */
+"Rfz-kh-esO.text" = "Searching for nearby devices...";
+
+/* Class = "UILabel"; text = "请长按开关键5秒以上，直到蓝灯快速闪烁后松开"; ObjectID = "7LN-pC-QQN"; */
+"7LN-pC-QQN.text" = "Please long press the button for more than 5s until the LED indicator flashes blue fast";
+
+/* Class = "UIButton"; normalTitle = "已明白，返回"; ObjectID = "7a3-h9-AMn"; */
+"7a3-h9-AMn.normalTitle" = "Got it, back";
+
+/* Class = "UILabel"; text = "暂无可替换的设备"; ObjectID = "VnN-Dd-zcT"; */
+"VnN-Dd-zcT.text" = "No replacement for now";
+
+/* Class = "UILabel"; text = "当设备损坏、丢失或离线时，可以选择新的设备进行替换，新设备将保留设备的功能，包括名称、AI智能、场景等"; ObjectID = "dBJ-DR-oPa"; */
+"dBJ-DR-oPa.text" = "When a device is damaged, lost or offline, you can replace it with a new one. The new device will retain the old one's functionalities including name, AI smart, scenes and so on";
+
+/* Class = "UILabel"; text = "注：仅支持未添加AI智能或场景的设备进行替换"; ObjectID = "h9a-JI-eAO"; */
+"h9a-JI-eAO.text" = "Note: The new device should not be added for any AI smart or scenes before replacing the old one";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "G80-2P-sbw"; */
+"G80-2P-sbw.normalTitle" = "Confirm";
+
+/* Class = "UIButton"; normalTitle = "取消"; ObjectID = "Tc1-5A-ZoQ"; */
+"Tc1-5A-ZoQ.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "删除设备"; ObjectID = "lcP-pa-2CY"; */
+"lcP-pa-2CY.normalTitle" = "Delete device";
+
+/* Class = "UILabel"; text = "手动风速"; ObjectID = "1g3-YT-8D3"; */
+"1g3-YT-8D3.text" = "Manual wind speed";
+
+/* Class = "UILabel"; text = "中"; ObjectID = "1jb-9C-BVt"; */
+"1jb-9C-BVt.text" = "Middle";
+
+/* Class = "UILabel"; text = "PM2.5"; ObjectID = "2I5-7E-5QY"; */
+"2I5-7E-5QY.text" = "PM2.5";
+
+/* Class = "UILabel"; text = "童锁"; ObjectID = "36g-Cy-LpM"; */
+"36g-Cy-LpM.text" = "Child lock";
+
+/* Class = "UILabel"; text = "999"; ObjectID = "5uR-q3-nGt"; */
+"5uR-q3-nGt.text" = "999";
+
+/* Class = "UILabel"; text = "场景模式"; ObjectID = "A0D-s2-mAk"; */
+"A0D-s2-mAk.text" = "Scene mode";
+
+/* Class = "UILabel"; text = "高"; ObjectID = "AN4-fu-3kw"; */
+"AN4-fu-3kw.text" = "High";
+
+/* Class = "UILabel"; text = "极速"; ObjectID = "Bcs-Oh-6VI"; */
+"Bcs-Oh-6VI.text" = "Extreme speed";
+
+/* Class = "UILabel"; text = "室内空气"; ObjectID = "F8A-m0-iyY"; */
+"F8A-m0-iyY.text" = "Indoor air";
+
+/* Class = "UILabel"; text = "睡眠"; ObjectID = "Jza-kM-FVJ"; */
+"Jza-kM-FVJ.text" = "Sleep";
+
+/* Class = "UILabel"; text = "开启/关闭"; ObjectID = "PCp-M6-8XC"; */
+"PCp-M6-8XC.text" = "On/Off";
+
+/* Class = "UILabel"; text = "低"; ObjectID = "THq-fD-E7S"; */
+"THq-fD-E7S.text" = "Low";
+
+/* Class = "UILabel"; text = "25°C"; ObjectID = "XtN-Bq-5qU"; */
+"XtN-Bq-5qU.text" = "25°C";
+
+/* Class = "UILabel"; text = "50%"; ObjectID = "YhX-Nl-BcH"; */
+"YhX-Nl-BcH.text" = "50%";
+
+/* Class = "UILabel"; text = "温度"; ObjectID = "e8o-PU-usW"; */
+"e8o-PU-usW.text" = "Temperature";
+
+/* Class = "UILabel"; text = "自动"; ObjectID = "elX-1j-ze9"; */
+"elX-1j-ze9.text" = "Auto";
+
+/* Class = "UILabel"; text = "杀菌灯"; ObjectID = "l6A-rf-uHG"; */
+"l6A-rf-uHG.text" = "Sterilization lamp";
+
+/* Class = "UILabel"; text = "湿度"; ObjectID = "m0b-Hf-8RF"; */
+"m0b-Hf-8RF.text" = "Humidity";
+
+/* Class = "UILabel"; text = "很好"; ObjectID = "rAz-DQ-cea"; */
+"rAz-DQ-cea.text" = "Very good";
+
+/* Class = "UILabel"; text = "50%"; ObjectID = "wYY-RV-65b"; */
+"wYY-RV-65b.text" = "50%";
+
+/* Class = "UILabel"; text = "滤网剩余"; ObjectID = "xKv-g2-m26"; */
+"xKv-g2-m26.text" = "Filter remaining";
+
+/* Class = "UILabel"; text = "极速"; ObjectID = "AK2-oI-zme"; */
+"AK2-oI-zme.text" = "Extreme speed";
+
+/* Class = "UILabel"; text = "场景模式"; ObjectID = "UYz-Qk-zNw"; */
+"UYz-Qk-zNw.text" = "Scene mode";
+
+/* Class = "UILabel"; text = "睡眠"; ObjectID = "jge-ai-tIN"; */
+"jge-ai-tIN.text" = "Sleep";
+
+/* Class = "UILabel"; text = "自动"; ObjectID = "ywA-gr-J6P"; */
+"ywA-gr-J6P.text" = "Auto";
+
+/* Class = "UILabel"; text = "功能配置"; ObjectID = "QV3-0V-Kn5"; */
+"QV3-0V-Kn5.text" = "Function configuration";
+
+/* Class = "UISegmentedControl"; 9Qr-6a-pbY.segmentTitles[0] = "场景"; ObjectID = "9Qr-6a-pbY"; */
+"9Qr-6a-pbY.segmentTitles[0]" = "Scene";
+
+/* Class = "UISegmentedControl"; 9Qr-6a-pbY.segmentTitles[1] = "设备"; ObjectID = "9Qr-6a-pbY"; */
+"9Qr-6a-pbY.segmentTitles[1]" = "Device";
+
+/* Class = "UISegmentedControl"; 9Qr-6a-pbY.segmentTitles[2] = "灯控组"; ObjectID = "9Qr-6a-pbY"; */
+"9Qr-6a-pbY.segmentTitles[2]" = "light control group";
+
+/* Class = "UISegmentedControl"; NdK-SY-byU.segmentTitles[0] = "场景"; ObjectID = "NdK-SY-byU"; */
+"NdK-SY-byU.segmentTitles[0]" = "Scene";
+
+/* Class = "UISegmentedControl"; NdK-SY-byU.segmentTitles[1] = "设备"; ObjectID = "NdK-SY-byU"; */
+"NdK-SY-byU.segmentTitles[1]" = "Device";
+
+/* Class = "UISegmentedControl"; NdK-SY-byU.segmentTitles[2] = "灯控组"; ObjectID = "NdK-SY-byU"; */
+"NdK-SY-byU.segmentTitles[2]" = "light control group";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1eV-Zf-Oww"; */
+"1eV-Zf-Oww.text" = "Label";
+
+/* Class = "UILabel"; text = "无人"; ObjectID = "1up-IT-97b"; */
+"1up-IT-97b.text" = "Nobody";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1vN-Rb-V5j"; */
+"1vN-Rb-V5j.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9j1-qc-28f"; */
+"9j1-qc-28f.text" = "Label";
+
+/* Class = "UILabel"; text = "无"; ObjectID = "Fgk-CU-0e7"; */
+"Fgk-CU-0e7.text" = "None";
+
+/* Class = "UILabel"; text = "感应状态"; ObjectID = "Hrh-QT-WRW"; */
+"Hrh-QT-WRW.text" = "Induction state";
+
+/* Class = "UILabel"; text = "有人"; ObjectID = "IdG-5j-BSW"; */
+"IdG-5j-BSW.text" = "Someone";
+
+/* Class = "UILabel"; text = "无人"; ObjectID = "SSw-5H-PD3"; */
+"SSw-5H-PD3.text" = "Nobody";
+
+/* Class = "UILabel"; text = "距离"; ObjectID = "YcY-9m-qcr"; */
+"YcY-9m-qcr.text" = "Distance";
+
+/* Class = "UILabel"; text = "体动值"; ObjectID = "ZO6-D2-M63"; */
+"ZO6-D2-M63.text" = "Body dynamic value";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "dFH-fy-I9Q"; */
+"dFH-fy-I9Q.text" = "0";
+
+/* Class = "UILabel"; text = "无人"; ObjectID = "dlm-6z-6b8"; */
+"dlm-6z-6b8.text" = "Nobody";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gee-XX-gBs"; */
+"gee-XX-gBs.text" = "Label";
+
+/* Class = "UILabel"; text = "速度"; ObjectID = "jgi-sO-Khr"; */
+"jgi-sO-Khr.text" = "Speed";
+
+/* Class = "UILabel"; text = "能量"; ObjectID = "kM5-td-N4W"; */
+"kM5-td-N4W.text" = "Energy";
+
+/* Class = "UILabel"; text = "活动状态"; ObjectID = "mSm-cu-GGX"; */
+"mSm-cu-GGX.text" = "Activity state";
+
+/* Class = "UILabel"; text = "2021-08-13 12:00:00"; ObjectID = "uEv-Zu-IGq"; */
+"uEv-Zu-IGq.text" = "2021-08-13 12:00:00";
+
+/* Class = "UILabel"; text = "运动方向"; ObjectID = "z6a-eU-SLb"; */
+"z6a-eU-SLb.text" = "Direction of movement";
+
+/* Class = "UIButton"; normalTitle = "功率350W"; ObjectID = "5L6-3K-UfF"; */
+"5L6-3K-UfF.normalTitle" = "Power 350W";
+
+/* Class = "UIButton"; normalTitle = "电压220V"; ObjectID = "6TR-Sr-coO"; */
+"6TR-Sr-coO.normalTitle" = "Voltage 220V";
+
+/* Class = "UIButton"; normalTitle = "强制合闸(ON)"; ObjectID = "Bqa-bB-EHv"; */
+"Bqa-bB-EHv.normalTitle" = "Forced to switch off (ON)";
+
+/* Class = "UILabel"; text = "0.0度"; ObjectID = "Elo-s5-Bar"; */
+"Elo-s5-Bar.text" = "0.0 Degree";
+
+/* Class = "UIButton"; normalTitle = "电流1.6A"; ObjectID = "I6q-Gc-JV3"; */
+"I6q-Gc-JV3.normalTitle" = "Current 1.6A";
+
+/* Class = "UILabel"; text = "今日用电"; ObjectID = "NUa-KJ-Qb9"; */
+"NUa-KJ-Qb9.text" = "Today electricity consumption";
+
+/* Class = "UIButton"; normalTitle = "强制分闸(OFF)"; ObjectID = "RYB-3B-CTB"; */
+"RYB-3B-CTB.normalTitle" = "Forced to switch on (OFF)";
+
+/* Class = "UILabel"; text = "用电状态"; ObjectID = "YJs-b1-oFe"; */
+"YJs-b1-oFe.text" = "Electricity consumption status";
+
+/* Class = "UILabel"; text = "0.0度"; ObjectID = "fUC-qQ-VY4"; */
+"fUC-qQ-VY4.text" = "0.0 Degree";
+
+/* Class = "UIButton"; normalTitle = "温度38°C"; ObjectID = "sRk-lD-diz"; */
+"sRk-lD-diz.normalTitle" = "Temperature 38°C";
+
+/* Class = "UILabel"; text = "当月用电"; ObjectID = "vRI-js-0hk"; */
+"vRI-js-0hk.text" = "The month electricity consumption";
+
+/* Class = "UILabel"; text = "ON"; ObjectID = "w3G-to-saJ"; */
+"w3G-to-saJ.text" = "ON";
+
+/* Class = "UIButton"; normalTitle = "连续触发条件"; ObjectID = "7lW-1b-knn"; */
+"7lW-1b-knn.normalTitle" = "Continuous trigger condition";
+
+/* Class = "UIButton"; selectedTitle = "连续触发条件"; ObjectID = "7lW-1b-knn"; */
+"7lW-1b-knn.selectedTitle" = "Continuous trigger condition";
+
+/* Class = "UILabel"; text = "°C"; ObjectID = "Abb-3R-Vn3"; */
+"Abb-3R-Vn3.text" = "°C";
+
+/* Class = "UILabel"; text = "温度"; ObjectID = "YO1-Hm-ntS"; */
+"YO1-Hm-ntS.text" = "Temperature";
+
+/* Class = "UILabel"; text = "温度范围值为：30～100°C"; ObjectID = "ewR-sE-Krw"; */
+"ewR-sE-Krw.text" = "Temperature range：30～100°C";
+
+/* Class = "UIButton"; normalTitle = "连续触发条件"; ObjectID = "3Yo-N8-S9d"; */
+"3Yo-N8-S9d.normalTitle" = "Continuous trigger condition";
+
+/* Class = "UIButton"; selectedTitle = "连续触发条件"; ObjectID = "3Yo-N8-S9d"; */
+"3Yo-N8-S9d.selectedTitle" = "Continuous trigger condition";
+
+/* Class = "UILabel"; text = "功率"; ObjectID = "D5n-qC-oDi"; */
+"D5n-qC-oDi.text" = "Power";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "bRe-Xa-scg"; */
+"bRe-Xa-scg.text" = "%";
+
+/* Class = "UILabel"; text = "功率范围为：5%~300%"; ObjectID = "kKQ-he-E2S"; */
+"kKQ-he-E2S.text" = "Power range：5%~300%";
+
+/* Class = "UIButton"; normalTitle = "上一步"; ObjectID = "Ygh-k9-pOh"; */
+"Ygh-k9-pOh.normalTitle" = "Last step";
+
+/* Class = "UILabel"; text = "1、上电后等待最上面的那个BUS蓝色指示灯（如上图）快闪，说明这个时候空开已启动完成。"; ObjectID = "fDt-RN-2ef"; */
+"fDt-RN-2ef.text" = "1. After the device is powered on, wait until the BUS indicator blinks blue.";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "idC-Mf-8Y2"; */
+"idC-Mf-8Y2.normalTitle" = "Next step";
+
+/* Class = "UILabel"; text = "1/5"; ObjectID = "phu-mF-Djs"; */
+"phu-mF-Djs.text" = "1/5";
+
+/* Class = "UILabel"; text = "只需按黄色按键将空开全部合闸，即可恢复远程控制。"; ObjectID = "FYe-hQ-U2g"; */
+"FYe-hQ-U2g.text" = "Just press the yellow button  to close all air switches, and then the remote control can be restored";
+
+/* Class = "UILabel"; text = " （注意：必须确认整个电路和电器设备处于安全状态！）"; ObjectID = "HCP-xd-y2H"; */
+"HCP-xd-y2H.text" = " (Note: the whole circuit and electrical equipment must be confirmed to be safe!)";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "M3n-9A-zqw"; */
+"M3n-9A-zqw.normalTitle" = "Next step";
+
+/* Class = "UILabel"; text = "1/4"; ObjectID = "Vb6-zF-2de"; */
+"Vb6-zF-2de.text" = "1/4";
+
+/* Class = "UIButton"; normalTitle = "功率350W"; ObjectID = "5L6-3K-UfF"; */
+"5L6-3K-UfF.normalTitle" = "Power 350W";
+
+/* Class = "UIButton"; normalTitle = "电压220V"; ObjectID = "6TR-Sr-coO"; */
+"6TR-Sr-coO.normalTitle" = "Voltage 220V";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "Elo-s5-Bar"; */
+"Elo-s5-Bar.text" = "0.00";
+
+/* Class = "UIButton"; normalTitle = "电流1.6A"; ObjectID = "I6q-Gc-JV3"; */
+"I6q-Gc-JV3.normalTitle" = "Current 1.6A";
+
+/* Class = "UILabel"; text = "今日用电>"; ObjectID = "NUa-KJ-Qb9"; */
+"NUa-KJ-Qb9.text" = "Today electricity consumption>";
+
+/* Class = "UILabel"; text = "度"; ObjectID = "S2t-9s-73T"; */
+"S2t-9s-73T.text" = "Degree";
+
+/* Class = "UILabel"; text = "用电状态"; ObjectID = "YJs-b1-oFe"; */
+"YJs-b1-oFe.text" = "Electricity consumption status";
+
+/* Class = "UILabel"; text = "度"; ObjectID = "bRS-ix-BI4"; */
+"bRS-ix-BI4.text" = "Degree";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "fUC-qQ-VY4"; */
+"fUC-qQ-VY4.text" = "0.00";
+
+/* Class = "UIButton"; normalTitle = "温度38°C"; ObjectID = "sRk-lD-diz"; */
+"sRk-lD-diz.normalTitle" = "Temperature 38°C";
+
+/* Class = "UILabel"; text = "当月用电>"; ObjectID = "vRI-js-0hk"; */
+"vRI-js-0hk.text" = "The month electricity consumption>";
+
+/* Class = "UILabel"; text = "ON"; ObjectID = "w3G-to-saJ"; */
+"w3G-to-saJ.text" = "ON";
+
+/* Class = "UIButton"; normalTitle = "连续触发条件"; ObjectID = "7lW-1b-knn"; */
+"7lW-1b-knn.normalTitle" = "Continuous trigger condition";
+
+/* Class = "UIButton"; selectedTitle = "连续触发条件"; ObjectID = "7lW-1b-knn"; */
+"7lW-1b-knn.selectedTitle" = "Continuous trigger condition";
+
+/* Class = "UILabel"; text = "°C"; ObjectID = "Abb-3R-Vn3"; */
+"Abb-3R-Vn3.text" = "°C";
+
+/* Class = "UILabel"; text = "温度"; ObjectID = "YO1-Hm-ntS"; */
+"YO1-Hm-ntS.text" = "Temperature";
+
+/* Class = "UILabel"; text = "温度范围值为：0～120°C"; ObjectID = "ewR-sE-Krw"; */
+"ewR-sE-Krw.text" = "Temperature range: 0～120°C";
+
+/* Class = "UIButton"; normalTitle = "连续触发条件"; ObjectID = "3Yo-N8-S9d"; */
+"3Yo-N8-S9d.normalTitle" = "Continuous trigger condition";
+
+/* Class = "UIButton"; selectedTitle = "连续触发条件"; ObjectID = "3Yo-N8-S9d"; */
+"3Yo-N8-S9d.selectedTitle" = "Continuous trigger condition";
+
+/* Class = "UILabel"; text = "功率"; ObjectID = "D5n-qC-oDi"; */
+"D5n-qC-oDi.text" = "Power";
+
+/* Class = "UILabel"; text = "W"; ObjectID = "bRe-Xa-scg"; */
+"bRe-Xa-scg.text" = "W";
+
+/* Class = "UILabel"; text = "功率范围为：0~65535W"; ObjectID = "kKQ-he-E2S"; */
+"kKQ-he-E2S.text" = "Power range: 0~65535W";
+
+/* Class = "UIButton"; normalTitle = "上一步"; ObjectID = "Ygh-k9-pOh"; */
+"Ygh-k9-pOh.normalTitle" = "Last step";
+
+/* Class = "UILabel"; text = "1、上电后等待最上面的那个BUS蓝色指示灯（如上图）快闪，说明这个时候空开已启动完成。"; ObjectID = "fDt-RN-2ef"; */
+"fDt-RN-2ef.text" = "1. After the device is powered on, wait until the BUS indicator blinks blue.";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "idC-Mf-8Y2"; */
+"idC-Mf-8Y2.normalTitle" = "Next step";
+
+/* Class = "UILabel"; text = "1/5"; ObjectID = "phu-mF-Djs"; */
+"phu-mF-Djs.text" = "1/5";
+
+/* Class = "UILabel"; text = "只需按黄色按键将空开全部合闸，即可恢复远程控制。"; ObjectID = "FYe-hQ-U2g"; */
+"FYe-hQ-U2g.text" = "Just press the yellow button  to close all air switches, and then the remote control can be restored";
+
+/* Class = "UILabel"; text = " （注意：必须确认整个电路和电器设备处于安全状态！）"; ObjectID = "HCP-xd-y2H"; */
+"HCP-xd-y2H.text" = " (Note: the whole circuit and electrical equipment must be confirmed to be safe!)";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "M3n-9A-zqw"; */
+"M3n-9A-zqw.normalTitle" = "Next step";
+
+/* Class = "UILabel"; text = "1/4"; ObjectID = "Vb6-zF-2de"; */
+"Vb6-zF-2de.text" = "1/4";
+
+/* Class = "UIButton"; normalTitle = "烘干"; ObjectID = "F6V-rd-F7g"; */
+"F6V-rd-F7g.normalTitle" = "Drying";
+
+/* Class = "UIButton"; normalTitle = "暂停"; ObjectID = "Gns-xv-k3E"; */
+"Gns-xv-k3E.normalTitle" = "Suspend";
+
+/* Class = "UIButton"; normalTitle = "风干"; ObjectID = "LgL-2s-zGZ"; */
+"LgL-2s-zGZ.normalTitle" = "Air-dry";
+
+/* Class = "UIButton"; normalTitle = "上升"; ObjectID = "PgL-35-Cyl"; */
+"PgL-35-Cyl.normalTitle" = "Up";
+
+/* Class = "UIButton"; normalTitle = "消毒"; ObjectID = "R5d-AB-myf"; */
+"R5d-AB-myf.normalTitle" = "Disinfect";
+
+/* Class = "UIButton"; normalTitle = "下降"; ObjectID = "fhl-CO-K4a"; */
+"fhl-CO-K4a.normalTitle" = "Down";
+
+/* Class = "UILabel"; text = "LED关"; ObjectID = "oem-ma-Ybh"; */
+"oem-ma-Ybh.text" = "LED Off";
+
+/* Class = "UILabel"; text = "风速"; ObjectID = "0W7-fU-IpU"; */
+"0W7-fU-IpU.text" = "Wind speed";
+
+/* Class = "UILabel"; text = "室内温度"; ObjectID = "7rN-Su-J2s"; */
+"7rN-Su-J2s.text" = "Indoor temperature";
+
+/* Class = "UILabel"; text = "送风"; ObjectID = "8Mm-eL-DEO"; */
+"8Mm-eL-DEO.text" = "Blowing-in";
+
+/* Class = "UILabel"; text = "制冷"; ObjectID = "Am1-sS-psa"; */
+"Am1-sS-psa.text" = "Refrigeration";
+
+/* Class = "UILabel"; text = "低"; ObjectID = "Cfe-Ww-t2s"; */
+"Cfe-Ww-t2s.text" = "Low";
+
+/* Class = "UILabel"; text = "28"; ObjectID = "HAr-cw-7cq"; */
+"HAr-cw-7cq.text" = "28";
+
+/* Class = "UILabel"; text = " 除湿"; ObjectID = "Ouq-wA-Pnj"; */
+"Ouq-wA-Pnj.text" = "Arefaction";
+
+/* Class = "UILabel"; text = "温度调节"; ObjectID = "Rhx-e6-YNy"; */
+"Rhx-e6-YNy.text" = "Temerature adjustment";
+
+/* Class = "UILabel"; text = "定时"; ObjectID = "TO7-Ya-RaI"; */
+"TO7-Ya-RaI.text" = "Timer";
+
+/* Class = "UILabel"; text = "设定："; ObjectID = "Z4D-GI-jhr"; */
+"Z4D-GI-jhr.text" = "Setting：";
+
+/* Class = "UILabel"; text = "16"; ObjectID = "bQh-iy-SWe"; */
+"bQh-iy-SWe.text" = "16";
+
+/* Class = "UILabel"; text = "制热"; ObjectID = "eap-4s-B7p"; */
+"eap-4s-B7p.text" = "Heating";
+
+/* Class = "UILabel"; text = "高"; ObjectID = "hZ0-B8-AOt"; */
+"hZ0-B8-AOt.text" = "High";
+
+/* Class = "UILabel"; text = "°C"; ObjectID = "haJ-mb-cZI"; */
+"haJ-mb-cZI.text" = "°C";
+
+/* Class = "UILabel"; text = "26"; ObjectID = "kHA-jb-TbM"; */
+"kHA-jb-TbM.text" = "26";
+
+/* Class = "UILabel"; text = "中"; ObjectID = "mpK-BS-Exl"; */
+"mpK-BS-Exl.text" = "Middle";
+
+/* Class = "UILabel"; text = "模式"; ObjectID = "mxV-n8-aSn"; */
+"mxV-n8-aSn.text" = "Mode";
+
+/* Class = "UIButton"; normalTitle = " 开"; ObjectID = "nfA-Ra-dDQ"; */
+"nfA-Ra-dDQ.normalTitle" = " On";
+
+/* Class = "UILabel"; text = "32"; ObjectID = "rAa-Jw-hr6"; */
+"rAa-Jw-hr6.text" = "32";
+
+/* Class = "UIButton"; normalTitle = " 关"; ObjectID = "tkl-wC-4Yw"; */
+"tkl-wC-4Yw.normalTitle" = " Off";
+
+/* Class = "UILabel"; text = "°C"; ObjectID = "use-d9-dpV"; */
+"use-d9-dpV.text" = "°C";
+
+/* Class = "UILabel"; text = "16"; ObjectID = "BVh-DI-QKi"; */
+"BVh-DI-QKi.text" = "16";
+
+/* Class = "UILabel"; text = "风速"; ObjectID = "Cn4-D0-F6X"; */
+"Cn4-D0-F6X.text" = "Wind speed";
+
+/* Class = "UILabel"; text = "°C"; ObjectID = "Prh-5l-wdc"; */
+"Prh-5l-wdc.text" = "°C";
+
+/* Class = "UILabel"; text = " 除湿"; ObjectID = "RXt-Ud-dpd"; */
+"RXt-Ud-dpd.text" = "Arefaction";
+
+/* Class = "UILabel"; text = "中"; ObjectID = "Rfs-cP-jeL"; */
+"Rfs-cP-jeL.text" = "Middle";
+
+/* Class = "UILabel"; text = "制热"; ObjectID = "cgW-fg-Gdj"; */
+"cgW-fg-Gdj.text" = "Heating";
+
+/* Class = "UILabel"; text = "模式"; ObjectID = "dsH-aL-xV5"; */
+"dsH-aL-xV5.text" = "Mode";
+
+/* Class = "UILabel"; text = "设定："; ObjectID = "f8t-aV-xK0"; */
+"f8t-aV-xK0.text" = "Setting：";
+
+/* Class = "UILabel"; text = "温度调节"; ObjectID = "hIL-pv-Djf"; */
+"hIL-pv-Djf.text" = "Temerature adjustment";
+
+/* Class = "UILabel"; text = "26"; ObjectID = "jrn-1y-o7x"; */
+"jrn-1y-o7x.text" = "26";
+
+/* Class = "UILabel"; text = "制冷"; ObjectID = "kJq-gD-zgK"; */
+"kJq-gD-zgK.text" = "Refrigeration";
+
+/* Class = "UILabel"; text = "送风"; ObjectID = "m5E-Hn-sRe"; */
+"m5E-Hn-sRe.text" = "Blowing-in";
+
+/* Class = "UILabel"; text = "高"; ObjectID = "sVp-Nk-PnA"; */
+"sVp-Nk-PnA.text" = "High";
+
+/* Class = "UILabel"; text = "32"; ObjectID = "vHN-HD-uvP"; */
+"vHN-HD-uvP.text" = "32";
+
+/* Class = "UILabel"; text = "低"; ObjectID = "wId-pK-5hv"; */
+"wId-pK-5hv.text" = "Low";
+
+/* Class = "UILabel"; text = "风速"; ObjectID = "0W7-fU-IpU"; */
+"0W7-fU-IpU.text" = "Wind speed";
+
+/* Class = "UILabel"; text = "室内温度"; ObjectID = "7rN-Su-J2s"; */
+"7rN-Su-J2s.text" = "Indoor temperature";
+
+/* Class = "UILabel"; text = "送风"; ObjectID = "8Mm-eL-DEO"; */
+"8Mm-eL-DEO.text" = "Blowing-in";
+
+/* Class = "UILabel"; text = "制冷"; ObjectID = "Am1-sS-psa"; */
+"Am1-sS-psa.text" = "Refrigeration";
+
+/* Class = "UILabel"; text = "低"; ObjectID = "Cfe-Ww-t2s"; */
+"Cfe-Ww-t2s.text" = "Low";
+
+/* Class = "UILabel"; text = "自动"; ObjectID = "Cn9-Y2-932"; */
+"Cn9-Y2-932.text" = "Auto";
+
+/* Class = "UILabel"; text = "28"; ObjectID = "HAr-cw-7cq"; */
+"HAr-cw-7cq.text" = "28";
+
+/* Class = "UILabel"; text = " 除湿"; ObjectID = "Ouq-wA-Pnj"; */
+"Ouq-wA-Pnj.text" = "Arefaction";
+
+/* Class = "UILabel"; text = "温度调节"; ObjectID = "Rhx-e6-YNy"; */
+"Rhx-e6-YNy.text" = "Temerature adjustment";
+
+/* Class = "UILabel"; text = "定时"; ObjectID = "TO7-Ya-RaI"; */
+"TO7-Ya-RaI.text" = "Timer";
+
+/* Class = "UILabel"; text = "设定："; ObjectID = "Z4D-GI-jhr"; */
+"Z4D-GI-jhr.text" = "Setting：";
+
+/* Class = "UILabel"; text = "16"; ObjectID = "bQh-iy-SWe"; */
+"bQh-iy-SWe.text" = "16";
+
+/* Class = "UILabel"; text = "制热"; ObjectID = "eap-4s-B7p"; */
+"eap-4s-B7p.text" = "Heating";
+
+/* Class = "UILabel"; text = "高"; ObjectID = "hZ0-B8-AOt"; */
+"hZ0-B8-AOt.text" = "High";
+
+/* Class = "UILabel"; text = "°C"; ObjectID = "haJ-mb-cZI"; */
+"haJ-mb-cZI.text" = "°C";
+
+/* Class = "UILabel"; text = "自动"; ObjectID = "jmC-w4-HUP"; */
+"jmC-w4-HUP.text" = "Auto";
+
+/* Class = "UILabel"; text = "26"; ObjectID = "kHA-jb-TbM"; */
+"kHA-jb-TbM.text" = "26";
+
+/* Class = "UILabel"; text = "中"; ObjectID = "mpK-BS-Exl"; */
+"mpK-BS-Exl.text" = "Middle";
+
+/* Class = "UILabel"; text = "模式"; ObjectID = "mxV-n8-aSn"; */
+"mxV-n8-aSn.text" = "Mode";
+
+/* Class = "UIButton"; normalTitle = " 开"; ObjectID = "nfA-Ra-dDQ"; */
+"nfA-Ra-dDQ.normalTitle" = " On";
+
+/* Class = "UILabel"; text = "32"; ObjectID = "rAa-Jw-hr6"; */
+"rAa-Jw-hr6.text" = "32";
+
+/* Class = "UIButton"; normalTitle = " 关"; ObjectID = "tkl-wC-4Yw"; */
+"tkl-wC-4Yw.normalTitle" = " Off";
+
+/* Class = "UILabel"; text = "°C"; ObjectID = "use-d9-dpV"; */
+"use-d9-dpV.text" = "°C";
+
+/* Class = "UILabel"; text = "16"; ObjectID = "BVh-DI-QKi"; */
+"BVh-DI-QKi.text" = "16";
+
+/* Class = "UILabel"; text = "风速"; ObjectID = "Cn4-D0-F6X"; */
+"Cn4-D0-F6X.text" = "Wind speed";
+
+/* Class = "UILabel"; text = "°C"; ObjectID = "Prh-5l-wdc"; */
+"Prh-5l-wdc.text" = "°C";
+
+/* Class = "UILabel"; text = " 除湿"; ObjectID = "RXt-Ud-dpd"; */
+"RXt-Ud-dpd.text" = "Arefaction";
+
+/* Class = "UILabel"; text = "中"; ObjectID = "Rfs-cP-jeL"; */
+"Rfs-cP-jeL.text" = "Middle";
+
+/* Class = "UILabel"; text = "制热"; ObjectID = "cgW-fg-Gdj"; */
+"cgW-fg-Gdj.text" = "Heating";
+
+/* Class = "UILabel"; text = "模式"; ObjectID = "dsH-aL-xV5"; */
+"dsH-aL-xV5.text" = "Mode";
+
+/* Class = "UILabel"; text = "设定："; ObjectID = "f8t-aV-xK0"; */
+"f8t-aV-xK0.text" = "Setting：";
+
+/* Class = "UILabel"; text = "温度调节"; ObjectID = "hIL-pv-Djf"; */
+"hIL-pv-Djf.text" = "Temerature adjustment";
+
+/* Class = "UILabel"; text = "26"; ObjectID = "jrn-1y-o7x"; */
+"jrn-1y-o7x.text" = "26";
+
+/* Class = "UILabel"; text = "制冷"; ObjectID = "kJq-gD-zgK"; */
+"kJq-gD-zgK.text" = "Refrigeration";
+
+/* Class = "UILabel"; text = "送风"; ObjectID = "m5E-Hn-sRe"; */
+"m5E-Hn-sRe.text" = "Blowing-in";
+
+/* Class = "UILabel"; text = "高"; ObjectID = "sVp-Nk-PnA"; */
+"sVp-Nk-PnA.text" = "High";
+
+/* Class = "UILabel"; text = "32"; ObjectID = "vHN-HD-uvP"; */
+"vHN-HD-uvP.text" = "32";
+
+/* Class = "UILabel"; text = "低"; ObjectID = "wId-pK-5hv"; */
+"wId-pK-5hv.text" = "Low";
+
+/* Class = "UILabel"; text = "°C"; ObjectID = "CHN-a0-9XM"; */
+"CHN-a0-9XM.text" = "°C";
+
+/* Class = "UILabel"; text = "温度调节"; ObjectID = "Jdj-rY-F1p"; */
+"Jdj-rY-F1p.text" = "Temerature adjustment";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "MJm-hD-ZE8"; */
+"MJm-hD-ZE8.text" = "12";
+
+/* Class = "UILabel"; text = "26"; ObjectID = "W95-xl-TyA"; */
+"W95-xl-TyA.text" = "26";
+
+/* Class = "UIButton"; normalTitle = " 开"; ObjectID = "YlG-Qd-EfK"; */
+"YlG-Qd-EfK.normalTitle" = " On";
+
+/* Class = "UILabel"; text = "31"; ObjectID = "aqV-Sb-6qg"; */
+"aqV-Sb-6qg.text" = "31";
+
+/* Class = "UILabel"; text = "室内温度"; ObjectID = "dIP-eH-pBI"; */
+"dIP-eH-pBI.text" = "Indoor temperature";
+
+/* Class = "UILabel"; text = "设定："; ObjectID = "dg6-iP-JeB"; */
+"dg6-iP-JeB.text" = "Setting：";
+
+/* Class = "UILabel"; text = "°C"; ObjectID = "ltc-oU-DlD"; */
+"ltc-oU-DlD.text" = "°C";
+
+/* Class = "UIButton"; normalTitle = " 关"; ObjectID = "muZ-rA-aJT"; */
+"muZ-rA-aJT.normalTitle" = " Off";
+
+/* Class = "UILabel"; text = "28"; ObjectID = "tiK-CO-CMi"; */
+"tiK-CO-CMi.text" = "28";
+
+/* Class = "UILabel"; text = "定时"; ObjectID = "vXz-Jg-7uD"; */
+"vXz-Jg-7uD.text" = "Timer";
+
+/* Class = "UILabel"; text = "°C"; ObjectID = "JQh-Ek-f2A"; */
+"JQh-Ek-f2A.text" = "°C";
+
+/* Class = "UILabel"; text = "温度调节"; ObjectID = "YKF-R3-jpa"; */
+"YKF-R3-jpa.text" = "Temerature adjustment";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "bCa-aI-I97"; */
+"bCa-aI-I97.text" = "12";
+
+/* Class = "UILabel"; text = "设定："; ObjectID = "hdQ-fd-3Dm"; */
+"hdQ-fd-3Dm.text" = "Setting：";
+
+/* Class = "UILabel"; text = "31"; ObjectID = "sRV-Yg-htp"; */
+"sRV-Yg-htp.text" = "31";
+
+/* Class = "UILabel"; text = "26"; ObjectID = "wDl-Ti-97b"; */
+"wDl-Ti-97b.text" = "26";
+
+/* Class = "UILabel"; text = "28"; ObjectID = "2Jt-8C-mq1"; */
+"2Jt-8C-mq1.text" = "28";
+
+/* Class = "UILabel"; text = "低"; ObjectID = "A1I-rK-Y8p"; */
+"A1I-rK-Y8p.text" = "Low";
+
+/* Class = "UILabel"; text = "高"; ObjectID = "QDx-MC-IXC"; */
+"QDx-MC-IXC.text" = "High";
+
+/* Class = "UILabel"; text = "中"; ObjectID = "Z7q-a2-CA6"; */
+"Z7q-a2-CA6.text" = "Middle";
+
+/* Class = "UIButton"; normalTitle = " 关"; ObjectID = "fV9-em-yG1"; */
+"fV9-em-yG1.normalTitle" = " Close";
+
+/* Class = "UILabel"; text = "定时"; ObjectID = "h0e-EL-lMC"; */
+"h0e-EL-lMC.text" = "Timer";
+
+/* Class = "UIButton"; normalTitle = " 开"; ObjectID = "i7r-iw-D65"; */
+"i7r-iw-D65.normalTitle" = " Open";
+
+/* Class = "UILabel"; text = "风速"; ObjectID = "lbm-aZ-eRn"; */
+"lbm-aZ-eRn.text" = "Wind speed";
+
+/* Class = "UILabel"; text = "空气质量："; ObjectID = "uft-Aj-ymT"; */
+"uft-Aj-ymT.text" = "Air quality：";
+
+/* Class = "UILabel"; text = "°C"; ObjectID = "vwk-8D-6ua"; */
+"vwk-8D-6ua.text" = "°C";
+
+/* Class = "UILabel"; text = "33"; ObjectID = "xOY-RQ-wEe"; */
+"xOY-RQ-wEe.text" = "33";
+
+/* Class = "UILabel"; text = "室内温度"; ObjectID = "yN6-w5-Bww"; */
+"yN6-w5-Bww.text" = "Indoor temperature";
+
+/* Class = "UILabel"; text = "中"; ObjectID = "0AK-6e-bUA"; */
+"0AK-6e-bUA.text" = "Middle";
+
+/* Class = "UILabel"; text = "风速"; ObjectID = "UCW-UO-iTO"; */
+"UCW-UO-iTO.text" = "Wind speed";
+
+/* Class = "UILabel"; text = "低"; ObjectID = "hhU-hw-2wC"; */
+"hhU-hw-2wC.text" = "Low";
+
+/* Class = "UILabel"; text = "高"; ObjectID = "ne4-Y8-LQ5"; */
+"ne4-Y8-LQ5.text" = "High";
+
+/* Class = "UILabel"; text = "按键名称"; ObjectID = "WhL-9x-JfL"; */
+"WhL-9x-JfL.text" = "Key name";
+
+/* Class = "UILabel"; text = "按键名称"; ObjectID = "q3I-xh-NzX"; */
+"q3I-xh-NzX.text" = "Key name";
+
+/* Class = "UILabel"; text = "电池电量过低"; ObjectID = "9qp-83-mL4"; */
+"9qp-83-mL4.text" = "Battery is too low";
+
+/* Class = "UILabel"; text = "已上锁"; ObjectID = "uf6-dQ-hHG"; */
+"uf6-dQ-hHG.text" = "Locked";
+
+/* Class = "UILabel"; text = "信号源"; ObjectID = "FTs-jj-Orw"; */
+"FTs-jj-Orw.text" = "Singal source";
+
+/* Class = "UILabel"; text = "HDMI4"; ObjectID = "IE0-9r-YuB"; */
+"IE0-9r-YuB.text" = "HDMI4";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "J3V-69-kmL"; */
+"J3V-69-kmL.text" = "0%";
+
+/* Class = "UILabel"; text = "音量｜"; ObjectID = "JHD-Qd-z4v"; */
+"JHD-Qd-z4v.text" = "Volume｜";
+
+/* Class = "UILabel"; text = "HDMI2"; ObjectID = "NbU-Ja-1AJ"; */
+"NbU-Ja-1AJ.text" = "HDMI2";
+
+/* Class = "UILabel"; text = "HDMI3"; ObjectID = "OUo-O4-73o"; */
+"OUo-O4-73o.text" = "HDMI3";
+
+/* Class = "UILabel"; text = "HDMI1"; ObjectID = "cHm-ee-v30"; */
+"cHm-ee-v30.text" = "HDMI1";
+
+/* Class = "UILabel"; text = "蓝牙"; ObjectID = "ecG-eh-wSF"; */
+"ecG-eh-wSF.text" = "Bluetooth";
+
+/* Class = "UILabel"; text = "HDMI5"; ObjectID = "ygV-U9-DtX"; */
+"ygV-U9-DtX.text" = "HDMI5";
+
+/* Class = "UILabel"; text = "HDMI1"; ObjectID = "GTW-3a-JuT"; */
+"GTW-3a-JuT.text" = "HDMI1";
+
+/* Class = "UILabel"; text = "音量｜"; ObjectID = "Mqf-rX-DwY"; */
+"Mqf-rX-DwY.text" = "Volume｜";
+
+/* Class = "UILabel"; text = "信号源"; ObjectID = "Q6E-ma-Upy"; */
+"Q6E-ma-Upy.text" = "Singal source";
+
+/* Class = "UILabel"; text = "HDMI2"; ObjectID = "WRN-I8-KcA"; */
+"WRN-I8-KcA.text" = "HDMI2";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "Yiq-Lo-qwa"; */
+"Yiq-Lo-qwa.text" = "0%";
+
+/* Class = "UILabel"; text = "HDMI5"; ObjectID = "ePD-rs-gTN"; */
+"ePD-rs-gTN.text" = "HDMI5";
+
+/* Class = "UILabel"; text = "HDMI4"; ObjectID = "iRz-6u-br9"; */
+"iRz-6u-br9.text" = "HDMI4";
+
+/* Class = "UILabel"; text = "HDMI3"; ObjectID = "is5-Rd-jyt"; */
+"is5-Rd-jyt.text" = "HDMI3";
+
+/* Class = "UILabel"; text = "蓝牙"; ObjectID = "kBC-vw-uVn"; */
+"kBC-vw-uVn.text" = "Bluetooth";
+
+/* Class = "UILabel"; text = "1%"; ObjectID = "18H-ex-wWT"; */
+"18H-ex-wWT.text" = "1%";
+
+/* Class = "UILabel"; text = "灯光亮度｜"; ObjectID = "wJk-yl-Lb1"; */
+"wJk-yl-Lb1.text" = "Brightness｜";
+
+/* Class = "UILabel"; text = "灯光亮度｜"; ObjectID = "NU4-J9-PID"; */
+"NU4-J9-PID.text" = "Brightness｜";
+
+/* Class = "UILabel"; text = "1%"; ObjectID = "Xfy-hc-JHI"; */
+"Xfy-hc-JHI.text" = "1%";
+
+/* Class = "UILabel"; text = "场景色"; ObjectID = "892-qO-OmV"; */
+"892-qO-OmV.text" = "Scene color";
+
+/* Class = "UILabel"; text = "50%"; ObjectID = "El6-pe-3kA"; */
+"El6-pe-3kA.text" = "50%";
+
+/* Class = "UILabel"; text = "清冷"; ObjectID = "EpP-N4-gnQ"; */
+"EpP-N4-gnQ.text" = "Chilly";
+
+/* Class = "UILabel"; text = "色温"; ObjectID = "djA-sP-sK0"; */
+"djA-sP-sK0.text" = "Color temperature";
+
+/* Class = "UILabel"; text = "起床"; ObjectID = "eH9-aM-CmM"; */
+"eH9-aM-CmM.text" = "Wake-up";
+
+/* Class = "UILabel"; text = "温暖"; ObjectID = "eMS-Wa-S85"; */
+"eMS-Wa-S85.text" = "Warm";
+
+/* Class = "UILabel"; text = "亮度"; ObjectID = "ndr-hL-j4t"; */
+"ndr-hL-j4t.text" = "Luminance";
+
+/* Class = "UILabel"; text = "2700K"; ObjectID = "nn8-SL-gtA"; */
+"nn8-SL-gtA.text" = "2700K";
+
+/* Class = "UILabel"; text = "自然"; ObjectID = "wBw-qa-RNQ"; */
+"wBw-qa-RNQ.text" = "Nature";
+
+/* Class = "UILabel"; text = "开启/关闭"; ObjectID = "wx7-4G-SHa"; */
+"wx7-4G-SHa.text" = "On/Off";
+
+/* Class = "UILabel"; text = "场景色"; ObjectID = "6wk-RB-JB6"; */
+"6wk-RB-JB6.text" = "Scene color";
+
+/* Class = "UILabel"; text = "自然"; ObjectID = "Ikb-J7-die"; */
+"Ikb-J7-die.text" = "Nature";
+
+/* Class = "UILabel"; text = "温暖"; ObjectID = "JNe-3x-pwh"; */
+"JNe-3x-pwh.text" = "Warm";
+
+/* Class = "UILabel"; text = "色温"; ObjectID = "MTf-EF-GOd"; */
+"MTf-EF-GOd.text" = "Color temperature";
+
+/* Class = "UILabel"; text = "亮度"; ObjectID = "Xxd-Pp-8KO"; */
+"Xxd-Pp-8KO.text" = "Luminance";
+
+/* Class = "UILabel"; text = "2700k"; ObjectID = "aSU-hF-Qg1"; */
+"aSU-hF-Qg1.text" = "2700k";
+
+/* Class = "UILabel"; text = "开启/关闭"; ObjectID = "hdf-SL-7oe"; */
+"hdf-SL-7oe.text" = "On/Off";
+
+/* Class = "UILabel"; text = "清冷"; ObjectID = "idq-aq-Dky"; */
+"idq-aq-Dky.text" = "Chilly";
+
+/* Class = "UILabel"; text = "50%"; ObjectID = "pO7-EU-YDl"; */
+"pO7-EU-YDl.text" = "50%";
+
+/* Class = "UILabel"; text = "起床"; ObjectID = "x3X-IU-Xli"; */
+"x3X-IU-Xli.text" = "Wake-up";
+
+/* Class = "UILabel"; text = "开启/关闭"; ObjectID = "LxL-wt-WHt"; */
+"LxL-wt-WHt.text" = "On/Off";
+
+/* Class = "UILabel"; text = "色温"; ObjectID = "P5q-4V-ncE"; */
+"P5q-4V-ncE.text" = "Colour temperature";
+
+/* Class = "UILabel"; text = "清冷"; ObjectID = "PAZ-HH-Fs6"; */
+"PAZ-HH-Fs6.text" = "Chilly";
+
+/* Class = "UISegmentedControl"; UGu-fb-yQB.segmentTitles[0] = "双色温"; ObjectID = "UGu-fb-yQB"; */
+"UGu-fb-yQB.segmentTitles[0]" = "Dichromatic temperature";
+
+/* Class = "UISegmentedControl"; UGu-fb-yQB.segmentTitles[1] = "RGB"; ObjectID = "UGu-fb-yQB"; */
+"UGu-fb-yQB.segmentTitles[1]" = "RGB";
+
+/* Class = "UILabel"; text = "自然"; ObjectID = "V5H-6Y-Gz8"; */
+"V5H-6Y-Gz8.text" = "Nature";
+
+/* Class = "UILabel"; text = "亮度"; ObjectID = "e4l-7J-qvz"; */
+"e4l-7J-qvz.text" = "Luminance";
+
+/* Class = "UILabel"; text = "2700K"; ObjectID = "fHe-Bs-yD0"; */
+"fHe-Bs-yD0.text" = "2700K";
+
+/* Class = "UILabel"; text = "起床"; ObjectID = "hpt-nj-yk8"; */
+"hpt-nj-yk8.text" = "Wake-up";
+
+/* Class = "UILabel"; text = "50%"; ObjectID = "oeA-pp-9GD"; */
+"oeA-pp-9GD.text" = "50%";
+
+/* Class = "UILabel"; text = "温暖"; ObjectID = "pB1-7Y-VxY"; */
+"pB1-7Y-VxY.text" = "Warm";
+
+/* Class = "UILabel"; text = "场景色"; ObjectID = "zpB-rD-Gad"; */
+"zpB-rD-Gad.text" = "Scene color";
+
+/* Class = "UILabel"; text = "1%"; ObjectID = "68M-LO-ouT"; */
+"68M-LO-ouT.text" = "1%";
+
+/* Class = "UILabel"; text = "清冷"; ObjectID = "8ty-AX-GFn"; */
+"8ty-AX-GFn.text" = "Chilly";
+
+/* Class = "UILabel"; text = "颜色"; ObjectID = "9pQ-4d-xeC"; */
+"9pQ-4d-xeC.text" = "Color";
+
+/* Class = "UILabel"; text = "温暖"; ObjectID = "ESk-JG-FBc"; */
+"ESk-JG-FBc.text" = "Warm";
+
+/* Class = "UILabel"; text = "活泼"; ObjectID = "Ebc-aa-uq1"; */
+"Ebc-aa-uq1.text" = "Lively";
+
+/* Class = "UILabel"; text = "冷静"; ObjectID = "ZPs-ML-n5W"; */
+"ZPs-ML-n5W.text" = "Calm";
+
+/* Class = "UILabel"; text = "热情"; ObjectID = "iSg-bt-8jk"; */
+"iSg-bt-8jk.text" = "Enthusiastic";
+
+/* Class = "UILabel"; text = "开启/关闭"; ObjectID = "kRo-i4-c4o"; */
+"kRo-i4-c4o.text" = "On/Off";
+
+/* Class = "UILabel"; text = "场景颜色"; ObjectID = "wGM-5b-Puc"; */
+"wGM-5b-Puc.text" = "Scene color";
+
+/* Class = "UILabel"; text = "亮度｜"; ObjectID = "wso-vP-30X"; */
+"wso-vP-30X.text" = "Luminance｜";
+
+/* Class = "UILabel"; text = "色温"; ObjectID = "78G-nC-Wgf"; */
+"78G-nC-Wgf.text" = "Colour temperature";
+
+/* Class = "UILabel"; text = "开启/关闭"; ObjectID = "Kle-WR-1Sz"; */
+"Kle-WR-1Sz.text" = "On/Off";
+
+/* Class = "UILabel"; text = "自然"; ObjectID = "OjW-14-1Pg"; */
+"OjW-14-1Pg.text" = "Nature";
+
+/* Class = "UILabel"; text = "场景色"; ObjectID = "W6E-fh-3NL"; */
+"W6E-fh-3NL.text" = "Scene color";
+
+/* Class = "UILabel"; text = "2700k"; ObjectID = "ZTK-bS-wso"; */
+"ZTK-bS-wso.text" = "2700k";
+
+/* Class = "UILabel"; text = "起床"; ObjectID = "d5C-Yb-LgL"; */
+"d5C-Yb-LgL.text" = "Wake-up";
+
+/* Class = "UILabel"; text = "清冷"; ObjectID = "fOs-wU-Aba"; */
+"fOs-wU-Aba.text" = "Chilly";
+
+/* Class = "UISegmentedControl"; hKT-ZS-gYk.segmentTitles[0] = "双色温"; ObjectID = "hKT-ZS-gYk"; */
+"hKT-ZS-gYk.segmentTitles[0]" = "Dichromatic temperature";
+
+/* Class = "UISegmentedControl"; hKT-ZS-gYk.segmentTitles[1] = "RGB"; ObjectID = "hKT-ZS-gYk"; */
+"hKT-ZS-gYk.segmentTitles[1]" = "RGB";
+
+/* Class = "UILabel"; text = "温暖"; ObjectID = "lpH-Kf-7I8"; */
+"lpH-Kf-7I8.text" = "Warm";
+
+/* Class = "UILabel"; text = "亮度"; ObjectID = "mPs-b0-OMe"; */
+"mPs-b0-OMe.text" = "Luminance";
+
+/* Class = "UILabel"; text = "50%"; ObjectID = "sa1-M1-cgT"; */
+"sa1-M1-cgT.text" = "50%";
+
+/* Class = "UILabel"; text = "1%"; ObjectID = "3Cf-hG-Lqg"; */
+"3Cf-hG-Lqg.text" = "1%";
+
+/* Class = "UILabel"; text = "颜色"; ObjectID = "8Jx-Mc-RPQ"; */
+"8Jx-Mc-RPQ.text" = "Color";
+
+/* Class = "UILabel"; text = "开启/关闭"; ObjectID = "Alj-rh-3Bh"; */
+"Alj-rh-3Bh.text" = "On/Off";
+
+/* Class = "UILabel"; text = "场景颜色"; ObjectID = "Ape-C1-D8P"; */
+"Ape-C1-D8P.text" = "Scene color";
+
+/* Class = "UILabel"; text = "亮度｜"; ObjectID = "DFj-yb-oJO"; */
+"DFj-yb-oJO.text" = "Luminance｜";
+
+/* Class = "UILabel"; text = "冷静"; ObjectID = "GMg-mo-ehd"; */
+"GMg-mo-ehd.text" = "Calm";
+
+/* Class = "UILabel"; text = "温暖"; ObjectID = "Idv-E6-vhK"; */
+"Idv-E6-vhK.text" = "Warm";
+
+/* Class = "UILabel"; text = "活泼"; ObjectID = "LFJ-fW-gsp"; */
+"LFJ-fW-gsp.text" = "Lively";
+
+/* Class = "UILabel"; text = "清冷"; ObjectID = "trZ-or-h7z"; */
+"trZ-or-h7z.text" = "Chilly";
+
+/* Class = "UILabel"; text = "热情"; ObjectID = "wGm-ki-ezQ"; */
+"wGm-ki-ezQ.text" = "Enthusiastic";
+
+/* Class = "UILabel"; text = "1%"; ObjectID = "68M-LO-ouT"; */
+"68M-LO-ouT.text" = "1%";
+
+/* Class = "UILabel"; text = "清冷"; ObjectID = "8ty-AX-GFn"; */
+"8ty-AX-GFn.text" = "Chilly";
+
+/* Class = "UILabel"; text = "颜色"; ObjectID = "9pQ-4d-xeC"; */
+"9pQ-4d-xeC.text" = "Color";
+
+/* Class = "UILabel"; text = "温暖"; ObjectID = "ESk-JG-FBc"; */
+"ESk-JG-FBc.text" = "Warm";
+
+/* Class = "UILabel"; text = "活泼"; ObjectID = "Ebc-aa-uq1"; */
+"Ebc-aa-uq1.text" = "Lively";
+
+/* Class = "UILabel"; text = "冷静"; ObjectID = "ZPs-ML-n5W"; */
+"ZPs-ML-n5W.text" = "Calm";
+
+/* Class = "UILabel"; text = "热情"; ObjectID = "iSg-bt-8jk"; */
+"iSg-bt-8jk.text" = "Enthusiastic";
+
+/* Class = "UILabel"; text = "开启/关闭"; ObjectID = "kRo-i4-c4o"; */
+"kRo-i4-c4o.text" = "On/Off";
+
+/* Class = "UILabel"; text = "场景颜色"; ObjectID = "wGM-5b-Puc"; */
+"wGM-5b-Puc.text" = "Scene color";
+
+/* Class = "UILabel"; text = "亮度｜"; ObjectID = "wso-vP-30X"; */
+"wso-vP-30X.text" = "Luminance｜";
+
+/* Class = "UILabel"; text = "清冷"; ObjectID = "44t-Eh-dO6"; */
+"44t-Eh-dO6.text" = "Chilly";
+
+/* Class = "UILabel"; text = "冷光(100%)"; ObjectID = "55g-zD-ifJ"; */
+"55g-zD-ifJ.text" = "Cold light(100%)";
+
+/* Class = "UILabel"; text = "开启/关闭"; ObjectID = "6yW-Vc-tKC"; */
+"6yW-Vc-tKC.text" = "On/Off";
+
+/* Class = "UILabel"; text = "起床"; ObjectID = "AA0-ig-sTV"; */
+"AA0-ig-sTV.text" = "Wake-up";
+
+/* Class = "UILabel"; text = "灯光情景"; ObjectID = "LHq-OS-hxE"; */
+"LHq-OS-hxE.text" = "Light scene";
+
+/* Class = "UILabel"; text = "自然"; ObjectID = "QCy-e1-UDI"; */
+"QCy-e1-UDI.text" = "Nature";
+
+/* Class = "UILabel"; text = "温暖"; ObjectID = "V7T-Lq-L7m"; */
+"V7T-Lq-L7m.text" = "Warm";
+
+/* Class = "UILabel"; text = "暖光(100%)"; ObjectID = "eBo-g1-a6c"; */
+"eBo-g1-a6c.text" = "Warm light(100%)";
+
+/* Class = "UILabel"; text = "温暖"; ObjectID = "4jl-1E-f4U"; */
+"4jl-1E-f4U.text" = "Warm";
+
+/* Class = "UILabel"; text = "灯光情景"; ObjectID = "Bmz-rc-fxo"; */
+"Bmz-rc-fxo.text" = "Light scene";
+
+/* Class = "UILabel"; text = "开启/关闭"; ObjectID = "GpK-nn-zDI"; */
+"GpK-nn-zDI.text" = "On/Off";
+
+/* Class = "UILabel"; text = "自然"; ObjectID = "Kuh-nM-JYA"; */
+"Kuh-nM-JYA.text" = "Nature";
+
+/* Class = "UILabel"; text = "冷光(100%)"; ObjectID = "QHI-aT-HM7"; */
+"QHI-aT-HM7.text" = "Cold light(100%)";
+
+/* Class = "UILabel"; text = "起床"; ObjectID = "WsT-Lm-JHA"; */
+"WsT-Lm-JHA.text" = "Wake-up";
+
+/* Class = "UILabel"; text = "清冷"; ObjectID = "YNQ-N9-itc"; */
+"YNQ-N9-itc.text" = "Chilly";
+
+/* Class = "UILabel"; text = "暖光(100%)"; ObjectID = "hN5-er-pqT"; */
+"hN5-er-pqT.text" = "Warm light(100%)";
+
+/* Class = "UILabel"; text = "已隐藏"; ObjectID = "OgK-zg-Tb0"; */
+"OgK-zg-Tb0.text" = "Hidden";
+
+/* Class = "UILabel"; text = "回家"; ObjectID = "sjb-mt-FSg"; */
+"sjb-mt-FSg.text" = "Return home";
+
+/* Class = "UILabel"; text = "按键名称"; ObjectID = "dLu-7I-FKE"; */
+"dLu-7I-FKE.text" = "Button name";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pze-54-Zyg"; */
+"pze-54-Zyg.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "阅读"; ObjectID = "1ej-Q5-4zD"; */
+"1ej-Q5-4zD.text" = "Reading";
+
+/* Class = "UILabel"; text = "会客"; ObjectID = "dS2-Ye-cG3"; */
+"dS2-Ye-cG3.text" = "Meeting guest";
+
+/* Class = "UILabel"; text = "用餐"; ObjectID = "irV-tr-vA7"; */
+"irV-tr-vA7.text" = "Dining";
+
+/* Class = "UILabel"; text = "离家"; ObjectID = "qnR-RA-Aqg"; */
+"qnR-RA-Aqg.text" = "Exit home";
+
+/* Class = "UILabel"; text = "观影"; ObjectID = "vZc-sY-PxZ"; */
+"vZc-sY-PxZ.text" = "Watch movie";
+
+/* Class = "UILabel"; text = "回家"; ObjectID = "wpd-SI-hSe"; */
+"wpd-SI-hSe.text" = "Return home";
+
+/* Class = "UILabel"; text = "灯光亮度"; ObjectID = "Ex1-xh-nnC"; */
+"Ex1-xh-nnC.text" = "Brightness";
+
+/* Class = "UILabel"; text = "开启/关闭"; ObjectID = "FxW-gy-DjJ"; */
+"FxW-gy-DjJ.text" = "On/Off";
+
+/* Class = "UILabel"; text = "颜色"; ObjectID = "Tiu-yL-Tpz"; */
+"Tiu-yL-Tpz.text" = "Color";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "bAR-BH-6cb"; */
+"bAR-BH-6cb.text" = "1";
+
+/* Class = "UILabel"; text = "灯光亮度"; ObjectID = "Qoz-vP-UTo"; */
+"Qoz-vP-UTo.text" = "Brightness";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Ryl-8V-Zri"; */
+"Ryl-8V-Zri.text" = "0";
+
+/* Class = "UILabel"; text = "颜色"; ObjectID = "s92-Yh-smb"; */
+"s92-Yh-smb.text" = "Color";
+
+/* Class = "UILabel"; text = "2020/06/22 08:00:00"; ObjectID = "7wX-ca-YOZ"; */
+"7wX-ca-YOZ.text" = "2020/06/22 08:00:00";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "ITK-dv-JMR"; */
+"ITK-dv-JMR.text" = "--";
+
+/* Class = "UILabel"; text = "温度(°C)"; ObjectID = "MTt-Wl-6sB"; */
+"MTt-Wl-6sB.text" = "Temperature(°C)";
+
+/* Class = "UILabel"; text = "湿度(%)"; ObjectID = "OUp-Gd-BKK"; */
+"OUp-Gd-BKK.text" = "Humidity(%)";
+
+/* Class = "UISegmentedControl"; ce7-Uy-Q00.segmentTitles[0] = "温度"; ObjectID = "ce7-Uy-Q00"; */
+"ce7-Uy-Q00.segmentTitles[0]" = "Temperature";
+
+/* Class = "UISegmentedControl"; ce7-Uy-Q00.segmentTitles[1] = "湿度"; ObjectID = "ce7-Uy-Q00"; */
+"ce7-Uy-Q00.segmentTitles[1]" = "Humidity";
+
+/* Class = "UIButton"; normalTitle = "近七天"; ObjectID = "d71-iB-gMA"; */
+"d71-iB-gMA.normalTitle" = "Within seven days";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "e6T-z3-qyc"; */
+"e6T-z3-qyc.text" = "--";
+
+/* Class = "UIButton"; normalTitle = "当天"; ObjectID = "ogb-Bi-Zdi"; */
+"ogb-Bi-Zdi.normalTitle" = "The day";
+
+/* Class = "UILabel"; text = "50"; ObjectID = "BOB-58-D9A"; */
+"BOB-58-D9A.text" = "50";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "Bmj-P3-BXw"; */
+"Bmj-P3-BXw.text" = "100";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "I5J-Ou-ezq"; */
+"I5J-Ou-ezq.text" = "0";
+
+/* Class = "UILabel"; text = "音量"; ObjectID = "Uad-VU-h1F"; */
+"Uad-VU-h1F.text" = "Volume";
+
+/* Class = "UIButton"; normalTitle = "关"; ObjectID = "4iI-le-joH"; */
+"4iI-le-joH.normalTitle" = "Off";
+
+/* Class = "UILabel"; text = "自动"; ObjectID = "7bO-I9-EUA"; */
+"7bO-I9-EUA.text" = "Auto";
+
+/* Class = "UILabel"; text = "定时"; ObjectID = "I1J-Rn-SL1"; */
+"I1J-Rn-SL1.text" = "Timer";
+
+/* Class = "UILabel"; text = "制热"; ObjectID = "Jgm-kf-oWI"; */
+"Jgm-kf-oWI.text" = "Heating";
+
+/* Class = "UIButton"; normalTitle = "睡眠"; ObjectID = "Jqo-zy-9RC"; */
+"Jqo-zy-9RC.normalTitle" = "Sleep";
+
+/* Class = "UILabel"; text = "扫风"; ObjectID = "YaU-ch-RmE"; */
+"YaU-ch-RmE.text" = "Scavenging";
+
+/* Class = "UILabel"; text = "中"; ObjectID = "e2z-Rn-GhR"; */
+"e2z-Rn-GhR.text" = "Middle";
+
+/* Class = "UILabel"; text = "送风"; ObjectID = "f5c-lL-4DH"; */
+"f5c-lL-4DH.text" = "Blowing-in";
+
+/* Class = "UILabel"; text = "模式"; ObjectID = "nda-p9-Jir"; */
+"nda-p9-Jir.text" = "Mode";
+
+/* Class = "UILabel"; text = "除湿"; ObjectID = "rgy-fP-1VR"; */
+"rgy-fP-1VR.text" = "Arefaction";
+
+/* Class = "UILabel"; text = "自动"; ObjectID = "tW8-Cu-fLX"; */
+"tW8-Cu-fLX.text" = "Auto";
+
+/* Class = "UILabel"; text = "风速"; ObjectID = "taU-FJ-48f"; */
+"taU-FJ-48f.text" = "Wind speed";
+
+/* Class = "UILabel"; text = "制冷"; ObjectID = "vKP-Qb-nbl"; */
+"vKP-Qb-nbl.text" = "Refrigeration";
+
+/* Class = "UILabel"; text = "低"; ObjectID = "voi-qN-RIR"; */
+"voi-qN-RIR.text" = "Low";
+
+/* Class = "UIButton"; normalTitle = "开"; ObjectID = "yc1-Ie-3eg"; */
+"yc1-Ie-3eg.normalTitle" = "On";
+
+/* Class = "UILabel"; text = "高"; ObjectID = "z0p-NE-Wma"; */
+"z0p-NE-Wma.text" = "High";
+
+/* Class = "UILabel"; text = "正在匹配中..."; ObjectID = "mdT-jn-Gqj"; */
+"mdT-jn-Gqj.text" = "Matching...";
+
+/* Class = "UILabel"; text = "将手中的原始空调遥控器对准设备后，按下遥控器的开关键，系统会自动找到最匹配的遥控器。"; ObjectID = "tVz-X8-E6S"; */
+"tVz-X8-E6S.text" = "After aligning the original air conditioning remote control in your hand with the device, press the on button on the remote control, and the system will automatically find the most matching remote control.";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "1Jj-Al-UhS"; */
+"1Jj-Al-UhS.text" = "30";
+
+/* Class = "UIButton"; normalTitle = "添加遥控器"; ObjectID = "2Rb-Wj-5qq"; */
+"2Rb-Wj-5qq.normalTitle" = "Add remote control";
+
+/* Class = "UILabel"; text = "°C"; ObjectID = "3ax-PV-k6e"; */
+"3ax-PV-k6e.text" = "°C";
+
+/* Class = "UIButton"; normalTitle = "退出"; ObjectID = "98Y-Yh-hzf"; */
+"98Y-Yh-hzf.normalTitle" = "Exit";
+
+/* Class = "UILabel"; text = "将会在1小时后关闭空调"; ObjectID = "BJw-Nf-jR1"; */
+"BJw-Nf-jR1.text" = "1 hour later, the air conditioner will be turned off";
+
+/* Class = "UILabel"; text = "26"; ObjectID = "FSR-MR-lwE"; */
+"FSR-MR-lwE.text" = "26";
+
+/* Class = "UILabel"; text = "16"; ObjectID = "HXl-hy-Jfe"; */
+"HXl-hy-Jfe.text" = "16";
+
+/* Class = "UIButton"; normalTitle = "开启定时"; ObjectID = "KqT-xD-w1r"; */
+"KqT-xD-w1r.normalTitle" = "Open timing";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "Lyh-dD-FDf"; */
+"Lyh-dD-FDf.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "制冷"; ObjectID = "Nsp-Gg-jXh"; */
+"Nsp-Gg-jXh.text" = "Refrigeration";
+
+/* Class = "UILabel"; text = "设置定时时间"; ObjectID = "Oyu-DI-xEt"; */
+"Oyu-DI-xEt.text" = "Set count down time";
+
+/* Class = "UILabel"; text = "1小时"; ObjectID = "Qnl-vL-gb9"; */
+"Qnl-vL-gb9.text" = "1 hour";
+
+/* Class = "UILabel"; text = "低风速"; ObjectID = "bWM-pH-KKd"; */
+"bWM-pH-KKd.text" = "Low wind speed";
+
+/* Class = "UILabel"; text = "扫风开"; ObjectID = "dho-77-77m"; */
+"dho-77-77m.text" = "Scavenging on";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "ekX-fI-mci"; */
+"ekX-fI-mci.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "还未匹配空调"; ObjectID = "hPQ-wr-9hY"; */
+"hPQ-wr-9hY.text" = "Not match with Air-conditioner";
+
+/* Class = "UISegmentedControl"; nmF-uH-PRb.segmentTitles[0] = "空调"; ObjectID = "nmF-uH-PRb"; */
+"nmF-uH-PRb.segmentTitles[0]" = "Air-conditioner";
+
+/* Class = "UISegmentedControl"; nmF-uH-PRb.segmentTitles[1] = "口令"; ObjectID = "nmF-uH-PRb"; */
+"nmF-uH-PRb.segmentTitles[1]" = "Command";
+
+/* Class = "UISegmentedControl"; nmF-uH-PRb.segmentTitles[2] = "电视"; ObjectID = "nmF-uH-PRb"; */
+"nmF-uH-PRb.segmentTitles[2]" = "TV";
+
+/* Class = "UILabel"; text = "CH"; ObjectID = "1zE-SF-EMe"; */
+"1zE-SF-EMe.text" = "CH";
+
+/* Class = "UILabel"; text = "只能选择自定义键"; ObjectID = "2F0-ad-MjZ"; */
+"2F0-ad-MjZ.text" = "Only select customized key";
+
+/* Class = "UILabel"; text = "自定义键（长按可编辑名称）"; ObjectID = "9sd-7D-mpk"; */
+"9sd-7D-mpk.text" = "Customized key (long press to edit name)";
+
+/* Class = "UILabel"; text = "匹配指引"; ObjectID = "PrB-Px-gdk"; */
+"PrB-Px-gdk.text" = "Match instruction";
+
+/* Class = "UILabel"; text = "请对空调伴侣说“匹配电视”，将手中的原始遥控器对准设备后，根据语音提示，依次按下遥控器按键，系统会自动学习。"; ObjectID = "Rbq-Pa-TyS"; */
+"Rbq-Pa-TyS.text" = "Please say \"match TV\" to the air-conditioning controller, align the original remote control in your hand with the device, press remote control keys in turn according to the voice prompt, and the system will automatically learn.";
+
+/* Class = "UILabel"; text = "VOL"; ObjectID = "fGr-iy-yde"; */
+"fGr-iy-yde.text" = "VOL";
+
+/* Class = "UILabel"; text = "自定义键1"; ObjectID = "KVv-Xl-g7U"; */
+"KVv-Xl-g7U.text" = "Customized key1";
+
+/* Class = "UILabel"; text = "设置频道号（请不要超过3位数）"; ObjectID = "74L-a4-qhe"; */
+"74L-a4-qhe.text" = "Set the channel number (please do not exceed 3 digits)";
+
+/* Class = "UIButton"; normalTitle = "新闻频道"; ObjectID = "EXM-vG-qKj"; */
+"EXM-vG-qKj.normalTitle" = "News channel";
+
+/* Class = "UILabel"; text = "学习口令备注"; ObjectID = "jX6-gz-fy7"; */
+"jX6-gz-fy7.text" = "Learn command remarks";
+
+/* Class = "UILabel"; text = "1、手拉启动或点击下方“开”按钮，等待窗帘完全打开"; ObjectID = "J2H-lq-nMe"; */
+"J2H-lq-nMe.text" = "1. Start manually or click the “Open” button below, and wait for the curtain to fully open";
+
+/* Class = "UIButton"; normalTitle = "完成"; ObjectID = "NSs-yV-9Rc"; */
+"NSs-yV-9Rc.normalTitle" = "Done";
+
+/* Class = "UIButton"; normalTitle = "开"; ObjectID = "TFK-er-jVY"; */
+"TFK-er-jVY.normalTitle" = "Open";
+
+/* Class = "UIButton"; normalTitle = "关"; ObjectID = "fO4-F0-3Df"; */
+"fO4-F0-3Df.normalTitle" = "Close";
+
+/* Class = "UILabel"; text = "3、以上两步确认无误后，设置行程完成"; ObjectID = "nhB-de-nAW"; */
+"nhB-de-nAW.text" = "3. After the above two steps are confirmed to be correct, the itinerary setting is complete.";
+
+/* Class = "UILabel"; text = "窗帘完全打开并完全关闭各一次，电机将记住窗帘的运行轨迹，从而生成窗帘行程"; ObjectID = "p3j-gv-6Vz"; */
+"p3j-gv-6Vz.text" = "When the curtain is fully open and fully closed once, the motor will remember the running track of the curtain, thus it will generate the curtain travel";
+
+/* Class = "UILabel"; text = "2、手拉启动或点击下方“关”按钮，等待窗帘完全关闭"; ObjectID = "pTc-vF-rI3"; */
+"pTc-vF-rI3.text" = "2. Start manually or click the “Close” button below, and wait for the curtain to fully close";
+
+/* Class = "UILabel"; text = "窗帘开至1%"; ObjectID = "ZRl-57-6Rg"; */
+"ZRl-57-6Rg.text" = "Curtain open to 1%";
+
+/* Class = "UILabel"; text = "设置行程"; ObjectID = "7hg-js-quQ"; */
+"7hg-js-quQ.text" = "Set the itinerary";
+
+/* Class = "UILabel"; text = "长按上行键，直至窗帘到达上限位点后松开，位置确定后，点击“确定上限位”；同理，长按下行键，直至窗帘到达下限位点后松开，位置确定后，点击“确定下限位”。行程即设置完成。"; ObjectID = "8Vb-sh-LXr"; */
+"8Vb-sh-LXr.text" = "Press and hold the up button until the curtain reaches the upper limit position. After the position is determined, click \"Confirm the upper limit position\". Similarly, press and hold the down key until the curtain reaches the lower limit position. After the position is determined, click \"Confirm the lower limit position\". The travel is set.";
+
+/* Class = "UIButton"; normalTitle = "下行键"; ObjectID = "Hc1-bf-BVN"; */
+"Hc1-bf-BVN.normalTitle" = "Down button";
+
+/* Class = "UIButton"; normalTitle = "确定上限位"; ObjectID = "RC6-9W-i5I"; */
+"RC6-9W-i5I.normalTitle" = "Confirm upper limit position";
+
+/* Class = "UILabel"; text = "注：上、下限位设置无先后之分，当上、下限位都确定后，则窗帘行程设置完毕。"; ObjectID = "aag-h4-UTy"; */
+"aag-h4-UTy.text" = "Note: there is no difference between the upper and lower limit settings. When the upper and lower limit are determined, the curtain travel is set.";
+
+/* Class = "UIButton"; normalTitle = "确定下限位"; ObjectID = "fPI-mJ-JBO"; */
+"fPI-mJ-JBO.normalTitle" = "Confirm lower limit position";
+
+/* Class = "UIButton"; normalTitle = "上行键"; ObjectID = "jkA-ol-PSL"; */
+"jkA-ol-PSL.normalTitle" = "Up button";
+
+/* Class = "UILabel"; text = "将窗帘调节到所需的上下限位置并确定，电机将记住窗帘上下限位置，从而生成窗帘行程。"; ObjectID = "kf1-b8-idE"; */
+"kf1-b8-idE.text" = "Adjust the curtain to the required upper and lower limit positions and confirm, then the motor will remember the upper and lower limit positions of the curtain, thus it will generate the curtain travel.";
+
+/* Class = "UIButton"; normalTitle = "完成"; ObjectID = "sRd-9G-gmc"; */
+"sRd-9G-gmc.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "定点"; ObjectID = "2Ss-AY-ZMG"; */
+"2Ss-AY-ZMG.text" = "Fixed point";
+
+/* Class = "UILabel"; text = "回充"; ObjectID = "AWI-gT-FR5"; */
+"AWI-gT-FR5.text" = "Return to charge";
+
+/* Class = "UILabel"; text = "20min"; ObjectID = "H2q-r2-zot"; */
+"H2q-r2-zot.text" = "20min";
+
+/* Class = "UILabel"; text = "沿边"; ObjectID = "J0d-MG-bp8"; */
+"J0d-MG-bp8.text" = "Edgewise";
+
+/* Class = "UILabel"; text = "剩余电量"; ObjectID = "Jhj-Og-5rA"; */
+"Jhj-Og-5rA.text" = "Remaining";
+
+/* Class = "UILabel"; text = "清扫面积"; ObjectID = "QEu-4O-enw"; */
+"QEu-4O-enw.text" = "Sweeping area";
+
+/* Class = "UILabel"; text = "清扫开关"; ObjectID = "RzY-0o-jHz"; */
+"RzY-0o-jHz.text" = "Sweeper switch";
+
+/* Class = "UILabel"; text = "清扫时间"; ObjectID = "TDg-8E-DkM"; */
+"TDg-8E-DkM.text" = "Sweeping time";
+
+/* Class = "UILabel"; text = "模式"; ObjectID = "X3N-vb-P7o"; */
+"X3N-vb-P7o.text" = "Mode";
+
+/* Class = "UILabel"; text = "99%"; ObjectID = "d0Y-Sp-UXr"; */
+"d0Y-Sp-UXr.text" = "99%";
+
+/* Class = "UILabel"; text = "自动清扫"; ObjectID = "ixD-Wm-K86"; */
+"ixD-Wm-K86.text" = "Automatic sweeping";
+
+/* Class = "UIButton"; normalTitle = "寻找主机"; ObjectID = "jcP-ep-98n"; */
+"jcP-ep-98n.normalTitle" = "Search master";
+
+/* Class = "UILabel"; text = "待机"; ObjectID = "ngK-1X-XUa"; */
+"ngK-1X-XUa.text" = "Standby";
+
+/* Class = "UILabel"; text = "自动"; ObjectID = "s5C-HX-gFN"; */
+"s5C-HX-gFN.text" = "Auto";
+
+/* Class = "UIButton"; normalTitle = "手动模式"; ObjectID = "ut5-g7-CbU"; */
+"ut5-g7-CbU.normalTitle" = "Manual mode";
+
+/* Class = "UILabel"; text = "0m²"; ObjectID = "zbF-AT-9U0"; */
+"zbF-AT-9U0.text" = "0m²";
+
+/* Class = "UILabel"; text = "沿边"; ObjectID = "0DC-Sf-H6l"; */
+"0DC-Sf-H6l.text" = "Edgewise";
+
+/* Class = "UILabel"; text = "定点"; ObjectID = "S1o-4X-RQ3"; */
+"S1o-4X-RQ3.text" = "Fixed point";
+
+/* Class = "UILabel"; text = "回充"; ObjectID = "gbO-kb-ssd"; */
+"gbO-kb-ssd.text" = "Return to charge";
+
+/* Class = "UILabel"; text = "模式"; ObjectID = "hnQ-1x-XCd"; */
+"hnQ-1x-XCd.text" = "Mode";
+
+/* Class = "UILabel"; text = "自动"; ObjectID = "k2S-qO-fcC"; */
+"k2S-qO-fcC.text" = "Auto";
+
+/* Class = "UILabel"; text = "0.0度"; ObjectID = "5Nk-Ms-NSU"; */
+"5Nk-Ms-NSU.text" = "0.0Degree";
+
+/* Class = "UILabel"; text = "本月用电"; ObjectID = "6Z4-nl-rsg"; */
+"6Z4-nl-rsg.text" = "The month electricity consumption";
+
+/* Class = "UILabel"; text = "00:30"; ObjectID = "6fs-HX-1fZ"; */
+"6fs-HX-1fZ.text" = "00:30";
+
+/* Class = "UILabel"; text = "0.0度"; ObjectID = "Han-dH-pxD"; */
+"Han-dH-pxD.text" = "0.0Degree";
+
+/* Class = "UILabel"; text = "当前功率"; ObjectID = "Ipn-S9-UIJ"; */
+"Ipn-S9-UIJ.text" = "Current power";
+
+/* Class = "UILabel"; text = "开关"; ObjectID = "Zbb-Kc-4AO"; */
+"Zbb-Kc-4AO.text" = "Switch";
+
+/* Class = "UILabel"; text = "延时时间"; ObjectID = "b7T-rQ-JtG"; */
+"b7T-rQ-JtG.text" = "Delay time";
+
+/* Class = "UIButton"; configuration.title = "确定"; ObjectID = "bUx-vp-Uwq"; */
+"bUx-vp-Uwq.configuration.title" = "Confirm";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bUx-vp-Uwq"; */
+"bUx-vp-Uwq.normalTitle" = "Confirm";
+
+/* Class = "UILabel"; text = "今日用电"; ObjectID = "fxd-Ro-eSZ"; */
+"fxd-Ro-eSZ.text" = "Today electricity consumption";
+
+/* Class = "UILabel"; text = "0.0W"; ObjectID = "gNe-Qp-H6t"; */
+"gNe-Qp-H6t.text" = "0.0W";
+
+/* Class = "UILabel"; text = "延时关闭"; ObjectID = "vOn-8x-HeH"; */
+"vOn-8x-HeH.text" = "Delayed off";
+
+/* Class = "UIButton"; configuration.title = "取消"; ObjectID = "zQe-Nc-GBP"; */
+"zQe-Nc-GBP.configuration.title" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zQe-Nc-GBP"; */
+"zQe-Nc-GBP.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "2022-01-01"; ObjectID = "BhY-Am-27I"; */
+"BhY-Am-27I.normalTitle" = "2022-01-01";
+
+/* Class = "UILabel"; text = "今日用电量"; ObjectID = "LGj-u3-Jvm"; */
+"LGj-u3-Jvm.text" = "Today electricity consumption";
+
+/* Class = "UILabel"; text = "1.3度"; ObjectID = "Rax-At-yAP"; */
+"Rax-At-yAP.text" = "1.3Degree";
+
+/* Class = "UIButton"; normalTitle = "月"; ObjectID = "acQ-3B-r9d"; */
+"acQ-3B-r9d.normalTitle" = "Month";
+
+/* Class = "UIButton"; normalTitle = "年"; ObjectID = "cqB-ya-ody"; */
+"cqB-ya-ody.normalTitle" = "Year";
+
+/* Class = "UIButton"; normalTitle = "日"; ObjectID = "uZD-b2-T7x"; */
+"uZD-b2-T7x.normalTitle" = "Day";
+
+/* Class = "UIButton"; normalTitle = "满足其一条件时"; ObjectID = "YdL-5m-kPw"; */
+"YdL-5m-kPw.normalTitle" = "When meet one condition";
+
+/* Class = "UILabel"; text = "打开"; ObjectID = "g9n-se-i6M"; */
+"g9n-se-i6M.text" = "Open";
+
+/* Class = "UILabel"; text = "分"; ObjectID = "eHC-Dp-Wtn"; */
+"eHC-Dp-Wtn.text" = "Min";
+
+/* Class = "UIButton"; normalTitle = "取消"; ObjectID = "rkt-9S-CIn"; */
+"rkt-9S-CIn.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "xM9-dR-gVs"; */
+"xM9-dR-gVs.normalTitle" = "Confirm";
+
+/* Class = "UIButton"; normalTitle = "全开"; ObjectID = "9Ge-qi-9NP"; */
+"9Ge-qi-9NP.normalTitle" = "All turn on";
+
+/* Class = "UIButton"; normalTitle = "全关"; ObjectID = "Eic-x6-U05"; */
+"Eic-x6-U05.normalTitle" = "All turn off";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lCC-Sj-WWM"; */
+"lCC-Sj-WWM.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "删除灯控组"; ObjectID = "BeA-cD-dGz"; */
+"BeA-cD-dGz.normalTitle" = "Delete light control group";
+
+/* Class = "UIButton"; normalTitle = "灯控设备同步状态"; ObjectID = "fZw-dA-QSf"; */
+"fZw-dA-QSf.normalTitle" = "Sync status of light control devices";
+
+/* Class = "UILabel"; text = "4、添加过程中保持连接设备热点"; ObjectID = "H2t-8Q-YO8"; */
+"H2t-8Q-YO8.text" = "4- Keep the mobile phone connected to the device's WiFi in the process of adding the device.";
+
+/* Class = "UILabel"; text = "3、选择“IPCXXX”设备热点，默认密码：11111111"; ObjectID = "c2u-Wq-KA1"; */
+"c2u-Wq-KA1.text" = "3- Select device WiFi 'IPCXX' and default password: 11111111";
+
+/* Class = "UILabel"; text = "1、设备上电后，若蓝色指示灯未闪烁，请长按Reset键，发出“叮”的一声后，稍等片刻，待设备向四周巡航后，表示复位完成"; ObjectID = "gTm-Jl-WkR"; */
+"gTm-Jl-WkR.text" = "1- After powering on the device, please long press the Reset button if the blue LED is not blicking. Wait for a moment after hearing a 'Ding' sound, and the device will navigate a cruise then the reset process is complete.";
+
+/* Class = "UILabel"; text = "5、连接成功后，返回APP"; ObjectID = "j7T-Hg-1RZ"; */
+"j7T-Hg-1RZ.text" = "5- After it's connected, return to the APP";
+
+/* Class = "UILabel"; text = "2、打开设置>选择WLAN，将手机无线网络连接到设备热点"; ObjectID = "jgN-2B-kct"; */
+"jgN-2B-kct.text" = "2- Open settings> select WLAN, and connect to the device's WiFi";
+
+/* Class = "UILabel"; text = "前往设置"; ObjectID = "rgK-07-e8M"; */
+"rgK-07-e8M.text" = "Go to settings";
+
+/* Class = "UILabel"; text = "请输入家中WiFi的账号密码:"; ObjectID = "GOu-l8-yRY"; */
+"GOu-l8-yRY.text" = "Enter WiFi's password:";
+
+/* Class = "UILabel"; text = "手机已连接设备WiFi: IPCS5BA4156710879"; ObjectID = "Qk7-zw-LVS"; */
+"Qk7-zw-LVS.text" = "Mobile is connected to WiFi:XXXXX";
+
+/* Class = "UILabel"; text = "下一步"; ObjectID = "kn5-6A-y1G"; */
+"kn5-6A-y1G.text" = "Next step";
+
+/* Class = "UILabel"; text = "请选择2.4 GHz WIFI网络并输入密码，暂不支持使用5 GHz WiFi网络。"; ObjectID = "uXX-pl-hdl"; */
+"uXX-pl-hdl.text" = "Please select a 2.4 GHz WIFI network and enter the password. 5 GHz WiFi network is not supported for now.";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "K97-QW-hDl"; */
+"K97-QW-hDl.text" = "1";
+
+/* Class = "UILabel"; text = "2、连接大约需要1-2分钟，请勿断开网络；"; ObjectID = "UfU-hL-SBx"; */
+"UfU-hL-SBx.text" = "2-  Don't disconnect the network, it will take 1-2 minutes.";
+
+/* Class = "UILabel"; text = "连接中..."; ObjectID = "bj5-xm-Kmn"; */
+"bj5-xm-Kmn.text" = "Connecting...";
+
+/* Class = "UILabel"; text = "1、路由器、手机、摄像机尽量靠近； "; ObjectID = "ga6-0I-KJW"; */
+"ga6-0I-KJW.text" = "1- keep Router, mobile phone, and camera close as possible.";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "tde-1b-RQj"; */
+"tde-1b-RQj.text" = "%";
+
+/* Class = "UILabel"; text = "3、配网过程中请勿离开此页面，否则会导致配网失败！！！"; ObjectID = "tu3-gL-crw"; */
+"tu3-gL-crw.text" = "3-  Please don't leave this interface when connecting, otherwise it will fail";
+
+/* Class = "UILabel"; text = "正在配置，请勿断开网络！"; ObjectID = "vea-w4-wbA"; */
+"vea-w4-wbA.text" = "In the process of connecting, please don't disconnect the network!";
+
+/* Class = "UILabel"; text = "设置设备名称："; ObjectID = "1Hn-zS-fy1"; */
+"1Hn-zS-fy1.text" = "Set device name:";
+
+/* Class = "UILabel"; text = "网络配置成功"; ObjectID = "4f0-iG-ND4"; */
+"4f0-iG-ND4.text" = "Network setting is done";
+
+/* Class = "UITextField"; text = "摄像机"; ObjectID = "A0n-Qb-F24"; */
+"A0n-Qb-F24.text" = "Camera";
+
+/* Class = "UILabel"; text = "添加到设备列表"; ObjectID = "ab6-5b-744"; */
+"ab6-5b-744.text" = "Add to device list";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "0DJ-qc-wxZ"; */
+"0DJ-qc-wxZ.normalTitle" = "Next step";
+
+/* Class = "UILabel"; text = "开启摄像机"; ObjectID = "Dri-os-m4d"; */
+"Dri-os-m4d.text" = "开启摄像机";
+
+/* Class = "UILabel"; text = "保持摄像机处于开机状态，查看摄像机指示灯是否闪烁，如果指示灯没有闪烁，请长按Reset键重置。"; ObjectID = "k9g-7P-nPS"; */
+"k9g-7P-nPS.text" = "保持摄像机处于开机状态，查看摄像机指示灯是否闪烁，如果指示灯没有闪烁，请长按Reset键重置。";
+
+/* Class = "UILabel"; text = "设备指示灯已闪烁"; ObjectID = "ld3-le-sdp"; */
+"ld3-le-sdp.text" = "设备指示灯已闪烁";
+
+/* Class = "UIButton"; normalTitle = "标清"; ObjectID = "9EX-fZ-TRv"; */
+"9EX-fZ-TRv.normalTitle" = "Standard definition";
+
+/* Class = "UILabel"; text = "云台校准"; ObjectID = "CsG-as-rHH"; */
+"CsG-as-rHH.text" = "PTZ calibration";
+
+/* Class = "UILabel"; text = "自动夜视"; ObjectID = "Emf-AS-TwR"; */
+"Emf-AS-TwR.text" = "Automatic night vision";
+
+/* Class = "UILabel"; text = "相册"; ObjectID = "FPG-0x-sph"; */
+"FPG-0x-sph.text" = "Album";
+
+/* Class = "UILabel"; text = "消息"; ObjectID = "J6q-lj-zZy"; */
+"J6q-lj-zZy.text" = "Message";
+
+/* Class = "UILabel"; text = "更多"; ObjectID = "JtE-XL-wNK"; */
+"JtE-XL-wNK.text" = "More";
+
+/* Class = "UILabel"; text = "报警器"; ObjectID = "brZ-Cq-niM"; */
+"brZ-Cq-niM.text" = "Alarm";
+
+/* Class = "UILabel"; text = "移动追踪"; ObjectID = "mVQ-ay-aMd"; */
+"mVQ-ay-aMd.text" = "Motion detection";
+
+/* Class = "UILabel"; text = "更多设置"; ObjectID = "pU1-xs-KOz"; */
+"pU1-xs-KOz.text" = "More setting";
+
+/* Class = "UILabel"; text = "智能侦测"; ObjectID = "ryn-KZ-EWb"; */
+"ryn-KZ-EWb.text" = "Smart detection";
+
+/* Class = "UILabel"; text = "巡航"; ObjectID = "sC0-2n-zjy"; */
+"sC0-2n-zjy.text" = "Navigate";
+
+/* Class = "UIButton"; normalTitle = "标清"; ObjectID = "wzR-Pn-28n"; */
+"wzR-Pn-28n.normalTitle" = "Standard definition";
+
+/* Class = "UIButton"; normalTitle = "标清"; ObjectID = "HJh-tc-t4g"; */
+"HJh-tc-t4g.normalTitle" = "Standard definition";
+
+/* Class = "UILabel"; text = "视频画质选择"; ObjectID = "eTm-4s-lUT"; */
+"eTm-4s-lUT.text" = "Image quality selection";
+
+/* Class = "UIButton"; normalTitle = "高清"; ObjectID = "w24-os-geG"; */
+"w24-os-geG.normalTitle" = "High definition";
+
+/* Class = "UILabel"; text = "添加设备"; ObjectID = "zOJ-1k-qkE"; */
+"zOJ-1k-qkE.text" = "Add a device";
+
+/* Class = "UIButton"; highlightedTitle = "扫描二维码"; ObjectID = "5jo-KB-r3m"; */
+"5jo-KB-r3m.highlightedTitle" = "Scan QR code";
+
+/* Class = "UIButton"; normalTitle = "扫描二维码"; ObjectID = "5jo-KB-r3m"; */
+"5jo-KB-r3m.normalTitle" = "Scan QR code";
+
+/* Class = "UIButton"; normalTitle = "摄像机扫描二维码2"; ObjectID = "7u8-hL-6lN"; */
+"7u8-hL-6lN.normalTitle" = "摄像机扫描二维码";
+
+/* Class = "UIButton"; normalTitle = "连接设备热点"; ObjectID = "LNR-Hl-iyt"; */
+"LNR-Hl-iyt.normalTitle" = "Connect device WiFi";
+
+/* Class = "UILabel"; text = "NVR添加方式："; ObjectID = "NLL-rq-2nS"; */
+"NLL-rq-2nS.text" = "Adding NVR methods:";
+
+/* Class = "UILabel"; text = "摇头机添加方式："; ObjectID = "UVA-IP-GJf"; */
+"UVA-IP-GJf.text" = "Adding method for PTZ camera:";
+
+/* Class = "UIButton"; highlightedTitle = "局域网搜索"; ObjectID = "ksp-Xu-29Q"; */
+"ksp-Xu-29Q.highlightedTitle" = "局域网搜索";
+
+/* Class = "UIButton"; normalTitle = "局域网搜索"; ObjectID = "ksp-Xu-29Q"; */
+"ksp-Xu-29Q.normalTitle" = "局域网搜索";
+
+/* Class = "UILabel"; text = "电池版摄像机添加方式："; ObjectID = "zLo-Iq-Qwv"; */
+"zLo-Iq-Qwv.text" = "电池版摄像机添加方式：";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6FY-jn-ZTp"; */
+"6FY-jn-ZTp.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TfU-Hd-Q8V"; */
+"TfU-Hd-Q8V.text" = "Label";
+
+/* Class = "UISegmentedControl"; nQ8-U4-3hG.segmentTitles[0] = "布防"; ObjectID = "nQ8-U4-3hG"; */
+"nQ8-U4-3hG.segmentTitles[0]" = "Arm";
+
+/* Class = "UISegmentedControl"; nQ8-U4-3hG.segmentTitles[1] = "撤防"; ObjectID = "nQ8-U4-3hG"; */
+"nQ8-U4-3hG.segmentTitles[1]" = "Disarm";
+
+/* Class = "UISegmentedControl"; 5zv-5N-W4y.segmentTitles[0] = "设备控制"; ObjectID = "5zv-5N-W4y"; */
+"5zv-5N-W4y.segmentTitles[0]" = "Device control";
+
+/* Class = "UISegmentedControl"; 5zv-5N-W4y.segmentTitles[1] = "场景控制"; ObjectID = "5zv-5N-W4y"; */
+"5zv-5N-W4y.segmentTitles[1]" = "Scene control";
+
+/* Class = "UILabel"; text = "请选择操作"; ObjectID = "Ec8-ai-KmP"; */
+"Ec8-ai-KmP.text" = "Please select an operation";
+
+/* Class = "UIButton"; normalTitle = "取消"; ObjectID = "gv6-hc-wUr"; */
+"gv6-hc-wUr.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "显示密码"; ObjectID = "8Pl-mm-eXD"; */
+"8Pl-mm-eXD.normalTitle" = "显示密码";
+
+/* Class = "UITextField"; placeholder = "请输入旧密码"; ObjectID = "BER-ap-bxl"; */
+"BER-ap-bxl.placeholder" = "请输入旧密码";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "PMc-hn-LuM"; */
+"PMc-hn-LuM.normalTitle" = "Confirm";
+
+/* Class = "UILabel"; text = "旧密码："; ObjectID = "enN-0O-zoM"; */
+"enN-0O-zoM.text" = "旧密码：";
+
+/* Class = "UILabel"; text = "确认密码："; ObjectID = "iIN-jq-XFl"; */
+"iIN-jq-XFl.text" = "确认密码：";
+
+/* Class = "UILabel"; text = "新密码："; ObjectID = "qxe-UQ-awP"; */
+"qxe-UQ-awP.text" = "新密码：";
+
+/* Class = "UITextField"; placeholder = "请再次输入新密码"; ObjectID = "t88-CR-uRM"; */
+"t88-CR-uRM.placeholder" = "请再次输入新密码";
+
+/* Class = "UITextField"; placeholder = "6-16位，若包含字母，请注意大小写"; ObjectID = "tXj-NU-331"; */
+"tXj-NU-331.placeholder" = "6-16位，若包含字母，请注意大小写";
+
+/* Class = "UITextField"; placeholder = "请输入对方账号"; ObjectID = "5Im-fN-ueL"; */
+"5Im-fN-ueL.placeholder" = "Please enter account number";
+
+/* Class = "UILabel"; text = "方式一：扫码添加"; ObjectID = "82E-Ji-zVB"; */
+"82E-Ji-zVB.text" = "Method 1: Scan QR code to add";
+
+/* Class = "UILabel"; text = "方式二：账号添加"; ObjectID = "GZG-sR-xcj"; */
+"GZG-sR-xcj.text" = "Method 2: Enter account number to add";
+
+/* Class = "UIButton"; normalTitle = "查找添加"; ObjectID = "dzp-Ji-Fxc"; */
+"dzp-Ji-Fxc.normalTitle" = "Search to add";
+
+/* Class = "UIButton"; normalTitle = "删除成员"; ObjectID = "1f9-ve-tyF"; */
+"1f9-ve-tyF.normalTitle" = "Delete member";
+
+/* Class = "UILabel"; text = "设定剩余时长"; ObjectID = "dzf-H9-Rhi"; */
+"dzf-H9-Rhi.text" = "Set the remaining time";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "ruq-9c-vsQ"; */
+"ruq-9c-vsQ.normalTitle" = "Confirm";
+
+/* Class = "UILabel"; text = "账号："; ObjectID = "5th-wK-cDS"; */
+"5th-wK-cDS.text" = "Account：";
+
+/* Class = "UILabel"; text = "13812345678"; ObjectID = "8RU-ed-V9L"; */
+"8RU-ed-V9L.text" = "13812345678";
+
+/* Class = "UILabel"; text = "未设置"; ObjectID = "Fkk-Kg-VcR"; */
+"Fkk-Kg-VcR.text" = "Not set";
+
+/* Class = "UILabel"; text = "昵称："; ObjectID = "dX4-ie-8d8"; */
+"dX4-ie-8d8.text" = "Nickname：";
+
+/* Class = "UILabel"; text = "扫一扫上面的二维码，邀请我成为家庭成员"; ObjectID = "gqg-m9-cmE"; */
+"gqg-m9-cmE.text" = "Scan another QR code and invite he/she to become a family member";
+
+/* Class = "UILabel"; text = "账号"; ObjectID = "2sQ-xG-YL9"; */
+"2sQ-xG-YL9.text" = "Account";
+
+/* Class = "UILabel"; text = "昵称"; ObjectID = "5sU-WX-0BG"; */
+"5sU-WX-0BG.text" = "Nickname";
+
+/* Class = "UILabel"; text = "昵称"; ObjectID = "Auh-uf-cge"; */
+"Auh-uf-cge.text" = "Nickname";
+
+/* Class = "UILabel"; text = "账号"; ObjectID = "lml-20-23u"; */
+"lml-20-23u.text" = "Account";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mpO-gW-cbG"; */
+"mpO-gW-cbG.text" = "Label";
+
+/* Class = "UILabel"; text = "到期时间"; ObjectID = "xYx-Tl-B6g"; */
+"xYx-Tl-B6g.text" = "Expiration date";
+

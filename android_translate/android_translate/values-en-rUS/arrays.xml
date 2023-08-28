@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tv_custom_key">
+        <item>Custom key 1</item>
+        <item>Custom key 2</item>
+        <item>Custom key 3</item>
+        <item>Custom key 4</item>
+        <item>Custom key 5</item>
+    </string-array>
+    <string-array name="tv_show">
+        <item>News Channel</item>
+        <item>CNBC Channel</item>
+        <item>Variety Channel</item>
+        <item>International</item>
+        <item>Sports Channel</item>
+        <item>Movie Channel</item>
+        <item>Military Channel</item>
+        <item>Kids Channel</item>
+        <item>Channel one</item>
+        <item>Channel twe</item>
+        <item>Channel three</item>
+        <item>Channel four</item>
+        <item>Channel five</item>
+        <item>Channel six</item>
+        <item>Channel seven</item>
+        <item>Channel eight</item>
+        <item>Channel nine</item>
+    </string-array>
+    <array name="strs_delay">
+        <item>0 Second</item>
+        <item>0.5 Second</item>
+        <item>1 Second</item>
+        <item>2 Second</item>
+        <item>3 Second</item>
+        <item>4 Second</item>
+        <item>5 Second</item>
+        <item>10 Second</item>
+        <item>20 Second</item>
+        <item>30 Second</item>
+        <item>40 Second</item>
+        <item>50 Second</item>
+        <item>1 Minute</item>
+        <item>2 Minute</item>
+        <item>3 Minute</item>
+        <item>4 Minute</item>
+        <item>5 Minute</item>
+        <item>10 Minute</item>
+        <item>15 Minute</item>
+        <item>30 Minute</item>
+        <item>60 Minute</item>
+    </array>
+
+
+    <array name="strs_usertime">
+        <item>1 hour</item>
+        <item>2 hour</item>
+        <item>1 day</item>
+        <item>2 day</item>
+        <item>3 day</item>
+        <item>4 day</item>
+        <item>5 day</item>
+        <item>6 day</item>
+        <item>7 day</item>
+        <item>8 day</item>
+        <item>9 day</item>
+        <item>10 day</item>
+        <item>11 day</item>
+        <item>12 day</item>
+        <item>13 day</item>
+        <item>14 day</item>
+        <item>15 day</item>
+        <item>30 day</item>
+    </array>
+
+    <array name="strs_auto_timing_types">
+        <item>Loop execution multiple times</item>
+        <item>Customized</item>
+    </array>
+
+    <array name="strs_interval">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>150</item>
+        <item>180</item>
+    </array>
+    <string-array name="time_zones">
+        <item>(GMT-11:00) Midway, Samoa</item>
+        <item>(GMT-10:00) Hawaii</item>
+        <item>(GMT-09:00) Alaska</item>
+        <item>(GMT-08:00) Pacific Time (USA and Canada)</item>
+        <item>(GMT-07:00) Mountain Time (USA and Canada)</item>
+        <item>(GMT-06:00) Central Time (USA and Canada), MercyCosta Rica</item>
+        <item>(GMT-05:00) Eastern Time (USA and Canada), Lima, Bogota</item>
+        <item>(GMT-04:00) Atlantic Time (Canada), San Diego, La Paz</item>
+        <item>(GMT-03:00) Brasilia, Buenos Aires, Georgetown</item>
+        <item>(GMT-02:00) Central Atlantic</item>
+        <item>(GMT-01:00) Cape Verde Islands</item>
+        <item>(GMT+00:00) Greenwich Mean Time, London, Lisbon, Casablanca</item>
+        <item>(GMT+01:00) Brussels, Paris, Berlin, Rome, Madrid, Stockholm, Belgrade, Prague</item>
+        <item>(GMT+02:00) Athens, Jerusalem, Cairo, Helsinki</item>
+        <item>(GMT+03:00) Nairobi, Riyadh, Moscow</item>
+        <item>(GMT+04:00) Baku, Tbilisi, Abu Dhabi, Muscat</item>
+        <item>(GMT+05:00) Islamabad, Karachi, Tassengan</item>
+        <item>(GMT+06:00) Almaty, Novosibirsk, Astanan, Dar</item>
+        <item>(GMT+07:00) Bangkok, Hanoi, Jakarta</item>
+        <item>(GMT+08:00) Beijing, Singapore, Taipei</item>
+        <item>(GMT+09:00) Seoul, Yakutsk, Tokyo</item>
+        <item>(GMT+10:00) Guam, Melbourne, Sydney, Port Moresby, Vladivostok</item>
+        <item>(GMT+11:00) Magadan, Solomon Islands, New Caledonia</item>
+        <item>(GMT+12:00) Auckland, Wellington, Fiji</item>
+    </string-array>
+
+    <!--人体存在传感器的监测区域-->
+    <string-array name="body_monitor_area">
+        <item>Default mode</item>
+        <item>Area detection</item>
+        <item>Washroom</item>
+        <item>Bedroom</item>
+        <item>Parlour</item>
+        <item>Office</item>
+        <item>Hotel</item>
+    </string-array>
+
+    <!--能量阈值 速度阈值的档位-->
+    <string-array name="body_set_tap">
+        <item>Default value</item>
+        <item>Reduce once</item>
+        <item>Reduce twice</item>
+        <item>Reduce triple</item>
+        <item>Reduce four times</item>
+        <item>Reduce five times</item>
+        <item>Increase one gear</item>
+        <item>Increase twice</item>
+        <item>Increase triple</item>
+        <item>Increase four times</item>
+        <item>Increase five times</item>
+    </string-array>
+
+    <!--人体存在传感器的灵敏度档位-->
+    <string-array name="body_tap_position">
+        <item>high</item>
+        <item>middle</item>
+        <item>low</item>
+    </string-array>
+
+    <!--人体存在传感器的运动触发边界-->
+    <string-array name="body_run_range">
+        <item>Radius 4m</item>
+        <item>Radius 3.5m</item>
+        <item>Radius 3m</item>
+        <item>Radius 2.5m</item>
+    </string-array>
+
+    <!--人体存在传感器的静坐触发边界-->
+    <string-array name="body_silence_range">
+        <item>Radius 4m</item>
+        <item>Radius 3m</item>
+        <item>Radius 2m</item>
+    </string-array>
+
+    <!--人体存在传感器的进入无人时间-->
+    <string-array name="body_no_men">
+        <item>0 Second</item>
+        <item>10 Second</item>
+        <item>30 Second</item>
+        <item>1 Minute</item>
+        <item>2 Minute</item>
+        <item>5 Minute</item>
+        <item>10 Minute</item>
+        <item>30 Minute</item>
+        <item>60 Minute</item>
+    </string-array>
+
+    <!--窗帘样式-->
+    <string-array name="curtain_style2">
+        <item>Double open</item>
+        <item>Left open</item>
+        <item>Right open</item>
+    </string-array>
+    <!--拉珠帘样式-->
+    <string-array name="curtain_bead_style">
+        <item>Roller shutter</item>
+        <item>Double open</item>
+        <item>Left open</item>
+        <item>Right open</item>
+    </string-array>
+    <!--调光调色的渐变速度-->
+    <string-array name="gradual_speed">
+        <item>Normal</item>
+        <item>Fast</item>
+        <item>Slow</item>
+    </string-array>
+
+    <!--选择周几-->
+    <string-array name="week_choose">
+        <item>Every Sunday</item>
+        <item>Every Monday</item>
+        <item>Every Tuesday</item>
+        <item>Every Wednesday</item>
+        <item>Every Thursday</item>
+        <item>Every Friday</item>
+        <item>Every Saturday</item>
+    </string-array>
+
+    <!--口令区域-->
+    <string-array name="speak_area">
+        <item>Parlour</item>
+        <item>Master bedroom</item>
+        <item>Second bedroom</item>
+        <item>Dining room</item>
+        <item>Guest room</item>
+        <item>Study</item>
+        <item>Media room</item>
+        <item>Children\'s room</item>
+        <item>Elder\'s room</item>
+        <item>Nanny room</item>
+    </string-array>
+
+    <!--可以绑定在第三方机器的设备类型  音乐主机可以绑定的设备-->
+    <string-array name="device_type_can_bind_to_third_device">
+        <item>0101</item>
+        <item>0102</item>
+        <item>0103</item>
+        <item>0104</item>
+        <item>0107</item>
+        <item>0108</item>
+        <item>0109</item>
+        <item>0112</item>
+        <item>0113</item>
+        <item>0114</item>
+        <item>0115</item>
+        <item>0130</item>
+        <item>0131</item>
+        <item>0132</item>
+        <item>0133</item>
+        <item>0602</item>
+        <item>0604</item>
+        <item>0609</item>
+        <item>0801</item>
+        <item>0802</item>
+        <item>0803</item>
+    </string-array>
+
+    <!--可以作为技能组的设备类型-->
+    <string-array name="group_type">
+        <item>0130</item>
+        <item>0131</item>
+        <item>0132</item>
+        <item>0133</item>
+    </string-array>
+
+    <!--旧版离线语音的口令分类-->
+    <string-array name="speak_classify_old">
+        <item>客厅</item>
+        <item>主卧</item>
+        <item>次卧</item>
+        <item>餐厅</item>
+        <item>灯光</item>
+        <item>空调</item>
+        <item>窗帘</item>
+        <item>电视</item>
+        <item>插座</item>
+        <item>场景</item>
+    </string-array>
+    <!--新版离线语音和新版空调伴侣的口令分类-->
+    <string-array name="speak_classify_new">
+        <item>场景</item>
+        <item>客厅</item>
+        <item>主卧</item>
+        <item>次卧</item>
+        <item>餐厅</item>
+        <item>调光</item>
+        <item>窗帘</item>
+        <item>通用</item>
+        <item>电视</item>
+    </string-array>
+    <!--自学习音箱和自学习空调伴侣的口令分类-->
+    <string-array name="speak_classify_self">
+        <item>场景</item><!--01-->
+        <item>调光</item><!--06-->
+        <item>窗帘</item><!--07-->
+        <item>通用</item><!--08-->
+        <item>电视</item><!--09-->
+        <item>自学习</item><!--10-->
+    </string-array>
+
+    <!--房间名称-->
+    <string-array name="room_name">
+        <item>客厅</item>
+        <item>主卧</item>
+        <item>客卧</item>
+        <item>卫生间</item>
+        <item>浴室</item>
+        <item>厨房</item>
+        <item>餐厅</item>
+        <item>儿童房</item>
+        <item>活动室</item>
+        <item>媒体房</item>
+        <item>办公室</item>
+        <item>休闲室</item>
+        <item>书房</item>
+        <item>工作室</item>
+        <item>衣帽室</item>
+        <item>后院</item>
+        <item>花园</item>
+        <item>地下室</item>
+        <item>阁楼</item>
+        <item>阳台</item>
+        <item>玄关</item>
+        <item>保姆房</item>
+        <item>洗漱间</item>
+        <item>婴儿房</item>
+        <item>+自定义</item>
+    </string-array>
+
+    <string-array name="study_array">
+        <item>Learn command one</item>
+        <item>Learn command two</item>
+        <item>Learn command three</item>
+        <item>Learn command four</item>
+        <item>Learn command five</item>
+        <item>Learn command six</item>
+        <item>Learn command seven</item>
+        <item>Learn command eight</item>
+        <item>Learn command nine</item>
+        <item>Learn command ten</item>
+    </string-array>
+</resources>

@@ -1,0 +1,714 @@
+{
+    "0101":[
+        {
+            "devDescription":"Open",
+            "devStatus":"01"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"00"
+        },
+        {
+            "devDescription":"Open/Close",
+            "devStatus":"02"
+        }
+    ],
+    "0102":[
+        {
+            "devDescription":"Open",
+            "devStatus":"01"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"00"
+        },
+        {
+            "devDescription":"Open/Close",
+            "devStatus":"02"
+        }
+    ],
+    "0103":[
+        {
+            "devDescription":"Open",
+            "devStatus":"01"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"00"
+        },
+        {
+            "devDescription":"Open/Close",
+            "devStatus":"02"
+        }
+    ],
+    "0104":[
+        {
+            "devDescription":"Open",
+            "devStatus":"01"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"00"
+        },
+        {
+            "devDescription":"Open/Close",
+            "devStatus":"02"
+        }
+    ],
+    "0107":[
+        {
+            "devDescription":"Open",
+            "devStatus":"01"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"00"
+        },
+        {
+            "devDescription":"Open/Close",
+            "devStatus":"02"
+        }
+    ],
+    "0108":[
+        {
+            "devDescription":"Open curtain",
+            "devStatus":"0101"
+        },
+        {
+            "devDescription":"Close curtain",
+            "devStatus":"0100"
+        },
+        {
+            "devDescription":"Stop",
+            "devStatus":"0200"
+        }
+    ],
+    "0109":[
+        {
+            "devDescription":"Open",
+            "devStatus":"0564"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"0500"
+        },
+        {
+            "devDescription":"Stop",
+            "devStatus":"0200"
+        },
+        {
+            "devDescription":"Curtain is open to the specified position",
+            "devStatus":""
+        }
+    ],
+    "0112":[
+        {
+            "devDescription":"Push window",
+            "devStatus":"0101"
+        },
+        {
+            "devDescription":"Pull window",
+            "devStatus":"0100"
+        },
+        {
+            "devDescription":"Stop",
+            "devStatus":"0200"
+        }
+    ],
+    "0113":[
+        {
+            "devDescription":"Turn on the light strip",
+            "devStatus":"01"
+        },
+        {
+            "devDescription":"Turn off the light strip",
+            "devStatus":"00"
+        },
+        {
+            "devDescription":"Luminance +",
+            "devStatus":"04"
+        },
+        {
+            "devDescription":"Luminance -",
+            "devStatus":"03"
+        },
+        {
+            "devDescription":"Turn on the light strip/Turn off the light strip",
+            "devStatus":"02"
+        },
+        {
+            "devDescription":"Open to the specified state",
+            "devStatus":""
+        }
+    ],
+    "0114":[
+        {
+            "devDescription":"Open valve",
+            "devStatus":"0101"
+        },
+        {
+            "devDescription":"Close valve",
+            "devStatus":"0100"
+        },
+        {
+            "devDescription":"Stop",
+            "devStatus":"0200"
+        }
+    ],
+    "0115":[
+        {
+            "devDescription":"Open",
+            "devStatus":"01"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"00"
+        },
+        {
+            "devDescription":"Open/Close",
+            "devStatus":"02"
+        },
+        {
+            "devDescription":"Only cold light +",
+            "devStatus":"03"
+        },
+        {
+            "devDescription":"Only cold light -",
+            "devStatus":"04"
+        },
+        {
+            "devDescription":"Only warm light +",
+            "devStatus":"05"
+        },
+        {
+            "devDescription":"Only warm light -",
+            "devStatus":"06"
+        },
+        {
+            "devDescription":"Cold light and warm light +",
+            "devStatus":"07"
+        },
+        {
+            "devDescription":"Cold light and warm light -",
+            "devStatus":"08"
+        },
+        {
+            "devDescription":"Open to the specified state",
+            "devStatus":""
+        }
+    ],
+    "0118":[
+        {
+            "devDescription":"Open",
+            "devStatus":"010000"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"020000"
+        },
+        {
+            "devDescription":"Stop",
+            "devStatus":"030000"
+        },
+        {
+            "devDescription":"Curtain is open to the specified position",
+            "devStatus":""
+        },
+        {
+            "devDescription":"Angle is 0%",
+            "devStatus":"080000"
+        },
+        {
+            "devDescription":"Angle is 50%",
+            "devStatus":"080032"
+        },
+        {
+            "devDescription":"Angle is 100%",
+            "devStatus":"080064"
+        },
+        {
+            "devDescription":"Curtain open to specified angle",
+            "devStatus":""
+        }
+    ],
+    "0119":[
+        {
+            "devDescription":"Open",
+            "devStatus":"020000000000000000000000000000000100000000"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"020000000000000000000000000000000000000000"
+        },
+        {
+            "devDescription":"Open/Close",
+            "devStatus":"030000000000000000000000000000000000000000"
+        }
+    ],
+    "0130":[
+        {
+            "devDescription":"Open",
+            "devStatus":"01"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"00"
+        },
+        {
+            "devDescription":"Open/Close",
+            "devStatus":"02"
+        },
+        {
+            "devDescription":"Brightness value +",
+            "devStatus":"0c"
+        },
+        {
+            "devDescription":"Brightness value -",
+            "devStatus":"0d"
+        },
+        {
+            "devDescription":"Adjust to the specified brightness",
+            "devStatus":""
+        }
+    ],
+    "0131":[
+        {
+            "devDescription":"Open",
+            "devStatus":"01"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"00"
+        },
+        {
+            "devDescription":"Open/Close",
+            "devStatus":"02"
+        },
+        {
+            "devDescription":"Color temperature value +",
+            "devStatus":"04"
+        },
+        {
+            "devDescription":"Color temperature value -",
+            "devStatus":"05"
+        },
+        {
+            "devDescription":"Color temperature and brightness value + ",
+            "devStatus":"06"
+        },
+        {
+            "devDescription":"Color temperature and brightness value -",
+            "devStatus":"07"
+        },
+        {
+            "devDescription":"Adjust to the specified brightness/color temperature state",
+            "devStatus":""
+        }
+    ],
+    "0132":[
+        {
+            "devDescription":"Open",
+            "devStatus":"01"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"00"
+        },
+        {
+            "devDescription":"Open/Close",
+            "devStatus":"02"
+        },
+        {
+            "devDescription":"RGB and brightness value +",
+            "devStatus":"09"
+        },
+        {
+            "devDescription":"RGB and brightness value -",
+            "devStatus":"0a"
+        },
+        {
+            "devDescription":"Adjust to the specified brightness/RGB state",
+            "devStatus":""
+        }
+    ],
+    "0133":[
+        {
+            "devDescription":"Open",
+            "devStatus":"01"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"00"
+        },
+        {
+            "devDescription":"Open/Close",
+            "devStatus":"02"
+        },
+        {
+            "devDescription":"Color temperature value +",
+            "devStatus":"04"
+        },
+        {
+            "devDescription":"Color temperature value -",
+            "devStatus":"05"
+        },
+        {
+            "devDescription":"Color temperature and brightness value + ",
+            "devStatus":"06"
+        },
+        {
+            "devDescription":"Color temperature and brightness value -",
+            "devStatus":"07"
+        },
+        {
+            "devDescription":"Adjust to the specified brightness/color temperature state",
+            "devStatus":""
+        },
+        {
+            "devDescription":"RGB and brightness value +",
+            "devStatus":"09"
+        },
+        {
+            "devDescription":"RGB and brightness value -",
+            "devStatus":"0a"
+        },
+        {
+            "devDescription":"Adjust to the specified brightness/RGB state",
+            "devStatus":""
+        }
+    ],
+    "0147":[
+        {
+            "devDescription":"开",
+            "devStatus":"0564"
+        },
+        {
+            "devDescription":"关",
+            "devStatus":"0500"
+        },
+        {
+            "devDescription":"停止",
+            "devStatus":"0200"
+        },
+        {
+            "devDescription":"窗帘开到指定位置",
+            "devStatus":""
+        }
+    ],
+    "0148":[
+        {
+            "devDescription":"Open",
+            "devStatus":"0564"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"0500"
+        },
+        {
+            "devDescription":"Stop",
+            "devStatus":"0200"
+        },
+        {
+            "devDescription":"Curtain is open to the specified position",
+            "devStatus":""
+        }
+    ],
+    "0204":[
+        {
+            "devDescription":"Arm",
+            "devStatus":"01"
+        },
+        {
+            "devDescription":"Disarm",
+            "devStatus":"00"
+        }
+    ],
+    "0205":[
+        {
+            "devDescription":"Arm",
+            "devStatus":"01"
+        },
+        {
+            "devDescription":"Disarm",
+            "devStatus":"00"
+        }
+    ],
+    "0206":[
+        {
+            "devDescription":"Arm",
+            "devStatus":"01"
+        },
+        {
+            "devDescription":"Disarm",
+            "devStatus":"00"
+        }
+    ],
+    "0602":[
+        {
+            "devDescription":"Turn on air conditioning",
+            "devStatus":"010300011203fe01"
+        },
+        {
+            "devDescription":"Turn off air conditioning",
+            "devStatus":"000300011203fe01"
+        },
+        {
+            "devDescription":"The air conditioner at the specified state",
+            "devStatus":""
+        }
+    ],
+    "0603":[
+        {
+            "devDescription":"Play",
+            "devStatus":"010000"
+        },
+        {
+            "devDescription":"Suspend",
+            "devStatus":"000000"
+        },
+        {
+            "devDescription":"Volume +",
+            "devStatus":"040000"
+        },
+        {
+            "devDescription":"Volume -",
+            "devStatus":"050000"
+        },
+        {
+            "devDescription":"Adjust to specified volume",
+            "devStatus":""
+        },
+        {
+            "devDescription":"Play specified song",
+            "devStatus":""
+        },
+        {
+            "devDescription":"Voice broadcast text",
+            "devStatus":""
+        }
+    ],
+    "0604":[
+        {
+            "devDescription":"Turn on air conditioning",
+            "devStatus":"010300011203fe01"
+        },
+        {
+            "devDescription":"Turn off air conditioning",
+            "devStatus":"000300011203fe01"
+        },
+        {
+            "devDescription":"The air conditioner at the specified state",
+            "devStatus":""
+        },
+        {
+            "devDescription":"TV on/off",
+            "devStatus":"110"
+        },
+        {
+            "devDescription":"TV to specified program",
+            "devStatus":""
+        },
+        {
+            "devDescription":"Turn on the TV at customized scene",
+            "devStatus":""
+        }
+    ],
+    "0609":[
+        {
+            "devDescription":"Turn on air conditioning",
+            "devStatus":"010300011203fe01"
+        },
+        {
+            "devDescription":"Turn off air conditioning",
+            "devStatus":"000300011203fe01"
+        },
+        {
+            "devDescription":"The air conditioner at the specified state",
+            "devStatus":""
+        },
+        {
+            "devDescription":"TV on/off",
+            "devStatus":"110"
+        },
+        {
+            "devDescription":"TV to specified program",
+            "devStatus":""
+        },
+        {
+            "devDescription":"Turn on the TV at customized scene",
+            "devStatus":""
+        }
+    ],
+    "0801":[
+        {
+            "devDescription":"Open",
+            "devStatus":"01"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"00"
+        },
+        {
+            "devDescription":"Open/Close",
+            "devStatus":"d6"
+        },
+        {
+            "devDescription":"Wind speed +",
+            "devStatus":"d3"
+        },
+        {
+            "devDescription":"Wind speed -",
+            "devStatus":"d4"
+        },
+        {
+            "devDescription":"Drive to the specified wind speed",
+            "devStatus":""
+        }
+    ],
+    "0802":[
+        {
+            "devDescription":"Open",
+            "devStatus":"01"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"00"
+        },
+        {
+            "devDescription":"Open/Close",
+            "devStatus":"d6"
+        },
+        {
+            "devDescription":"Temperature +",
+            "devStatus":"d1"
+        },
+        {
+            "devDescription":"Temperature -",
+            "devStatus":"d2"
+        },
+        {
+            "devDescription":"Open to the specified set temperature",
+            "devStatus":""
+        }
+    ],
+    "0803":[
+        {
+            "devDescription":"Open",
+            "devStatus":"01"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"00"
+        },
+        {
+            "devDescription":"Open/Close",
+            "devStatus":"d6"
+        },
+        {
+            "devDescription":"Wind speed +",
+            "devStatus":"d3"
+        },
+        {
+            "devDescription":"Wind speed -",
+            "devStatus":"d4"
+        },
+        {
+            "devDescription":"Temperature +",
+            "devStatus":"d1"
+        },
+        {
+            "devDescription":"Temperature -",
+            "devStatus":"d2"
+        },
+        {
+            "devDescription":"Open to the specified state",
+            "devStatus":""
+        }
+    ],
+    "1001":[
+        {
+            "devDescription":"Open",
+            "devStatus":"01"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"00"
+        },
+        {
+            "devDescription":"Open/Close",
+            "devStatus":"02"
+        },
+        {
+            "devDescription":"Volume +",
+            "devStatus":"03"
+        },
+        {
+            "devDescription":"Volume -",
+            "devStatus":"04"
+        },
+        {
+            "devDescription":"Play the specified volume source",
+            "devStatus":""
+        }
+    ],
+    "1202":[
+        {
+            "devDescription":"Open",
+            "devStatus":"01"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"00"
+        },
+        {
+            "devDescription":"Open/Close",
+            "devStatus":"02"
+        },
+        {
+            "devDescription":"Open to the specified state",
+            "devStatus":""
+        }
+    ],
+    "1203":[
+        {
+            "devDescription":"Open",
+            "devStatus":"020001000000000000000000000000"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"010100000000000000000000000000"
+        },
+        {
+            "devDescription":"Open to the specified state",
+            "devStatus":""
+        }
+    ],
+    "1301":[
+        {
+            "devDescription":"Open",
+            "devStatus":"01"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"00"
+        },
+        {
+            "devDescription":"Open/Close",
+            "devStatus":"02"
+        }
+    ],
+    "1302":[
+        {
+            "devDescription":"Open",
+            "devStatus":"010100000000000000000000000000000000000000000000"
+        },
+        {
+            "devDescription":"Close",
+            "devStatus":"010000000000000000000000000000000000000000000000"
+        },
+        {
+            "devDescription":"Open/Close",
+            "devStatus":"090000000000000000000000000000000000000000000000"
+        }
+    ]
+}

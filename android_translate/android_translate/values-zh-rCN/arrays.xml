@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tv_custom_key">
+        <item>自定义键1</item>
+        <item>自定义键2</item>
+        <item>自定义键3</item>
+        <item>自定义键4</item>
+        <item>自定义键5</item>
+    </string-array>
+    <string-array name="tv_show">
+        <item>新闻频道</item>
+        <item>财经频道</item>
+        <item>综艺频道</item>
+        <item>国际频道</item>
+        <item>体育频道</item>
+        <item>电影频道</item>
+        <item>军事频道</item>
+        <item>儿童频道</item>
+        <item>浙江卫视</item>
+        <item>湖南卫视</item>
+        <item>江苏卫视</item>
+        <item>凤凰卫视</item>
+        <item>收藏频道1</item>
+        <item>收藏频道2</item>
+        <item>收藏频道3</item>
+        <item>收藏频道4</item>
+        <item>收藏频道5</item>
+    </string-array>
+    <array name="strs_delay">
+        <item>0 秒</item>
+        <item>0.5 秒</item>
+        <item>1 秒</item>
+        <item>2 秒</item>
+        <item>3 秒</item>
+        <item>4 秒</item>
+        <item>5 秒</item>
+        <item>10 秒</item>
+        <item>20 秒</item>
+        <item>30 秒</item>
+        <item>40 秒</item>
+        <item>50 秒</item>
+        <item>1 分</item>
+        <item>2 分</item>
+        <item>3 分</item>
+        <item>4 分</item>
+        <item>5 分</item>
+        <item>10 分</item>
+        <item>15 分</item>
+        <item>30 分</item>
+        <item>60 分</item>
+    </array>
+
+
+    <array name="strs_usertime">
+        <item>1 小时</item>
+        <item>2 小时</item>
+        <item>1 天</item>
+        <item>2 天</item>
+        <item>3 天</item>
+        <item>4 天</item>
+        <item>5 天</item>
+        <item>6 天</item>
+        <item>7 天</item>
+        <item>8 天</item>
+        <item>9 天</item>
+        <item>10 天</item>
+        <item>11 天</item>
+        <item>12 天</item>
+        <item>13 天</item>
+        <item>14 天</item>
+        <item>15 天</item>
+        <item>30 天</item>
+    </array>
+
+    <array name="strs_auto_timing_types">
+        <item>循环执行多次</item>
+        <item>自定义</item>
+    </array>
+
+    <array name="strs_interval">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>150</item>
+        <item>180</item>
+    </array>
+    <string-array name="time_zones">
+        <item>(GMT-11:00)中途岛,萨摩亚群岛</item>
+        <item>(GMT-10:00)夏威夷</item>
+        <item>(GMT-09:00)阿拉斯加</item>
+        <item>(GMT-08:00)太平洋时间(美国和加拿大)</item>
+        <item>(GMT-07:00)山地时间(美国和加拿大)</item>
+        <item>(GMT-06:00)中部时间(美国和加拿大),墨西哥城</item>
+        <item>(GMT-05:00)东部时间(美国和加拿大),利马,波哥大</item>
+        <item>(GMT-04:00)大西洋时间(加拿大),圣地亚哥,拉巴斯</item>
+        <item>(GMT-03:00)巴西利亚,布宜若斯艾丽斯,乔治敦</item>
+        <item>(GMT-02:00)中大西洋</item>
+        <item>(GMT-01:00)佛得角群岛</item>
+        <item>(GMT+00:00)格林威治平时,伦敦,里斯本,卡萨布兰卡</item>
+        <item>(GMT+01:00)布鲁赛尔,巴黎,柏林,罗马,马德里,斯多哥尔摩,贝尔格莱德,布拉格</item>
+        <item>(GMT+02:00)雅典,耶路撒冷,开罗,赫尔辛基</item>
+        <item>(GMT+03:00)内罗毕,利雅得,莫斯科</item>
+        <item>(GMT+04:00)巴库,第比利斯,阿布扎比,马斯科特</item>
+        <item>(GMT+05:00)伊斯兰堡,卡拉奇,塔森干</item>
+        <item>(GMT+06:00)阿拉木图,新西伯利亚,阿斯塔南,达尔</item>
+        <item>(GMT+07:00)曼谷,河内,雅加达</item>
+        <item>(GMT+08:00)北京,新加坡,台北</item>
+        <item>(GMT+09:00)首尔,雅库茨克,东京</item>
+        <item>(GMT+10:00)关岛,墨尔本,悉尼,莫尔兹比港,符拉迪沃斯托克</item>
+        <item>(GMT+11:00)马加丹,所罗门群岛,新喀里多尼亚</item>
+        <item>(GMT+12:00)奥克兰,惠灵顿,斐济</item>
+    </string-array>
+
+    <!--人体存在传感器的监测区域-->
+    <string-array name="body_monitor_area">
+        <item>默认模式</item>
+        <item>区域探测</item>
+        <item>卫生间</item>
+        <item>卧室</item>
+        <item>客厅</item>
+        <item>办公室</item>
+        <item>酒店</item>
+    </string-array>
+
+    <!--能量阈值 速度阈值的档位-->
+    <string-array name="body_set_tap">
+        <item>默认档位</item>
+        <item>减一档位</item>
+        <item>减二档位</item>
+        <item>减三档位</item>
+        <item>减四档位</item>
+        <item>减五档位</item>
+        <item>加一档位</item>
+        <item>加二档位</item>
+        <item>加三档位</item>
+        <item>加四档位</item>
+        <item>加五档位</item>
+    </string-array>
+
+    <!--人体存在传感器的灵敏度档位-->
+    <string-array name="body_tap_position">
+        <item>高</item>
+        <item>中</item>
+        <item>低</item>
+    </string-array>
+
+    <!--人体存在传感器的运动触发边界-->
+    <string-array name="body_run_range">
+        <item>半径4m</item>
+        <item>半径3.5m</item>
+        <item>半径3m</item>
+        <item>半径2.5m</item>
+    </string-array>
+
+    <!--人体存在传感器的静坐触发边界-->
+    <string-array name="body_silence_range">
+        <item>半径4m</item>
+        <item>半径3m</item>
+        <item>半径2m</item>
+    </string-array>
+
+    <!--人体存在传感器的进入无人时间-->
+    <string-array name="body_no_men">
+        <item>0秒</item>
+        <item>10秒</item>
+        <item>30秒</item>
+        <item>1分钟</item>
+        <item>2分钟</item>
+        <item>5分钟</item>
+        <item>10分钟</item>
+        <item>30分钟</item>
+        <item>60分钟</item>
+    </string-array>
+
+    <!--窗帘样式-->
+    <string-array name="curtain_style2">
+        <item>双开</item>
+        <item>左开</item>
+        <item>右开</item>
+    </string-array>
+    <!--拉珠帘样式-->
+    <string-array name="curtain_bead_style">
+        <item>卷帘</item>
+        <item>双开</item>
+        <item>左开</item>
+        <item>右开</item>
+    </string-array>
+    <!--调光调色的渐变速度-->
+    <string-array name="gradual_speed">
+        <item>正常</item>
+        <item>较快</item>
+        <item>较慢</item>
+    </string-array>
+
+    <!--选择周几-->
+    <string-array name="week_choose">
+        <item>每周日</item>
+        <item>每周一</item>
+        <item>每周二</item>
+        <item>每周三</item>
+        <item>每周四</item>
+        <item>每周五</item>
+        <item>每周六</item>
+    </string-array>
+
+    <!--口令区域-->
+    <string-array name="speak_area">
+        <item>客厅</item>
+        <item>主卧</item>
+        <item>次卧</item>
+        <item>餐厅</item>
+        <item>客房</item>
+        <item>书房</item>
+        <item>媒体房</item>
+        <item>儿童房</item>
+        <item>老人房</item>
+        <item>保姆房</item>
+    </string-array>
+
+    <!--可以绑定在第三方机器的设备类型  音乐主机可以绑定的设备-->
+    <string-array name="device_type_can_bind_to_third_device">
+        <item>0101</item>
+        <item>0102</item>
+        <item>0103</item>
+        <item>0104</item>
+        <item>0107</item>
+        <item>0108</item>
+        <item>0109</item>
+        <item>0112</item>
+        <item>0113</item>
+        <item>0114</item>
+        <item>0115</item>
+        <item>0130</item>
+        <item>0131</item>
+        <item>0132</item>
+        <item>0133</item>
+        <item>0602</item>
+        <item>0604</item>
+        <item>0609</item>
+        <item>0801</item>
+        <item>0802</item>
+        <item>0803</item>
+    </string-array>
+
+    <!--可以作为技能组的设备类型-->
+    <string-array name="group_type">
+        <item>0130</item>
+        <item>0131</item>
+        <item>0132</item>
+        <item>0133</item>
+    </string-array>
+
+    <!--旧版离线语音的口令分类-->
+    <string-array name="speak_classify_old">
+        <item>客厅</item>
+        <item>主卧</item>
+        <item>次卧</item>
+        <item>餐厅</item>
+        <item>灯光</item>
+        <item>空调</item>
+        <item>窗帘</item>
+        <item>电视</item>
+        <item>插座</item>
+        <item>场景</item>
+    </string-array>
+    <!--新版离线语音和新版空调伴侣的口令分类-->
+    <string-array name="speak_classify_new">
+        <item>场景</item>
+        <item>客厅</item>
+        <item>主卧</item>
+        <item>次卧</item>
+        <item>餐厅</item>
+        <item>调光</item>
+        <item>窗帘</item>
+        <item>通用</item>
+        <item>电视</item>
+    </string-array>
+    <!--自学习音箱和自学习空调伴侣的口令分类-->
+    <string-array name="speak_classify_self">
+        <item>场景</item><!--01-->
+        <item>调光</item><!--06-->
+        <item>窗帘</item><!--07-->
+        <item>通用</item><!--08-->
+        <item>电视</item><!--09-->
+        <item>自学习</item><!--10-->
+    </string-array>
+
+    <!--房间名称-->
+    <string-array name="room_name">
+        <item>客厅</item>
+        <item>主卧</item>
+        <item>客卧</item>
+        <item>卫生间</item>
+        <item>浴室</item>
+        <item>厨房</item>
+        <item>餐厅</item>
+        <item>儿童房</item>
+        <item>活动室</item>
+        <item>媒体房</item>
+        <item>办公室</item>
+        <item>休闲室</item>
+        <item>书房</item>
+        <item>工作室</item>
+        <item>衣帽室</item>
+        <item>后院</item>
+        <item>花园</item>
+        <item>地下室</item>
+        <item>阁楼</item>
+        <item>阳台</item>
+        <item>玄关</item>
+        <item>保姆房</item>
+        <item>洗漱间</item>
+        <item>婴儿房</item>
+        <item>+自定义</item>
+    </string-array>
+
+    <string-array name="study_array">
+        <item>学习口令一</item>
+        <item>学习口令二</item>
+        <item>学习口令三</item>
+        <item>学习口令四</item>
+        <item>学习口令五</item>
+        <item>学习口令六</item>
+        <item>学习口令七</item>
+        <item>学习口令八</item>
+        <item>学习口令九</item>
+        <item>学习口令十</item>
+    </string-array>
+</resources>
