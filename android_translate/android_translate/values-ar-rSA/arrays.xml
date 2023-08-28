@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tv_custom_key">
+        <item>مفتاح مخصص 1</item>
+        <item>مفتاح مخصص 2</item>
+        <item>مفتاح مخصص 3</item>
+        <item>مفتاح مخصص 4</item>
+        <item>مفتاح مخصص 5</item>
+    </string-array>
+    <string-array name="tv_show">
+        <item>قناة الأخبار</item>
+        <item>قناة CNBC</item>
+        <item>قناة متنوعة</item>
+        <item>دولي</item>
+        <item>قناة رياضية</item>
+        <item>قناة الأفلام</item>
+        <item>قناة عسكرية</item>
+        <item>قناة الأطفال</item>
+        <item>القناة الأولى</item>
+        <item>القناة الثانية</item>
+        <item>القناة الثالثة</item>
+        <item>القناة الرابعة</item>
+        <item>القناة الخامسة</item>
+        <item>القناة السادسة</item>
+        <item>القناة السابعة</item>
+        <item>القناة الثامنة</item>
+        <item>القناة التاسعة</item>
+    </string-array>
+    <array name="strs_delay">
+        <item>0 ثانية</item>
+        <item>0.5 ثانية</item>
+        <item>1 ثانية</item>
+        <item>2 ثانية</item>
+        <item>3 ثانية</item>
+        <item>4 ثانية</item>
+        <item>5 ثانية</item>
+        <item>10 ثانية</item>
+        <item>20 ثانية</item>
+        <item>30 ثانية</item>
+        <item>40 ثانية</item>
+        <item>50 ثانية</item>
+        <item>1 دقيقة</item>
+        <item>2 دقيقة</item>
+        <item>3 دقيقة</item>
+        <item>4 دقيقة</item>
+        <item>5 دقيقة</item>
+        <item>10 دقائق</item>
+        <item>15 دقيقة</item>
+        <item>30 دقيقة</item>
+        <item>60 دقيقة</item>
+    </array>
+    <!-- Remaining translations... -->
+    <array name="strs_usertime">
+        <item>ساعة واحدة</item>
+        <item>ساعتان</item>
+        <item>يوم واحد</item>
+        <item>يومان</item>
+        <item>3 أيام</item>
+        <item>4 أيام</item>
+        <item>5 أيام</item>
+        <item>6 أيام</item>
+        <item>7 أيام</item>
+        <item>8 أيام</item>
+        <item>9 أيام</item>
+        <item>10 أيام</item>
+        <item>11 يومًا</item>
+        <item>12 يومًا</item>
+        <item>13 يومًا</item>
+        <item>14 يومًا</item>
+        <item>15 يومًا</item>
+        <item>30 يومًا</item>
+    </array>
+
+    <array name="strs_auto_timing_types">
+        <item>تنفيذ الحلقة مرات متعددة</item>
+        <item>مخصص</item>
+    </array>
+
+    <array name="strs_interval">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>150</item>
+        <item>180</item>
+    </array>
+    <string-array name="time_zones">
+        <item>(جرينتش-11:00) ميدواي، ساموا</item>
+        <item>(جرينتش-10:00) هاواي</item>
+        <item>(جرينتش-09:00) ألاسكا</item>
+        <item>(جرينتش-08:00) التوقيت الباسيفيكي (الولايات المتحدة وكندا)</item>
+        <item>(جرينتش-07:00) التوقيت الجبلي (الولايات المتحدة وكندا)</item>
+        <item>(جرينتش-06:00) التوقيت المركزي (الولايات المتحدة وكندا)، ميرسي/كوستاريكا</item>
+        <item>(جرينتش-05:00) التوقيت الشرقي (الولايات المتحدة وكندا)، ليما، بوغوتا</item>
+        <item>(جرينتش-04:00) التوقيت الأطلسي (كندا)، سان دييغو، لا باز</item>
+        <item>(جرينتش-03:00) برازيليا، بوينس آيرس، جورج تاون</item>
+        <item>(جرينتش-02:00) الأطلسي الوسطى</item>
+        <item>(جرينتش-01:00) جزر الرأس الأخضر</item>
+        <item>(جرينتش+00:00) التوقيت العالمي الرسمي، لندن، لشبونة، الدار البيضاء</item>
+        <item>(جرينتش+01:00) بروكسل، باريس، برلين، روما، مدريد، ستوكهولم، بلغراد، براغ</item>
+        <item>(جرينتش+02:00) أثينا، القدس، القاهرة، هلسنكي</item>
+        <item>(جرينتش+03:00) نيروبي، الرياض، موسكو</item>
+        <item>(جرينتش+04:00) باكو، تبليسي، أبو ظبي، مسقط</item>
+        <item>(جرينتش+05:00) إسلام أباد، كراتشي، تاسينجان</item>
+        <item>(جرينتش+06:00) ألماتي، نوفوسيبيرسك، أستانا، دار</item>
+        <item>(جرينتش+07:00) بانكوك، هانوي، جاكرتا</item>
+        <item>(جرينتش+08:00) بكين، سنغافورة، تايبيه</item>
+        <item>(جرينتش+09:00) سيول، ياكوتسك، طوكيو</item>
+        <item>(جرينتش+10:00) غوام، ملبورن، سيدني، بورت مورسبي، فلاديفوستوك</item>
+        <item>(جرينتش+11:00) ماغادان، جزر سولومون، كاليدونيا الجديدة</item>
+        <item>(جرينتش+12:00) أوكلاند، ويلينغتون، فيجي</item>
+    </string-array>
+
+    <!--人体存在传感器的监测区域-->
+    <string-array name="body_monitor_area">
+        <item>Default mode</item>
+        <item>Area detection</item>
+        <item>Washroom</item>
+        <item>Bedroom</item>
+        <item>Parlour</item>
+        <item>Office</item>
+        <item>Hotel</item>
+    </string-array>
+
+    <!--能量阈值
+    速度阈值的档位-->
+    <string-array name="body_set_tap">
+        <item>Default value</item>
+        <item>Reduce once</item>
+        <item>Reduce twice</item>
+        <item>Reduce triple</item>
+        <item>Reduce four times</item>
+        <item>Reduce five times</item>
+        <item>Increase one gear</item>
+        <item>Increase twice</item>
+        <item>Increase triple</item>
+        <item>Increase four times</item>
+        <item>Increase five times</item>
+    </string-array>
+
+    <!--人体存在传感器的灵敏度档位-->
+    <string-array name="body_tap_position">
+        <item>high</item>
+        <item>middle</item>
+        <item>low</item>
+    </string-array>
+
+    <!--人体存在传感器的运动触发边界-->
+    <string-array name="body_run_range">
+        <item>Radius 4m</item>
+        <item>Radius 3.5m</item>
+        <item>Radius 3m</item>
+        <item>Radius 2.5m</item>
+    </string-array>
+
+    <!--人体存在传感器的静坐触发边界-->
+    <string-array name="body_silence_range">
+        <item>Radius 4m</item>
+        <item>Radius 3m</item>
+        <item>Radius 2m</item>
+    </string-array>
+
+    <!--人体存在传感器的进入无人时间-->
+    <string-array name="body_no_men">
+        <item>0 Second</item>
+        <item>10 Second</item>
+        <item>30 Second</item>
+        <item>1 Minute</item>
+        <item>2 Minute</item>
+        <item>5 Minute</item>
+        <item>10 Minute</item>
+        <item>30 Minute</item>
+        <item>60 Minute</item>
+    </string-array>
+
+    <!--窗帘样式-->
+    <string-array name="curtain_style2">
+        <item>فتح مزدوج</item>
+        <item>فتح اليسار</item>
+        <item>فتح اليمين</item>
+    </string-array>
+    <!--拉珠帘样式-->
+    <string-array name="curtain_bead_style">
+        <item>مصراع</item>
+        <item>فتح مزدوج</item>
+        <item>فتح اليسار</item>
+        <item>فتح اليمين</item>
+    </string-array>
+    <!--调光调色的渐变速度-->
+    <string-array name="gradual_speed">
+        <item>عادي</item>
+        <item>سريع</item>
+        <item>بطيء</item>
+    </string-array>
+
+    <!--选择周几-->
+    <string-array name="week_choose">
+        <item>كل يوم أحد</item>
+        <item>كل يوم اثنين</item>
+        <item>كل يوم ثلاثاء</item>
+        <item>كل يوم أربعاء</item>
+        <item>كل يوم خميس</item>
+        <item>كل يوم جمعة</item>
+        <item>كل يوم سبت</item>
+    </string-array>
+
+    <!--口令区域-->
+    <string-array name="speak_area">
+        <item>الصالون</item>
+        <item>غرفة النوم الرئيسية</item>
+        <item>غرفة النوم الثانية</item>
+        <item>غرفة الطعام</item>
+        <item>غرفة الضيوف</item>
+        <item>الدراسة</item>
+        <item>غرفة الوسائط</item>
+        <item>غرفة الأطفال</item>
+        <item>غرفة المسنين</item>
+        <item>غرفة المربية</item>
+    </string-array>
+
+    <!--可以绑定在第三方机器的设备类型
+    音乐主机可以绑定的设备-->
+    <string-array name="device_type_can_bind_to_third_device">
+        <item>0101</item>
+        <item>0102</item>
+        <item>0103</item>
+        <item>0104</item>
+        <item>0107</item>
+        <item>0108</item>
+        <item>0109</item>
+        <item>0112</item>
+        <item>0113</item>
+        <item>0114</item>
+        <item>0115</item>
+        <item>0130</item>
+        <item>0131</item>
+        <item>0132</item>
+        <item>0133</item>
+        <item>0602</item>
+        <item>0604</item>
+        <item>0609</item>
+        <item>0801</item>
+        <item>0802</item>
+        <item>0803</item>
+    </string-array>
+
+    <!--可以作为技能组的设备类型-->
+    <string-array name="group_type">
+        <item>0130</item>
+        <item>0131</item>
+        <item>0132</item>
+        <item>0133</item>
+    </string-array>
+
+
+    <!--旧版离线语音的口令分类-->
+    <string-array name="speak_classify_old">
+        <item>غرفة الجلوس</item>
+        <item>غرفة النوم الرئيسية</item>
+        <item>غرفة النوم الثانية</item>
+        <item>غرفة الطعام</item>
+        <item>إضاءة</item>
+        <item>تكييف</item>
+        <item>ستارة</item>
+        <item>تلفاز</item>
+        <item>مقبس</item>
+        <item>سيناريو</item>
+    </string-array>
+    <!--新版离线语音和新版空调伴侣的口令分类-->
+    <string-array name="speak_classify_new">
+        <item>سيناريو</item>
+        <item>غرفة الجلوس</item>
+        <item>غرفة النوم الرئيسية</item>
+        <item>غرفة النوم الثانية</item>
+        <item>غرفة الطعام</item>
+        <item>تعتيم</item>
+        <item>ستارة</item>
+        <item>عام</item>
+        <item>تلفاز</item>
+    </string-array>
+    <!--自学习音箱和自学习空调伴侣的口令分类-->
+    <string-array name="speak_classify_self">
+        <item>سيناريو</item><!--01-->
+        <item>تعتيم</item><!--06-->
+        <item>ستارة</item><!--07-->
+        <item>عام</item><!--08-->
+        <item>تلفاز</item><!--09-->
+        <item>تعلم ذاتي</item><!--10-->
+    </string-array>
+
+    <!--房间名称-->
+    <string-array name="room_name">
+        <item>غرفة الجلوس</item>
+        <item>غرفة النوم الرئيسية</item>
+        <item>غرفة النوم الضيقة</item>
+        <item>الحمام</item>
+        <item>الحمام</item>
+        <item>المطبخ</item>
+        <item>غرفة الطعام</item>
+        <item>غرفة الأطفال</item>
+        <item>غرفة النشاطات</item>
+        <item>غرفة وسائط</item>
+        <item>المكتب</item>
+        <item>غرفة الاستراحة</item>
+        <item>غرفة الدراسة</item>
+        <item>غرفة العمل</item>
+        <item>غرفة الأغطية</item>
+        <item>الفناء الخلفي</item>
+        <item>الحديقة</item>
+        <item>الطابق السفلي</item>
+        <item>العلية</item>
+        <item>الشرفة</item>
+        <item>مدخل البيت</item>
+        <item>غرفة مربية</item>
+        <item>حمام تنظيف الوجه</item>
+        <item>غرفة الرضيع</item>
+        <item>+مخصص</item>
+    </string-array>
+
+    <string-array name="study_array">
+        <item>تعلم الأمر الأول</item>
+        <item>تعلم الأمر الثاني</item>
+        <item>تعلم الأمر الثالث</item>
+        <item>تعلم الأمر الرابع</item>
+        <item>تعلم الأمر الخامس</item>
+        <item>تعلم الأمر السادس</item>
+        <item>تعلم الأمر السابع</item>
+        <item>تعلم الأمر الثامن</item>
+        <item>تعلم الأمر التاسع</item>
+        <item>تعلم الأمر العاشر</item>
+    </string-array>
+
+</resources>
