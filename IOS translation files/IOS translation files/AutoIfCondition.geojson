@@ -1,382 +1,382 @@
 {
-    "0101":[
+    "1301": [
         {
-            "devDescription":"Open",
-            "devStatus":"01"
+            "devDescription": "فتح",
+            "devStatus": "0101"
         },
         {
-            "devDescription":"Close",
-            "devStatus":"00"
+            "devDescription": "إغلاق",
+            "devStatus": "0100"
+        },
+        {
+            "devDescription": "تم الوصول إلى الحد الأقصى لدرجة الحرارة",
+            "devStatus": ""
+        },
+        {
+            "devDescription": "تم الوصول إلى الحد الأقصى للطاقة",
+            "devStatus": ""
         }
     ],
-    "0102":[
+    "1302": [
         {
-            "devDescription":"Open",
-            "devStatus":"01"
+            "devDescription": "فتح",
+            "devStatus": "0101"
         },
         {
-            "devDescription":"Close",
-            "devStatus":"00"
+            "devDescription": "إغلاق",
+            "devStatus": "0100"
+        },
+        {
+            "devDescription": "تم الوصول إلى الحد الأقصى لدرجة الحرارة",
+            "devStatus": ""
         }
     ],
-    "0103":[
+    "0101": [
         {
-            "devDescription":"Open",
-            "devStatus":"01"
+            "devDescription": "فتح",
+            "devStatus": "01"
         },
         {
-            "devDescription":"Close",
-            "devStatus":"00"
+            "devDescription": "إغلاق",
+            "devStatus": "00"
         }
     ],
-    "0104":[
+    "0102": [
         {
-            "devDescription":"Open",
-            "devStatus":"01"
+            "devDescription": "فتح",
+            "devStatus": "01"
         },
         {
-            "devDescription":"Close",
-            "devStatus":"00"
+            "devDescription": "إغلاق",
+            "devStatus": "00"
         }
     ],
-    "0108":[
+    "0103": [
         {
-            "devDescription":"One click to turn on",
-            "devStatus":"01"
+            "devDescription": "فتح",
+            "devStatus": "01"
         },
         {
-            "devDescription":"One click to stop",
-            "devStatus":"02"
-        },
-        {
-            "devDescription":"One click to turn off",
-            "devStatus":"00"
+            "devDescription": "إغلاق",
+            "devStatus": "00"
         }
     ],
-    "0109":[
+    "0104": [
         {
-            "devDescription":"Open curtain manually",
-            "devStatus":"01"
+            "devDescription": "فتح",
+            "devStatus": "01"
         },
         {
-            "devDescription":"Close curtain manually",
-            "devStatus":"00"
+            "devDescription": "إغلاق",
+            "devStatus": "00"
         }
     ],
-    "0110":[
+    "0108": [
         {
-            "devDescription":"Left key click",
-            "devStatus":"00"
+            "devDescription": "نقرة واحدة للتشغيل",
+            "devStatus": "01"
         },
         {
-            "devDescription":"Center key click",
-            "devStatus":"01"
+            "devDescription": "نقرة واحدة للإيقاف",
+            "devStatus": "02"
         },
         {
-            "devDescription":"Right key click",
-            "devStatus":"02"
+            "devDescription": "نقرة واحدة لإيقاف التشغيل",
+            "devStatus": "00"
         }
     ],
-    "0111":[
+    "0109": [
         {
-            "devDescription":"Click Return-home button",
-            "devStatus":"01"
+            "devDescription": "فتح الستار يدويًا",
+            "devStatus": "01"
         },
         {
-            "devDescription":"Click Receive-guest button",
-            "devStatus":"02"
-        },
-        {
-            "devDescription":"Click Watch-movie button",
-            "devStatus":"03"
-        },
-        {
-            "devDescription":"Click Exit-home button",
-            "devStatus":"04"
-        },
-        {
-            "devDescription":"Click Reading button",
-            "devStatus":"05"
-        },
-        {
-            "devDescription":"Click Dining button",
-            "devStatus":"06"
+            "devDescription": "إغلاق الستار يدويًا",
+            "devStatus": "00"
         }
     ],
-    "0112":[
+    "0110": [
         {
-            "devDescription":"One click to push window",
-            "devStatus":"01"
+            "devDescription": "النقر بالمفتاح الأيسر",
+            "devStatus": "00"
         },
         {
-            "devDescription":"One click to stop",
-            "devStatus":"02"
+            "devDescription": "النقر على المفتاح المركزي",
+            "devStatus": "01"
         },
         {
-            "devDescription":"One click to pull window",
-            "devStatus":"00"
+            "devDescription": "انقر بزر الماوس الأيمن",
+            "devStatus": "02"
         }
     ],
-    "0114":[
+    "0111": [
         {
-            "devDescription":"One click to open valve",
-            "devStatus":"01"
+            "devDescription": "انقر فوق زر العودة إلى الصفحة الرئيسية",
+            "devStatus": "01"
         },
         {
-            "devDescription":"One click to stop",
-            "devStatus":"02"
+            "devDescription": "انقر فوق زر استقبال الضيف",
+            "devStatus": "02"
         },
         {
-            "devDescription":"One click to close valve",
-            "devStatus":"00"
+            "devDescription": "انقر فوق زر مشاهدة الفيلم",
+            "devStatus": "03"
+        },
+        {
+            "devDescription": "انقر فوق زر الخروج من الصفحة الرئيسية",
+            "devStatus": "04"
+        },
+        {
+            "devDescription": "انقر فوق زر القراءة",
+            "devStatus": "05"
+        },
+        {
+            "devDescription": "انقر فوق زر تناول الطعام",
+            "devStatus": "06"
         }
     ],
-    "0117":[
+    "0112": [
         {
-            "devDescription":"Click Receive-guest button",
-            "devStatus":"01"
+            "devDescription": "نقرة واحدة لدفع النافذة",
+            "devStatus": "01"
         },
         {
-            "devDescription":"Click Watch-movie button",
-            "devStatus":"02"
+            "devDescription": "نقرة واحدة للإيقاف",
+            "devStatus": "02"
         },
         {
-            "devDescription":"Press sleep key once",
-            "devStatus":"03"
-        },
-        {
-            "devDescription":"Press romance key once",
-            "devStatus":"04"
+            "devDescription": "نقرة واحدة لسحب النافذة",
+            "devStatus": "00"
         }
     ],
-    "0143":[
+    "0114": [
         {
-            "devDescription":"Press the first key once",
-            "devStatus":"01"
+            "devDescription": "نقرة واحدة لفتح الصمام",
+            "devStatus": "01"
         },
         {
-            "devDescription":"Press the second key once",
-            "devStatus":"02"
+            "devDescription": "نقرة واحدة للإيقاف",
+            "devStatus": "02"
         },
         {
-            "devDescription":"Press the third key once",
-            "devStatus":"03"
+            "devDescription": "نقرة واحدة لإغلاق الصمام",
+            "devStatus": "00"
         }
     ],
-    "0146":[
+    "0117": [
         {
-            "devDescription":"Press the first key once",
-            "devStatus":"01"
+            "devDescription": "انقر فوق زر استقبال الضيف",
+            "devStatus": "01"
         },
         {
-            "devDescription":"Press the second key once",
-            "devStatus":"02"
+            "devDescription": "انقر فوق زر مشاهدة الفيلم",
+            "devStatus": "02"
         },
         {
-            "devDescription":"Press the third key once",
-            "devStatus":"03"
+            "devDescription": "اضغط على مفتاح النوم مرة واحدة",
+            "devStatus": "03"
         },
         {
-            "devDescription":"Press the forth key once",
-            "devStatus":"06"
-        },
-        {
-            "devDescription":"Press the fifth key once",
-            "devStatus":"05"
-        },
-        {
-            "devDescription":"Press the sixth key once",
-            "devStatus":"04"
+            "devDescription": "اضغط على مفتاح الرومانسية مرة واحدة",
+            "devStatus": "04"
         }
     ],
-    "0148":[
+    "0143": [
         {
-            "devDescription":"Open curtain manually",
-            "devStatus":"01"
+            "devDescription": "اضغط على المفتاح الأول مرة واحدة",
+            "devStatus": "01"
         },
         {
-            "devDescription":"Close curtain manually",
-            "devStatus":"00"
+            "devDescription": "اضغط على المفتاح الثاني مرة واحدة",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "اضغط على المفتاح الثالث مرة واحدة",
+            "devStatus": "03"
         }
     ],
-    "0201":[
+    "0146": [
         {
-            "devDescription":"Smoke detection alarm",
-            "devStatus":"01"
+            "devDescription": "اضغط على المفتاح الأول مرة واحدة",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "اضغط على المفتاح الثاني مرة واحدة",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "اضغط على المفتاح الثالث مرة واحدة",
+            "devStatus": "03"
+        },
+        {
+            "devDescription": "اضغط على المفتاح الرابع مرة واحدة",
+            "devStatus": "06"
+        },
+        {
+            "devDescription": "اضغط على المفتاح الخامس مرة واحدة",
+            "devStatus": "05"
+        },
+        {
+            "devDescription": "اضغط على المفتاح السادس مرة واحدة",
+            "devStatus": "04"
         }
     ],
-    "0202":[
+    "0148": [
         {
-            "devDescription":"Gas detection alarm",
-            "devStatus":"01"
+            "devDescription": "فتح الستار يدويًا",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إغلاق الستار يدويًا",
+            "devStatus": "00"
         }
     ],
-    "0203":[
+    "0201": [
         {
-            "devDescription":"Water detection alarm",
-            "devStatus":"01"
-        },
-        {
-            "devDescription":"Water detection disarmed",
-            "devStatus":"00"
+            "devDescription": "إنذار كشف الدخان",
+            "devStatus": "01"
         }
     ],
-    "0204":[
+    "0202": [
         {
-            "devDescription":"Motion detection",
-            "devStatus":"00"
-        },
-        {
-            "devDescription":"No movement within one minute",
-            "devStatus":"01"
-        },
-        {
-            "devDescription":"No movement within 2 minutes",
-            "devStatus":"02"
-        },
-        {
-            "devDescription":"No movement within 5 mintes",
-            "devStatus":"03"
-        },
-        {
-            "devDescription":"No movement within 10 mintes",
-            "devStatus":"04"
-        },
-        {
-            "devDescription":"No movement within 20 mintes",
-            "devStatus":"05"
+            "devDescription": "إنذار كشف الغاز",
+            "devStatus": "01"
         }
     ],
-    "0205":[
+    "0203": [
         {
-            "devDescription":"Door/window open",
-            "devStatus":"01"
+            "devDescription": "إنذار كشف المياه",
+            "devStatus": "01"
         },
         {
-            "devDescription":"Door/window closed",
-            "devStatus":"00"
+            "devDescription": "تم تعطيل اكتشاف المياه",
+            "devStatus": "00"
         }
     ],
-    "0206":[
+    "0204": [
         {
-            "devDescription":"One-click button",
-            "devStatus":"01"
+            "devDescription": "كشف الحركة",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "لا توجد حركة خلال دقيقة واحدة",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "لا توجد حركة خلال دقيقتين",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "لا توجد حركة خلال 5 دقائق",
+            "devStatus": "03"
+        },
+        {
+            "devDescription": "لا توجد حركة خلال 10 دقائق",
+            "devStatus": "04"
+        },
+        {
+            "devDescription": "لا توجد حركة خلال 20 دقيقة",
+            "devStatus": "05"
         }
     ],
-    "0401":[
+    "0205": [
         {
-            "devDescription":"Higher than specified temperature",
-            "devStatus":""
+            "devDescription": "الباب/النافذة مفتوحة",
+            "devStatus": "01"
         },
         {
-            "devDescription":"Lower than the specified temperature",
-            "devStatus":""
-        },
-        {
-            "devDescription":"Higher than specified humidity",
-            "devStatus":""
-        },
-        {
-            "devDescription":"Lower than specified humidity",
-            "devStatus":""
+            "devDescription": "الباب/النافذة مغلقة",
+            "devStatus": "00"
         }
     ],
-    "0402":[
+    "0206": [
         {
-            "devDescription":"Someone",
-            "devStatus":"00"
-        },
-        {
-            "devDescription":"No movement within one minute",
-            "devStatus":"01"
-        },
-        {
-            "devDescription":"No movement within 2 minutes",
-            "devStatus":"02"
-        },
-        {
-            "devDescription":"No movement within 5 mintes",
-            "devStatus":"03"
-        },
-        {
-            "devDescription":"No movement within 10 mintes",
-            "devStatus":"04"
-        },
-        {
-            "devDescription":"No movement within 20 mintes",
-            "devStatus":"05"
+            "devDescription": "زر بنقرة واحدة",
+            "devStatus": "01"
         }
     ],
-    "0701":[
+    "0401": [
         {
-            "devDescription":"Triggered when everyone unlocks the lock",
-            "devStatus":"0000"
+            "devDescription": "درجة الحرارة أعلى من المحددة",
+            "devStatus": ""
         },
         {
-            "devDescription":"Triggered when specified users unlock",
-            "devStatus":""
+            "devDescription": "أقل من درجة الحرارة المحددة",
+            "devStatus": ""
+        },
+        {
+            "devDescription": "رطوبة أعلى من المحددة",
+            "devStatus": ""
+        },
+        {
+            "devDescription": "أقل من الرطوبة المحددة",
+            "devStatus": ""
         }
     ],
-    "0801":[
+    "0402": [
         {
-            "devDescription":"Open",
-            "devStatus":"01"
+            "devDescription": "شخص ما",
+            "devStatus": "00"
         },
         {
-            "devDescription":"Close",
-            "devStatus":"00"
+            "devDescription": "لا توجد حركة خلال دقيقة واحدة",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "لا توجد حركة خلال دقيقتين",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "لا توجد حركة خلال 5 دقائق",
+            "devStatus": "03"
+        },
+        {
+            "devDescription": "لا توجد حركة خلال 10 دقائق",
+            "devStatus": "04"
+        },
+        {
+            "devDescription": "لا توجد حركة خلال 20 دقيقة",
+            "devStatus": "05"
         }
     ],
-    "0802":[
+    "0701": [
         {
-            "devDescription":"Open",
-            "devStatus":"01"
+            "devDescription": "يتم تشغيله عندما يفتح الجميع القفل",
+            "devStatus": "0000"
         },
         {
-            "devDescription":"Close",
-            "devStatus":"00"
+            "devDescription": "يتم تشغيله عند إلغاء قفل مستخدمين محددين",
+            "devStatus": ""
         }
     ],
-    "0803":[
+    "0801": [
         {
-            "devDescription":"Open",
-            "devStatus":"01"
+            "devDescription": "فتح",
+            "devStatus": "01"
         },
         {
-            "devDescription":"Close",
-            "devStatus":"00"
+            "devDescription": "إغلاق",
+            "devStatus": "00"
         }
     ],
-    "1301":[
+    "0802": [
         {
-            "devDescription":"Open",
-            "devStatus":"0101"
+            "devDescription": "فتح",
+            "devStatus": "01"
         },
         {
-            "devDescription":"Close",
-            "devStatus":"0100"
-        },
-        {
-            "devDescription":"The upper-temperature limit is reached",
-            "devStatus":""
-        },
-        {
-            "devDescription":"Upper power limit is reached",
-            "devStatus":""
+            "devDescription": "إغلاق",
+            "devStatus": "00"
         }
     ],
-    "1302":[
+    "0803": [
         {
-            "devDescription":"Open",
-            "devStatus":"0101"
+            "devDescription": "فتح",
+            "devStatus": "01"
         },
         {
-            "devDescription":"Close",
-            "devStatus":"0100"
-        },
-        {
-            "devDescription":"The upper-temperature limit is reached",
-            "devStatus":""
+            "devDescription": "إغلاق",
+            "devStatus": "00"
         }
     ]
 }
