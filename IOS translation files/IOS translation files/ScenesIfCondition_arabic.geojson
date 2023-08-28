@@ -1,0 +1,240 @@
+{
+    "0101": [
+        {
+            "devDescription": "تشغيل",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إيقاف",
+            "devStatus": "00"
+        }
+    ],
+    "0102": [
+        {
+            "devDescription": "تشغيل",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إيقاف",
+            "devStatus": "00"
+        }
+    ],
+    "0103": [
+        {
+            "devDescription": "تشغيل",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إيقاف",
+            "devStatus": "00"
+        }
+    ],
+    "0104": [
+        {
+            "devDescription": "تشغيل",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إيقاف",
+            "devStatus": "00"
+        }
+    ],
+    "0107": [
+        {
+            "devDescription": "تشغيل",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إيقاف",
+            "devStatus": "00"
+        }
+    ],
+    "0111": [
+        {
+            "devDescription": "مفتاح العودة للمنزل قيد التشغيل",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "مفتاح ضيف الاجتماع قيد التشغيل",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "مفتاح مشاهدة الفيلم قيد التشغيل",
+            "devStatus": "03"
+        },
+        {
+            "devDescription": "مفتاح الخروج من المنزل قيد التشغيل",
+            "devStatus": "04"
+        },
+        {
+            "devDescription": "مفتاح القراءة قيد التشغيل",
+            "devStatus": "05"
+        },
+        {
+            "devDescription": "مفتاح تناول الطعام قيد التشغيل",
+            "devStatus": "06"
+        }
+    ],
+    "0117": [
+        {
+            "devDescription": "مفتاح اجتماع الضيف قيد التشغيل",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "مفتاح مشاهدة الفيلم قيد التشغيل",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "مفتاح السكون قيد التشغيل",
+            "devStatus": "03"
+        },
+        {
+            "devDescription": "مفتاح الرومانسية قيد التشغيل",
+            "devStatus": "04"
+        }
+    ],
+    "0119": [
+        {
+            "devDescription": "تشغيل",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إيقاف",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "لقد تم تحميله",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "لا يوجد تحميل",
+            "devStatus": "03"
+        }
+    ],
+    "0130": [
+        {
+            "devDescription": "تشغيل",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إيقاف",
+            "devStatus": "00"
+        }
+    ],
+    "0131": [
+        {
+            "devDescription": "تشغيل",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إيقاف",
+            "devStatus": "00"
+        }
+    ],
+    "0132": [
+        {
+            "devDescription": "تشغيل",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إيقاف",
+            "devStatus": "00"
+        }
+    ],
+    "0133": [
+        {
+            "devDescription": "تشغيل",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إيقاف",
+            "devStatus": "00"
+        }
+    ],
+    "0204": [
+        {
+            "devDescription": "ذراع",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "نزع السلاح",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "كشف الحركة",
+            "devStatus": "ff10"
+        },
+        {
+            "devDescription": "لا توجد حركة",
+            "devStatus": "ff11"
+        }
+    ],
+    "0205": [
+        {
+            "devDescription": "ذراع",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "نزع السلاح",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "الباب/النافذة مفتوحة",
+            "devStatus": "ff20"
+        },
+        {
+            "devDescription": "الباب/النافذة مغلقة",
+            "devStatus": "ff21"
+        }
+    ],
+    "0206": [
+        {
+            "devDescription": "ذراع",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "نزع السلاح",
+            "devStatus": "00"
+        }
+    ],
+    "0402": [
+        {
+            "devDescription": "شخص ما",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "لا أحد",
+            "devStatus": "00"
+        }
+    ],
+    "0801": [
+        {
+            "devDescription": "تشغيل",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إيقاف",
+            "devStatus": "00"
+        }
+    ],
+    "0802": [
+        {
+            "devDescription": "تشغيل",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إيقاف",
+            "devStatus": "00"
+        }
+    ],
+    "0803": [
+        {
+            "devDescription": "تشغيل",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إيقاف",
+            "devStatus": "00"
+        }
+    ]
+}

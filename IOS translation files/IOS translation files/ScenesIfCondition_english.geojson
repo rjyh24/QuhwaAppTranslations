@@ -1,0 +1,240 @@
+{
+    "0101": [
+        {
+            "devDescription": "On",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Off",
+            "devStatus": "00"
+        }
+    ],
+    "0102": [
+        {
+            "devDescription": "On",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Off",
+            "devStatus": "00"
+        }
+    ],
+    "0103": [
+        {
+            "devDescription": "On",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Off",
+            "devStatus": "00"
+        }
+    ],
+    "0104": [
+        {
+            "devDescription": "On",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Off",
+            "devStatus": "00"
+        }
+    ],
+    "0107": [
+        {
+            "devDescription": "On",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Off",
+            "devStatus": "00"
+        }
+    ],
+    "0111": [
+        {
+            "devDescription": "The Return home key is on",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "The Meeting guest key is on",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "The Watch movie key is on",
+            "devStatus": "03"
+        },
+        {
+            "devDescription": "The Exit home key is on",
+            "devStatus": "04"
+        },
+        {
+            "devDescription": "The Reading key is on",
+            "devStatus": "05"
+        },
+        {
+            "devDescription": "The Dinning key is on",
+            "devStatus": "06"
+        }
+    ],
+    "0117": [
+        {
+            "devDescription": "Meeting guest key is on",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Watch movie key is on",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "The Sleep key is on",
+            "devStatus": "03"
+        },
+        {
+            "devDescription": "The Romance key is on",
+            "devStatus": "04"
+        }
+    ],
+    "0119": [
+        {
+            "devDescription": "On",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Off",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "It's loaded",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "No load",
+            "devStatus": "03"
+        }
+    ],
+    "0130": [
+        {
+            "devDescription": "On",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Off",
+            "devStatus": "00"
+        }
+    ],
+    "0131": [
+        {
+            "devDescription": "On",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Off",
+            "devStatus": "00"
+        }
+    ],
+    "0132": [
+        {
+            "devDescription": "On",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Off",
+            "devStatus": "00"
+        }
+    ],
+    "0133": [
+        {
+            "devDescription": "On",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Off",
+            "devStatus": "00"
+        }
+    ],
+    "0204": [
+        {
+            "devDescription": "Arm",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Disarm",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "Motion detection",
+            "devStatus": "ff10"
+        },
+        {
+            "devDescription": "No motion",
+            "devStatus": "ff11"
+        }
+    ],
+    "0205": [
+        {
+            "devDescription": "Arm",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Disarm",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "Door/window open",
+            "devStatus": "ff20"
+        },
+        {
+            "devDescription": "Door/window closed",
+            "devStatus": "ff21"
+        }
+    ],
+    "0206": [
+        {
+            "devDescription": "Arm",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Disarm",
+            "devStatus": "00"
+        }
+    ],
+    "0402": [
+        {
+            "devDescription": "Someone",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Nobody",
+            "devStatus": "00"
+        }
+    ],
+    "0801": [
+        {
+            "devDescription": "On",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Off",
+            "devStatus": "00"
+        }
+    ],
+    "0802": [
+        {
+            "devDescription": "On",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Off",
+            "devStatus": "00"
+        }
+    ],
+    "0803": [
+        {
+            "devDescription": "On",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Off",
+            "devStatus": "00"
+        }
+    ]
+}

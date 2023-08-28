@@ -1,0 +1,382 @@
+{
+    "1301": [
+        {
+            "devDescription": "Open",
+            "devStatus": "0101"
+        },
+        {
+            "devDescription": "Close",
+            "devStatus": "0100"
+        },
+        {
+            "devDescription": "The upper-temperature limit is reached",
+            "devStatus": ""
+        },
+        {
+            "devDescription": "Upper power limit is reached",
+            "devStatus": ""
+        }
+    ],
+    "1302": [
+        {
+            "devDescription": "Open",
+            "devStatus": "0101"
+        },
+        {
+            "devDescription": "Close",
+            "devStatus": "0100"
+        },
+        {
+            "devDescription": "The upper-temperature limit is reached",
+            "devStatus": ""
+        }
+    ],
+    "0101": [
+        {
+            "devDescription": "Open",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Close",
+            "devStatus": "00"
+        }
+    ],
+    "0102": [
+        {
+            "devDescription": "Open",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Close",
+            "devStatus": "00"
+        }
+    ],
+    "0103": [
+        {
+            "devDescription": "Open",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Close",
+            "devStatus": "00"
+        }
+    ],
+    "0104": [
+        {
+            "devDescription": "Open",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Close",
+            "devStatus": "00"
+        }
+    ],
+    "0108": [
+        {
+            "devDescription": "One click to turn on",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "One click to stop",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "One click to turn off",
+            "devStatus": "00"
+        }
+    ],
+    "0109": [
+        {
+            "devDescription": "Open curtain manually",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Close curtain manually",
+            "devStatus": "00"
+        }
+    ],
+    "0110": [
+        {
+            "devDescription": "Left key click",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "Center key click",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Right key click",
+            "devStatus": "02"
+        }
+    ],
+    "0111": [
+        {
+            "devDescription": "Click Return-home button",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Click Receive-guest button",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "Click Watch-movie button",
+            "devStatus": "03"
+        },
+        {
+            "devDescription": "Click Exit-home button",
+            "devStatus": "04"
+        },
+        {
+            "devDescription": "Click Reading button",
+            "devStatus": "05"
+        },
+        {
+            "devDescription": "Click Dining button",
+            "devStatus": "06"
+        }
+    ],
+    "0112": [
+        {
+            "devDescription": "One click to push window",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "One click to stop",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "One click to pull window",
+            "devStatus": "00"
+        }
+    ],
+    "0114": [
+        {
+            "devDescription": "One click to open valve",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "One click to stop",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "One click to close valve",
+            "devStatus": "00"
+        }
+    ],
+    "0117": [
+        {
+            "devDescription": "Click Receive-guest button",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Click Watch-movie button",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "Press sleep key once",
+            "devStatus": "03"
+        },
+        {
+            "devDescription": "Press romance key once",
+            "devStatus": "04"
+        }
+    ],
+    "0143": [
+        {
+            "devDescription": "Press the first key once",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Press the second key once",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "Press the third key once",
+            "devStatus": "03"
+        }
+    ],
+    "0146": [
+        {
+            "devDescription": "Press the first key once",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Press the second key once",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "Press the third key once",
+            "devStatus": "03"
+        },
+        {
+            "devDescription": "Press the forth key once",
+            "devStatus": "06"
+        },
+        {
+            "devDescription": "Press the fifth key once",
+            "devStatus": "05"
+        },
+        {
+            "devDescription": "Press the sixth key once",
+            "devStatus": "04"
+        }
+    ],
+    "0148": [
+        {
+            "devDescription": "Open curtain manually",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Close curtain manually",
+            "devStatus": "00"
+        }
+    ],
+    "0201": [
+        {
+            "devDescription": "Smoke detection alarm",
+            "devStatus": "01"
+        }
+    ],
+    "0202": [
+        {
+            "devDescription": "Gas detection alarm",
+            "devStatus": "01"
+        }
+    ],
+    "0203": [
+        {
+            "devDescription": "Water detection alarm",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Water detection disarmed",
+            "devStatus": "00"
+        }
+    ],
+    "0204": [
+        {
+            "devDescription": "Motion detection",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "No movement within one minute",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "No movement within 2 minutes",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "No movement within 5 mintes",
+            "devStatus": "03"
+        },
+        {
+            "devDescription": "No movement within 10 mintes",
+            "devStatus": "04"
+        },
+        {
+            "devDescription": "No movement within 20 mintes",
+            "devStatus": "05"
+        }
+    ],
+    "0205": [
+        {
+            "devDescription": "Door/window open",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Door/window closed",
+            "devStatus": "00"
+        }
+    ],
+    "0206": [
+        {
+            "devDescription": "One-click button",
+            "devStatus": "01"
+        }
+    ],
+    "0401": [
+        {
+            "devDescription": "Higher than specified temperature",
+            "devStatus": ""
+        },
+        {
+            "devDescription": "Lower than the specified temperature",
+            "devStatus": ""
+        },
+        {
+            "devDescription": "Higher than specified humidity",
+            "devStatus": ""
+        },
+        {
+            "devDescription": "Lower than specified humidity",
+            "devStatus": ""
+        }
+    ],
+    "0402": [
+        {
+            "devDescription": "Someone",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "No movement within one minute",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "No movement within 2 minutes",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "No movement within 5 mintes",
+            "devStatus": "03"
+        },
+        {
+            "devDescription": "No movement within 10 mintes",
+            "devStatus": "04"
+        },
+        {
+            "devDescription": "No movement within 20 mintes",
+            "devStatus": "05"
+        }
+    ],
+    "0701": [
+        {
+            "devDescription": "Triggered when everyone unlocks the lock",
+            "devStatus": "0000"
+        },
+        {
+            "devDescription": "Triggered when specified users unlock",
+            "devStatus": ""
+        }
+    ],
+    "0801": [
+        {
+            "devDescription": "Open",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Close",
+            "devStatus": "00"
+        }
+    ],
+    "0802": [
+        {
+            "devDescription": "Open",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Close",
+            "devStatus": "00"
+        }
+    ],
+    "0803": [
+        {
+            "devDescription": "Open",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "Close",
+            "devStatus": "00"
+        }
+    ]
+}

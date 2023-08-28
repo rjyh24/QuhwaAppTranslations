@@ -1,0 +1,714 @@
+{
+    "1001": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "فتح/إغلاق",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "حجم +",
+            "devStatus": "03"
+        },
+        {
+            "devDescription": "حجم الصوت -",
+            "devStatus": "04"
+        },
+        {
+            "devDescription": "تشغيل مصدر الصوت المحدد",
+            "devStatus": ""
+        }
+    ],
+    "1202": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "فتح/إغلاق",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "مفتوح للحالة المحددة",
+            "devStatus": ""
+        }
+    ],
+    "1203": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "020001000000000000000000000000"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "01010000000000000000000"
+        },
+        {
+            "devDescription": "مفتوح للحالة المحددة",
+            "devStatus": ""
+        }
+    ],
+    "1301": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "فتح/إغلاق",
+            "devStatus": "02"
+        }
+    ],
+    "1302": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "01010000000000000000000000000000000000000"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "01000000000000000000000000000000000000000"
+        },
+        {
+            "devDescription": "فتح/إغلاق",
+            "devStatus": "09000000000000000000000000000000000"
+        }
+    ],
+    "0101": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "فتح/إغلاق",
+            "devStatus": "02"
+        }
+    ],
+    "0102": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "فتح/إغلاق",
+            "devStatus": "02"
+        }
+    ],
+    "0103": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "فتح/إغلاق",
+            "devStatus": "02"
+        }
+    ],
+    "0104": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "فتح/إغلاق",
+            "devStatus": "02"
+        }
+    ],
+    "0107": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "فتح/إغلاق",
+            "devStatus": "02"
+        }
+    ],
+    "0108": [
+        {
+            "devDescription": "فتح الستار",
+            "devStatus": "0101"
+        },
+        {
+            "devDescription": "أغلق الستار",
+            "devStatus": "0100"
+        },
+        {
+            "devDescription": "إيقاف",
+            "devStatus": "0200"
+        }
+    ],
+    "0109": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "0564"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "0500"
+        },
+        {
+            "devDescription": "إيقاف",
+            "devStatus": "0200"
+        },
+        {
+            "devDescription": "الستارة مفتوحة للموضع المحدد",
+            "devStatus": ""
+        }
+    ],
+    "0112": [
+        {
+            "devDescription": "دفع النافذة",
+            "devStatus": "0101"
+        },
+        {
+            "devDescription": "سحب النافذة",
+            "devStatus": "0100"
+        },
+        {
+            "devDescription": "إيقاف",
+            "devStatus": "0200"
+        }
+    ],
+    "0113": [
+        {
+            "devDescription": "قم بتشغيل الشريط الضوئي",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "أطفئ شريط الضوء",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "الإضاءة +",
+            "devStatus": "04"
+        },
+        {
+            "devDescription": "السطوع -",
+            "devStatus": "03"
+        },
+        {
+            "devDescription": "تشغيل شريط الضوء/إيقاف تشغيل شريط الضوء",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "مفتوح للحالة المحددة",
+            "devStatus": ""
+        }
+    ],
+    "0114": [
+        {
+            "devDescription": "فتح الصمام",
+            "devStatus": "0101"
+        },
+        {
+            "devDescription": "إغلاق الصمام",
+            "devStatus": "0100"
+        },
+        {
+            "devDescription": "إيقاف",
+            "devStatus": "0200"
+        }
+    ],
+    "0115": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "فتح/إغلاق",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "فقط الضوء البارد +",
+            "devStatus": "03"
+        },
+        {
+            "devDescription": "الضوء البارد فقط -",
+            "devStatus": "04"
+        },
+        {
+            "devDescription": "الضوء الدافئ فقط +",
+            "devStatus": "05"
+        },
+        {
+            "devDescription": "الضوء الدافئ فقط -",
+            "devStatus": "06"
+        },
+        {
+            "devDescription": "الضوء البارد والضوء الدافئ +",
+            "devStatus": "07"
+        },
+        {
+            "devDescription": "الضوء البارد والضوء الدافئ -",
+            "devStatus": "08"
+        },
+        {
+            "devDescription": "مفتوح للحالة المحددة",
+            "devStatus": ""
+        }
+    ],
+    "0118": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "010000"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "020000"
+        },
+        {
+            "devDescription": "إيقاف",
+            "devStatus": "030000"
+        },
+        {
+            "devDescription": "الستارة مفتوحة للموضع المحدد",
+            "devStatus": ""
+        },
+        {
+            "devDescription": "الزاوية 0%",
+            "حالة المطور:": "080000"
+        },
+        {
+            "devDescription": "الزاوية 50%",
+            "حالة المطور:": "080032"
+        },
+        {
+            "devDescription": "الزاوية 100%",
+            "حالة المطور:": "080064"
+        },
+        {
+            "devDescription": "الستارة مفتوحة لزاوية محددة",
+            "devStatus": ""
+        }
+    ],
+    "0119": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "02000000000000000000000000100000000"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "02000000000000000000000000000000000"
+        },
+        {
+            "devDescription": "فتح/إغلاق",
+            "devStatus": "03000000000000000000000000000000000"
+        }
+    ],
+    "0130": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "فتح/إغلاق",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "قيمة السطوع +",
+            "devStatus": "0c"
+        },
+        {
+            "devDescription": "قيمة السطوع -",
+            "devStatus": "0d"
+        },
+        {
+            "devDescription": "الضبط على السطوع المحدد",
+            "devStatus": ""
+        }
+    ],
+    "0131": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "فتح/إغلاق",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "قيمة درجة حرارة اللون +",
+            "devStatus": "04"
+        },
+        {
+            "devDescription": "قيمة درجة حرارة اللون -",
+            "devStatus": "05"
+        },
+        {
+            "devDescription": "درجة حرارة اللون وقيمة السطوع + ",
+            "devStatus": "06"
+        },
+        {
+            "devDescription": "درجة حرارة اللون وقيمة السطوع -",
+            "devStatus": "07"
+        },
+        {
+            "devDescription": "الضبط على حالة السطوع/درجة حرارة اللون المحددة",
+            "devStatus": ""
+        }
+    ],
+    "0132": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "فتح/إغلاق",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "RGB وقيمة السطوع +",
+            "devStatus": "09"
+        },
+        {
+            "devDescription": "RGB وقيمة السطوع -",
+            "devStatus": "0a"
+        },
+        {
+            "devDescription": "ضبط السطوع/حالة RGB المحددة",
+            "devStatus": ""
+        }
+    ],
+    "0133": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "فتح/إغلاق",
+            "devStatus": "02"
+        },
+        {
+            "devDescription": "قيمة درجة حرارة اللون +",
+            "devStatus": "04"
+        },
+        {
+            "devDescription": "قيمة درجة حرارة اللون -",
+            "devStatus": "05"
+        },
+        {
+            "devDescription": "درجة حرارة اللون وقيمة السطوع + ",
+            "devStatus": "06"
+        },
+        {
+            "devDescription": "درجة حرارة اللون وقيمة السطوع -",
+            "devStatus": "07"
+        },
+        {
+            "devDescription": "الضبط على حالة السطوع/درجة حرارة اللون المحددة",
+            "devStatus": ""
+        },
+        {
+            "devDescription": "RGB وقيمة السطوع +",
+            "devStatus": "09"
+        },
+        {
+            "devDescription": "RGB وقيمة السطوع -",
+            "devStatus": "0a"
+        },
+        {
+            "devDescription": "ضبط السطوع/حالة RGB المحددة",
+            "devStatus": ""
+        }
+    ],
+    "0147": [
+        {
+            "devDescription": "开",
+            "devStatus": "0564"
+        },
+        {
+            "devDescription": "关",
+            "devStatus": "0500"
+        },
+        {
+            "devDescription": "停止",
+            "devStatus": "0200"
+        },
+        {
+            "devDescription": "窗帘开到指定位置",
+            "devStatus": ""
+        }
+    ],
+    "0148": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "0564"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "0500"
+        },
+        {
+            "devDescription": "إيقاف",
+            "devStatus": "0200"
+        },
+        {
+            "devDescription": "الستارة مفتوحة للموضع المحدد",
+            "devStatus": ""
+        }
+    ],
+    "0204": [
+        {
+            "devDescription": "ذراع",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "نزع السلاح",
+            "devStatus": "00"
+        }
+    ],
+    "0205": [
+        {
+            "devDescription": "ذراع",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "نزع السلاح",
+            "devStatus": "00"
+        }
+    ],
+    "0206": [
+        {
+            "devDescription": "ذراع",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "نزع السلاح",
+            "devStatus": "00"
+        }
+    ],
+    "0602": [
+        {
+            "devDescription": "تشغيل مكيف الهواء",
+            "devStatus": "010300011203fe01"
+        },
+        {
+            "devDescription": "أوقف تشغيل مكيف الهواء",
+            "devStatus": "000300011203fe01"
+        },
+        {
+            "devDescription": "مكيف الهواء في الحالة المحددة",
+            "devStatus": ""
+        }
+    ],
+    "0603": [
+        {
+            "devDescription": "تشغيل",
+            "devStatus": "010000"
+        },
+        {
+            "devDescription": "تعليق",
+            "devStatus": "000000"
+        },
+        {
+            "devDescription": "حجم +",
+            "devStatus": "040000"
+        },
+        {
+            "devDescription": "حجم الصوت -",
+            "devStatus": "050000"
+        },
+        {
+            "devDescription": "الضبط على مستوى الصوت المحدد",
+            "devStatus": ""
+        },
+        {
+            "devDescription": "تشغيل الأغنية المحددة",
+            "devStatus": ""
+        },
+        {
+            "devDescription": "نص البث الصوتي",
+            "devStatus": ""
+        }
+    ],
+    "0604": [
+        {
+            "devDescription": "تشغيل مكيف الهواء",
+            "devStatus": "010300011203fe01"
+        },
+        {
+            "devDescription": "أوقف تشغيل مكيف الهواء",
+            "devStatus": "000300011203fe01"
+        },
+        {
+            "devDescription": "مكيف الهواء في الحالة المحددة",
+            "devStatus": ""
+        },
+        {
+            "devDescription": "تشغيل/إيقاف تشغيل التلفزيون",
+            "devStatus": "110"
+        },
+        {
+            "devDescription": "التلفزيون إلى برنامج محدد",
+            "devStatus": ""
+        },
+        {
+            "devDescription": "قم بتشغيل التلفزيون في مشهد مخصص",
+            "devStatus": ""
+        }
+    ],
+    "0609": [
+        {
+            "devDescription": "تشغيل مكيف الهواء",
+            "devStatus": "010300011203fe01"
+        },
+        {
+            "devDescription": "أوقف تشغيل مكيف الهواء",
+            "devStatus": "000300011203fe01"
+        },
+        {
+            "devDescription": "مكيف الهواء في الحالة المحددة",
+            "devStatus": ""
+        },
+        {
+            "devDescription": "تشغيل/إيقاف تشغيل التلفزيون",
+            "devStatus": "110"
+        },
+        {
+            "devDescription": "التلفزيون إلى برنامج محدد",
+            "devStatus": ""
+        },
+        {
+            "devDescription": "قم بتشغيل التلفزيون في مشهد مخصص",
+            "devStatus": ""
+        }
+    ],
+    "0801": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "فتح/إغلاق",
+            "devStatus": "d6"
+        },
+        {
+            "devDescription": "سرعة الرياح +",
+            "devStatus": "d3"
+        },
+        {
+            "devDescription": "سرعة الرياح -",
+            "devStatus": "d4"
+        },
+        {
+            "devDescription": "قم بالقيادة وفقًا لسرعة الرياح المحددة",
+            "devStatus": ""
+        }
+    ],
+    "0802": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "فتح/إغلاق",
+            "devStatus": "d6"
+        },
+        {
+            "devDescription": "درجة الحرارة +",
+            "devStatus": "d1"
+        },
+        {
+            "devDescription": "درجة الحرارة -",
+            "devStatus": "d2"
+        },
+        {
+            "devDescription": "مفتوح لدرجة الحرارة المحددة",
+            "devStatus": ""
+        }
+    ],
+    "0803": [
+        {
+            "devDescription": "فتح",
+            "devStatus": "01"
+        },
+        {
+            "devDescription": "إغلاق",
+            "devStatus": "00"
+        },
+        {
+            "devDescription": "فتح/إغلاق",
+            "devStatus": "d6"
+        },
+        {
+            "devDescription": "سرعة الرياح +",
+            "devStatus": "d3"
+        },
+        {
+            "devDescription": "سرعة الرياح -",
+            "devStatus": "d4"
+        },
+        {
+            "devDescription": "درجة الحرارة +",
+            "devStatus": "d1"
+        },
+        {
+            "devDescription": "درجة الحرارة -",
+            "devStatus": "d2"
+        },
+        {
+            "devDescription": "مفتوح للحالة المحددة",
+            "devStatus": ""
+        }
+    ]
+}
