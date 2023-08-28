@@ -597,7 +597,7 @@
     <string name="home">الصفحة الرئيسية</string>
     <string name="smart">الذكاء الاصطناعي</string>
     <string name="security">الأمان</string>
-    <string name="mine">خاصتي</string>
+    <string name="mine">حسابي</string>
     <string name="scene">المشهد</string>
     <string name="auto">ذكي</string>
     <string name="multi_link">متعدد الروابط</string>
@@ -652,7 +652,7 @@
     <string name="password_illegal">كلمة المرور غير قانونية</string>
     <string name="user_name_exist">اسم المستخدم موجود بالفعل</string>
     <string name="get_code">رمز التحقق</string>
-    <string name="get_code_again">إعادة الحصول</string>
+    <string name="get_code_again">إعادة إرسال</string>
     <string name="get_code_count_down">%d ثانية لإعادة الإرسال</string>
     <string name="get_code_send">تم إرسال رمز التحقق</string>
     <string name="input_code">يُرجى إدخال رمز التحقق</string>

@@ -66,10 +66,10 @@
 "ResetPwdFail" = "Password failed to be reset";
 ///底部标签栏
 "Home" = "Home";
-"AI" = "AI";
+"AI" = "Scenes";
 "Smart" = "Smart";
 "Security" = "Security";
-"Mine" = "Mine";
+"Mine" = "Account";
 ///主页
 "Device" = "Device";
 "FamilyManager" = "Home management";
