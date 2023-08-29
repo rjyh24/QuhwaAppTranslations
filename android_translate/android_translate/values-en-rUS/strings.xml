@@ -594,9 +594,9 @@
     <!-- ========================================空气净化器 end========================================================-->
     <!-- ========================================主页 start========================================================-->
     <string name="home">Home</string>
-    <string name="smart">AI</string>
+    <string name="smart">Automation</string>
     <string name="security">Security</string>
-    <string name="mine">Mine</string>
+    <string name="mine">Account</string>
     <string name="scene">Scene</string>
     <string name="auto">Smart</string>
     <string name="multi_link">MultiLinked</string>

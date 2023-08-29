@@ -595,10 +595,10 @@
     <!-- ========================================空气净化器 end========================================================-->
     <!-- ========================================主页 start========================================================-->
     <string name="home">الصفحة الرئيسية</string>
-    <string name="smart">الذكاء الاصطناعي</string>
+    <string name="smart">الأتمتة</string>
     <string name="security">الأمان</string>
     <string name="mine">حسابي</string>
-    <string name="scene">المشهد</string>
+    <string name="scene">المشاهد</string>
     <string name="auto">ذكي</string>
     <string name="multi_link">متعدد الروابط</string>
     <string name="group">الضوء</string>
