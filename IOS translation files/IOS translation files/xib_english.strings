@@ -2,16 +2,16 @@
 //*********XIB************
 
 /* Class = "UILabel"; text = "常用设备"; ObjectID = "LfT-zJ-hOJ"; */
-"LfT-zJ-hOJ.text" = "Common equipment";
+"LfT-zJ-hOJ.text" = "Common Equipment";
 
 /* Class = "UILabel"; text = "极简模式"; ObjectID = "YjY-Dj-GtY"; */
-"YjY-Dj-GtY.text" = "Simple mode";
+"YjY-Dj-GtY.text" = "Simple Mode";
 
 /* Class = "UILabel"; text = "常用场景"; ObjectID = "efx-Sn-5Nq"; */
-"efx-Sn-5Nq.text" = "Common scene";
+"efx-Sn-5Nq.text" = "Common Scene";
 
 /* Class = "UILabel"; text = "家庭管理"; ObjectID = "ydS-QE-hYe"; */
-"ydS-QE-hYe.text" = "Home management";
+"ydS-QE-hYe.text" = "Manage Home";
 
 /* Class = "UILabel"; text = "120s"; ObjectID = "2A3-Z3-wJK"; */
 "2A3-Z3-wJK.text" = "120s";
@@ -1493,10 +1493,10 @@
 "xM9-dR-gVs.normalTitle" = "Confirm";
 
 /* Class = "UIButton"; normalTitle = "全开"; ObjectID = "9Ge-qi-9NP"; */
-"9Ge-qi-9NP.normalTitle" = "All turn on";
+"9Ge-qi-9NP.normalTitle" = "ON";
 
 /* Class = "UIButton"; normalTitle = "全关"; ObjectID = "Eic-x6-U05"; */
-"Eic-x6-U05.normalTitle" = "All turn off";
+"Eic-x6-U05.normalTitle" = "OFF";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "lCC-Sj-WWM"; */
 "lCC-Sj-WWM.text" = "Label";
@@ -1664,10 +1664,10 @@
 "TfU-Hd-Q8V.text" = "Label";
 
 /* Class = "UISegmentedControl"; nQ8-U4-3hG.segmentTitles[0] = "布防"; ObjectID = "nQ8-U4-3hG"; */
-"nQ8-U4-3hG.segmentTitles[0]" = "Arm";
+"nQ8-U4-3hG.segmentTitles[0]" = "On";
 
 /* Class = "UISegmentedControl"; nQ8-U4-3hG.segmentTitles[1] = "撤防"; ObjectID = "nQ8-U4-3hG"; */
-"nQ8-U4-3hG.segmentTitles[1]" = "Disarm";
+"nQ8-U4-3hG.segmentTitles[1]" = "Off";
 
 /* Class = "UISegmentedControl"; 5zv-5N-W4y.segmentTitles[0] = "设备控制"; ObjectID = "5zv-5N-W4y"; */
 "5zv-5N-W4y.segmentTitles[0]" = "Device control";
@@ -1736,19 +1736,19 @@
 "Fkk-Kg-VcR.text" = "Not set";
 
 /* Class = "UILabel"; text = "昵称："; ObjectID = "dX4-ie-8d8"; */
-"dX4-ie-8d8.text" = "Nickname：";
+"dX4-ie-8d8.text" = "Username：";
 
 /* Class = "UILabel"; text = "扫一扫上面的二维码，邀请我成为家庭成员"; ObjectID = "gqg-m9-cmE"; */
-"gqg-m9-cmE.text" = "Scan another QR code and invite he/she to become a family member";
+"gqg-m9-cmE.text" = "Scan another QR code and invite user to become a home member";
 
 /* Class = "UILabel"; text = "账号"; ObjectID = "2sQ-xG-YL9"; */
 "2sQ-xG-YL9.text" = "Account";
 
 /* Class = "UILabel"; text = "昵称"; ObjectID = "5sU-WX-0BG"; */
-"5sU-WX-0BG.text" = "Nickname";
+"5sU-WX-0BG.text" = "Username";
 
 /* Class = "UILabel"; text = "昵称"; ObjectID = "Auh-uf-cge"; */
-"Auh-uf-cge.text" = "Nickname";
+"Auh-uf-cge.text" = "Username";
 
 /* Class = "UILabel"; text = "账号"; ObjectID = "lml-20-23u"; */
 "lml-20-23u.text" = "Account";

@@ -153,11 +153,11 @@
     ],
     "0204": [
         {
-            "devDescription": "Arm",
+            "devDescription": "On",
             "devStatus": "01"
         },
         {
-            "devDescription": "Disarm",
+            "devDescription": "Off",
             "devStatus": "00"
         },
         {
@@ -171,11 +171,11 @@
     ],
     "0205": [
         {
-            "devDescription": "Arm",
+            "devDescription": "On",
             "devStatus": "01"
         },
         {
-            "devDescription": "Disarm",
+            "devDescription": "Off",
             "devStatus": "00"
         },
         {
@@ -189,11 +189,11 @@
     ],
     "0206": [
         {
-            "devDescription": "Arm",
+            "devDescription": "On",
             "devStatus": "01"
         },
         {
-            "devDescription": "Disarm",
+            "devDescription": "Off",
             "devStatus": "00"
         }
     ],

@@ -22,7 +22,7 @@
     <string name="no_device">There is no device</string>
 
     <string name="http_unknown_error">Request error, unknown error</string>
-    <string name="http_token_error">Login invalid, please log in again</string>
+    <string name="http_token_error">Login invalid, please sign in again</string>
     <string name="http_data_explain_error">Data parsing exception, please wait</string>
     <string name="http_server_out_time">The server request timed out, please try again later</string>
     <string name="http_network_error">Request failed, please check network settings</string>
@@ -67,17 +67,17 @@
     <string name="delete_device_have">The device has been deleted</string>
     <string name="name_exist_fail">Name already exists, save failed</string>
     <string name="scene_have_bound">The scene has been bound</string>
-    <string name="no_family">Family does not exist</string>
-    <string name="login_other">Your account is logged in on another device. Please log in again</string>
+    <string name="no_family">Home does not exist</string>
+    <string name="login_other">Your account is logged in on another device. Please sign in again</string>
     <!-- ========================================Toast end========================================================-->
 
     <!-- ========================================设备日志 start========================================================-->
     <string name="no_log">No logs</string>
     <string name="log_content">Log content</string>
-    <string name="clear_log">Empty</string>
+    <string name="clear_log">Clear</string>
     <string name="clear_success">Emptying successful</string>
     <string name="clear_log_title">Clear the log</string>
-    <string name="clear_log_content">Are you sure you want to clear all log information from the device？</string>
+    <string name="clear_log_content">Are you sure you want to clear all sign information from the device？</string>
     <string name="light_on">On</string>
     <string name="light_off">Off</string>
     <string name="panel_custom_click">%s is clicked</string>
@@ -193,9 +193,9 @@
     <!-- ========================================更多 end========================================================-->
 
     <!-- ========================================场景 start========================================================-->
-    <string name="scene_recommend">Recommended scene</string>
-    <string name="scene_mine">My scene(Click Add in the top right corner)</string>
-    <string name="scene_my">My scene</string>
+    <string name="scene_recommend">Recommended Scenes</string>
+    <string name="scene_mine">Scenes(Add in the top right corner)</string>
+    <string name="scene_my">Scenes List</string>
     <string name="scene_name_tv">Scene name</string>
     <string name="scene_name_input">Please enter the scene name</string>
     <string name="scene_alia">Alias management</string>
@@ -229,7 +229,7 @@
     <string name="time_saturday">Saturday</string>
     <string name="time_hour">The whole day</string>
     <string name="condition_time">Trigger period</string>
-    <string name="condition_count">Conditions quantities cannot be more than 6</string>
+    <string name="condition_count">Conditions cannot be more than 6</string>
     <string name="condition_time_one">Cannot add more since there is already a effective period</string>
     <string name="disturb_mode">Do not disturb mode</string>
     <string name="memory">Memory function</string>
@@ -295,25 +295,25 @@
     <!-- ========================================搜索设备 end========================================================-->
 
     <!-- ========================================家庭管理 start========================================================-->
-    <string name="home_manager">Home management</string>
+    <string name="home_manager">Manage Home</string>
     <string name="home_create">Create a new home</string>
     <string name="home_edit">Edit Home</string>
     <string name="home_edit_dialog_title">Set home name</string>
     <string name="home_edit_dialog_content">Edit the home name</string>
     <string name="home_delete">Delete home</string>
     <string name="home_delete_dialog_content">Are you sure you want to delete %s?</string>
-    <string name="home_name">Home name</string>
+    <string name="home_name">Home Name</string>
     <string name="home_time_zone">Home time zone</string>
     <string name="home_time_zone_select">Select time zone</string>
     <string name="home_time_zone_select_error">Incorrect formatting</string>
     <string name="home_main_gateway">Home primary gateway</string>
     <string name="home_main_gateway_log">Primary gateway log</string>
     <string name="home_main_gateway_offline">Primary gateway offline notification</string>
-    <string name="home_device_count">Quantities of all devices</string>
+    <string name="home_device_count">Total devices</string>
     <string name="home_have_delete">The home has been deleted</string>
     <string name="home_not_bind_gateway">Unbound</string>
-    <string name="home_delete_fail">Cannot be deleted, keep at least one family</string>
-    <string name="home_input_name">Please enter your family name</string>
+    <string name="home_delete_fail">Can't delete the only home</string>
+    <string name="home_input_name">Enter home name</string>
     <string name="online">Online</string>
     <string name="unbound">Unbind</string>
     <string name="reset">Resetting</string>
@@ -324,24 +324,24 @@
 
     <!-- ========================================成员管理 start========================================================-->
     <string name="member_add">Shared to</string>
-    <string name="member_exit_home">Exit family</string>
-    <string name="member_exit_home_content">Are you sure you want to leave this family?</string>
+    <string name="member_exit_home">Exit home</string>
+    <string name="member_exit_home_content">Are you sure you want to leave this home?</string>
     <string name="exit">Exit</string>
-    <string name="member_nick">Nick name：</string>
+    <string name="member_nick">Username：</string>
     <string name="unset">Not set</string>
     <string name="member_account">Account：</string>
     <string name="member_time_expired">Expiration time：</string>
-    <string name="member_administrator">Administrator</string>
-    <string name="member_administrator_transfer">Administrator transfer</string>
-    <string name="member_administrator_transfer_content">Are you sure to transfer the administrator?</string>
+    <string name="member_administrator">Admin</string>
+    <string name="member_administrator_transfer">Admin transfer</string>
+    <string name="member_administrator_transfer_content">Are you sure to transfer the admin?</string>
     <string name="member_normal">Member</string>
-    <string name="member_administrator_temporary">Temporary administrator</string>
+    <string name="member_administrator_temporary">Temporary admin</string>
     <string name="member_temporary">Temporary members</string>
     <string name="forever">Forever</string>
-    <string name="member_edit">Edit members</string>
-    <string name="member_name">Member name</string>
-    <string name="member_type">Family role</string>
-    <string name="member_delete">Delete member</string>
+    <string name="member_edit">Edit Members</string>
+    <string name="member_name">Member Name</string>
+    <string name="member_type">Home Role</string>
+    <string name="member_delete">Delete Member</string>
     <string name="member_delete_content">Are you sure you want to remove this member？</string>
     <string name="member_time_expired_edit">Expiration time</string>
     <string name="member_set_time">Set the remaining time</string>
@@ -354,7 +354,7 @@
     <string name="add_member_tip2">Method 2: account number</string>
     <string name="add_member">Search add</string>
     <string name="add_member_success">An invitation has been sent and waiting for consent</string>
-    <string name="add_member_exist">The account already exists in the family</string>
+    <string name="add_member_exist">Account exists in this home</string>
     <string name="device_have_bind">The device is already bound</string>
     <string name="no_account">The account does not exist</string>
     <string name="scan_code">Scan QR code</string>
@@ -362,7 +362,7 @@
     <string name="scan_code_tip_1">Place the barcode in the box and it will be scanned automatically</string>
     <string name="scan_code_tip_2">The environment is too dark, turn on the flash</string>
     <string name="my_code">My QR code</string>
-    <string name="my_code_tip">Scan another QR code and invite me to become a family member</string>
+    <string name="my_code_tip">Scan another QR code and invite me to become a home member</string>
     <!-- ========================================成员管理 end========================================================-->
 
     <!-- ========================================房间管理 start========================================================-->
@@ -414,13 +414,13 @@
 
     <!-- ========================================我的 start========================================================-->
     <string name="set_name">Name setting</string>
-    <string name="set_name_tip">Edit nickname (no more than 20 characters)</string>
-    <string name="set_name_toast">no more than 20 characters</string>
+    <string name="set_name_tip">Edit username (20 letters only)</string>
+    <string name="set_name_toast">Not more than 20 letters</string>
     <string name="nickname_can_not_null">The name cannot be empty</string>
     <string name="me_nick">XXXXXXXXXXX</string>
     <string name="me_character_set">Preference</string>
-    <string name="room_manager">Room management</string>
-    <string name="member_manager">Member management</string>
+    <string name="room_manager">Rooms management</string>
+    <string name="member_manager">Members management</string>
     <string name="theme_set">Set themes</string>
     <string name="theme_set_title">Please select theme location</string>
     <string name="theme_set_current">Use current location</string>
@@ -442,27 +442,27 @@
     <string name="update_app">Please download Tencent app market first</string>
     <string name="update_app_tip">New version found, you can click to update it</string>
     <string name="update_app_new">Current version is latest</string>
-    <string name="msg_center">Message center</string>
+    <string name="msg_center">Messages Center</string>
     <string name="msg_agree">Agreed</string>
-    <string name="msg_agree_dialog_title">You have joined a new family</string>
+    <string name="msg_agree_dialog_title">You have joined a new home</string>
     <string name="msg_agree_dialog_content">Check it ？</string>
     <string name="msg_agree_sure">Yes</string>
     <string name="msg_type_1">You invite %s to %s</string>
-    <string name="msg_type_2">You in %s family was degraded by %s to temporary member (deadline %s)</string>
-    <string name="msg_type_3">You in %s family was upgraded by %s to temporary administrator (deadline %s) </string>
-    <string name="msg_type_4">You in %s family was degraded by %s to member</string>
-    <string name="msg_type_5">You transfer %s family administrator to %s</string>
-    <string name="msg_type_6">You %s family permission expired</string>
+    <string name="msg_type_2">You in %s home was degraded by %s to temporary member (deadline %s)</string>
+    <string name="msg_type_3">You in %s home was upgraded by %s to temporary admin (deadline %s) </string>
+    <string name="msg_type_4">You in %s home was degraded by %s to member</string>
+    <string name="msg_type_5">You transfer %s home admin to %s</string>
+    <string name="msg_type_6">You %s home permission expired</string>
     <string name="msg_type_7">You %s was removed from %s</string>
     <string name="msg_type_8">%s invite you to join in %s</string>
     <string name="msg_type_9">%s joined in %s</string>
     <string name="msg_type_10">In %s you remove %s</string>
     <string name="msg_type_11">In %s you degrade %s to temporary member (deadline %s)</string>
-    <string name="msg_type_12">In %s you upgrade %s to temporary administrator (deadline %s)</string>
+    <string name="msg_type_12">In %s you upgrade %s to temporary admin (deadline %s)</string>
     <string name="msg_type_13">In %s you degrade %s to member</string>
-    <string name="msg_type_14">%s transfer %s family administrator to you</string>
-    <string name="msg_type_15">%s exit family %s</string>
-    <string name="msg_type_16">%s in %s family permission expired</string>
+    <string name="msg_type_14">%s transfer %s home admin to you</string>
+    <string name="msg_type_15">%s exit home %s</string>
+    <string name="msg_type_16">%s in %s home permission expired</string>
     <string name="change_area">Region change</string>
     <string name="change_area_1">Chinese mainland</string>
     <string name="only_this_area">Currently only this region is supported</string>
@@ -520,7 +520,7 @@
     <!-- ========================================智能门锁 start========================================================-->
     <string name="lock_log">Door lock logs</string>
     <string name="lock_default">******</string>
-    <string name="lock_nickname">Nickname management</string>
+    <string name="lock_nickname">Username Management</string>
     <string name="lock_dialog_title">Smart lock message</string>
     <string name="lock_dialog_content">The doorbell requests to unlock. Do you agree to unlock?</string>
     <string name="reject">Reject</string>
@@ -549,7 +549,7 @@
     <string name="lock_error">Lock is abnormal</string>
     <string name="lock_ok">Lock is normal</string>
     <string name="lock_appoint_user">Triggered when specified users unlock</string>
-    <string name="input_nickname">Please enter a nickname</string>
+    <string name="input_nickname">Enter Username</string>
     <string name="lock_title">Smart lock message</string>
     <string name="lock_content">The doorbell requests to unlock.\n Do you agree to unlock?</string>
     <string name="lock_success">Unlock successfully.</string>
@@ -597,17 +597,17 @@
     <string name="smart">Automation</string>
     <string name="security">Security</string>
     <string name="mine">Account</string>
-    <string name="scene">Scene</string>
-    <string name="auto">Smart</string>
-    <string name="multi_link">MultiLinked</string>
-    <string name="group">Light</string>
+    <string name="scene">Scenes</string>
+    <string name="auto">Schedule</string>
+    <string name="multi_link">Grouping</string>
+    <string name="group">Lights</string>
 
     <string name="home_gateway">The gateway is not online</string>
     <string name="invalid_qr">Invalid QR code</string>
     <string name="bind_gateway_success">The gateway was bound</string>
     <string name="bind_tip">Click top right corner \'+\' to add</string>
     <string name="home_tab_device">Device</string>
-    <string name="simple_mode">Simple mode</string>
+    <string name="simple_mode">Simple Mode</string>
     <string name="no_bind_gateway">If the current home is not bound to a gateway, bind it first</string>
     <string name="bind">Scan the code</string>
     <string name="do_ok">Done</string>
@@ -639,52 +639,52 @@
     <string name="phone_number_hint">Please enter the account number</string>
     <string name="password">Please enter a password</string>
     <string name="switch_server_ip_hint">Server switch</string>
-    <string name="again_switch_server_ip_hint">You need to log in again to switch the server IP, please select the server network</string>
+    <string name="again_switch_server_ip_hint">You need to sign in again to switch the server IP, please select the server network</string>
     <string name="network_public">Public network</string>
     <string name="network_in">Internal network</string>
     <string name="network_pre">Pre-release</string>
-    <string name="valid_phone_number_hint">Please enter a valid cell phone number</string>
+    <string name="valid_phone_number_hint">Please enter a valid mobile</string>
 
     <string name="password_different">The two passwords you entered are inconsistent</string>
-    <string name="please_enter_password_hint">The password should be at least 6 digits and not more than 16 digits</string>
+    <string name="please_enter_password_hint">Password (6-16) digits</string>
     <string name="password_no_special">Password cannot contain special characters</string>
-    <string name="password_illegal">The password is illegal</string>
-    <string name="user_name_exist">The user name already exists</string>
+    <string name="password_illegal">The password is invalid</string>
+    <string name="user_name_exist">The username already exists</string>
     <string name="get_code">Send Code</string>
     <string name="get_code_again">Re-send</string>
-    <string name="get_code_count_down">%d seconds to retransmit</string>
-    <string name="get_code_send">A code has been sent</string>
-    <string name="input_code">Please enter the code</string>
+    <string name="get_code_count_down">%d seconds to retry</string>
+    <string name="get_code_send">Code has been sent</string>
+    <string name="input_code">Verification Code</string>
     <string name="input_password_again">Please enter your password again</string>
     <string name="register_soon">Sign up now</string>
     <string name="register_success">Registration successful</string>
     <string name="register_failed">Registration failed</string>
     <string name="code_invalid">The code is invalid</string>
-    <string name="get_password">Forgot password</string>
-    <string name="reset_password">Change password</string>
-    <string name="reset_password_success">Password changed</string>
-    <string name="reset_password_new">Please enter a new password</string>
-    <string name="reset_password_new_again">Please enter the new password again</string>
-    <string name="get_no_phone">No cell phone numbers were obtained</string>
-    <string name="email_hint">Please input the email address</string>
-    <string name="phone_login">Log in with phone</string>
+    <string name="get_password">Forgot Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="reset_password_success">Password Changed</string>
+    <string name="reset_password_new">New Password</string>
+    <string name="reset_password_new_again">Confirm Password</string>
+    <string name="get_no_phone">No mobiles were obtained</string>
+    <string name="email_hint">Email</string>
+    <string name="phone_login">Sign In with phone</string>
     <string name="email_login">Email Login</string>
     <string name="or">or</string>
-    <string name="register_email">Email registration</string>
-    <string name="register_phone">Phone registration</string>
-    <string name="verify_code">Verify Code</string>
+    <string name="register_email">Register</string>
+    <string name="register_phone">Register</string>
+    <string name="verify_code">Code</string>
     <string name="password_tip">Password (6&#8211;16 digits)</string>
-    <string name="password_confirm">Confirm password</string>
+    <string name="password_confirm">Confirm Password</string>
     <string name="send_email_success">Sent successfully, please go to the mailbox to check</string>
     <string name="email_format_error">E-mail format error</string>
     <!-- ========================================登陆注册 end========================================================-->
 
     <!-- ========================================安防  start========================================================-->
     <string name="security_closed">The security system is turned off</string>
-    <string name="security_mode_tv">Security mode</string>
+    <string name="security_mode_tv">Security Mode</string>
     <string name="security_guard">%s in the guard</string>
     <string name="security_have_guarded">Armed</string>
-    <string name="security_status">Security status</string>
+    <string name="security_status">Security Status</string>
     <string name="security_edit">Edit</string>
     <string name="security_edit_cancel">Cancel</string>
     <string name="security_create">Create a security</string>
@@ -715,7 +715,7 @@
     <string name="security_name_exist">Name already exists, save failed</string>
     <string name="security_add_first">Please add security devices first</string>
     <string name="security_countdown">Countdown</string>
-    <string name="security_log">Security logs</string>
+    <string name="security_log">Security Logs</string>
     <string name="security_guiding">%s in the guard</string>
     <string name="security_have_deleted">The security mode was deleted</string>
     <string name="security_have_opened">%s turned on</string>
@@ -1096,8 +1096,8 @@
     <!-- ******************************* 离线语音 end *****************************************-->
 
     <!-- ******************************* 监控 start *****************************************-->
-    <string name="monitor">Monitor</string>
-    <string name="device_add">Add monitor</string>
+    <string name="monitor">Monitoring</string>
+    <string name="device_add">Add</string>
     <string name="monitor_nvr">Adding NVR methods:</string>
     <string name="monitor_ptz">Adding method for PTZ camera:</string>
     <string name="monitor_wifi">Connect device hotspot</string>
@@ -1117,7 +1117,7 @@
     <string name="wifi_password">Wi-Fi password</string>
     <string name="tip_device_id">Please input device id</string>
     <string name="tip_wifi_name">Please input a Wi-Fi name</string>
-    <string name="tip_wifi_password">Please input the Wi-Fi password</string>
+    <string name="tip_wifi_password">Enter Wi-Fi password</string>
     <string name="monitor_code">QR code of Wi-Fi information</string>
     <string name="monitor_code_tip">The QR code is facing the camera at 15&#8211;25cm, and the device will scan and make a sound.</string>
     <string name="monitor_code_tip1">Hear the prompt tone, and the device is successfully connected to the Internet</string>

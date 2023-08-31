@@ -137,7 +137,7 @@
 "9Qr-6a-pbY.segmentTitles[2]" = "مجموعة التحكم في الضوء";
 
 /* Class = "UISegmentedControl"; NdK-SY-byU.segmentTitles[0] = "场景"; ObjectID = "NdK-SY-byU"; */
-"NdK-SY-byU.segmentTitles[0]" = "Scene";
+"NdK-SY-byU.segmentTitles[0]" = "المشاهد";
 
 /* Class = "UISegmentedControl"; NdK-SY-byU.segmentTitles[1] = "设备"; ObjectID = "NdK-SY-byU"; */
 "NdK-SY-byU.segmentTitles[1]" = "الجهاز";
@@ -1493,10 +1493,10 @@
 "xM9-dR-gVs.normalTitle" = "تأكيد";
 
 /* Class = "UIButton"; normalTitle = "全开"; ObjectID = "9Ge-qi-9NP"; */
-"9Ge-qi-9NP.normalTitle" = "الكل قيد التشغيل";
+"9Ge-qi-9NP.normalTitle" = "شغّل";
 
 /* Class = "UIButton"; normalTitle = "全关"; ObjectID = "Eic-x6-U05"; */
-"Eic-x6-U05.normalTitle" = "إيقاف الكل";
+"Eic-x6-U05.normalTitle" = "أطفئ";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "lCC-Sj-WWM"; */
 "lCC-Sj-WWM.text" = "التسمية";
@@ -1508,7 +1508,7 @@
 "fZw-dA-QSf.normalTitle" = "حالة مزامنة أجهزة التحكم في الإضاءة";
 
 /* Class = "UILabel"; text = "4、添加过程中保持连接设备热点"; ObjectID = "H2t-8Q-YO8"; */
-"H2t-8Q-YO8.text" = "4- أبقِ الهاتف المحمول متصلاً بشبكة WiFi الخاصة بالجهاز أثناء عملية إضافة الجهاز.";
+"H2t-8Q-YO8.text" = "4- أبقِ الجوال متصلاً بشبكة WiFi الخاصة بالجهاز أثناء عملية إضافة الجهاز.";
 
 /* Class = "UILabel"; text = "3、选择“IPCXXX”设备热点，默认密码：11111111"; ObjectID = "c2u-Wq-KA1"; */
 "c2u-Wq-KA1.text" = "3- حدد WiFi للجهاز 'IPCXX' وكلمة المرور الافتراضية: 11111111";
@@ -1529,7 +1529,7 @@
 "GOu-l8-yRY.text" = "أدخل كلمة مرور WiFi:";
 
 /* Class = "UILabel"; text = "手机已连接设备WiFi: IPCS5BA4156710879"; ObjectID = "Qk7-zw-LVS"; */
-"Qk7-zw-LVS.text" = "الهاتف المحمول متصل بشبكة WiFi:XXXXXX";
+"Qk7-zw-LVS.text" = "الجوال متصل بشبكة WiFi:XXXXXX";
 
 /* Class = "UILabel"; text = "下一步"; ObjectID = "kn5-6A-y1G"; */
 "kn5-6A-y1G.text" = "الخطوة التالية";
@@ -1547,7 +1547,7 @@
 "bj5-xm-Kmn.text" = "جارٍ الاتصال...";
 
 /* Class = "UILabel"; text = "1、路由器、手机、摄像机尽量靠近； "; ObjectID = "ga6-0I-KJW"; */
-"ga6-0I-KJW.text" = "1- أبقِ جهاز التوجيه، والهاتف المحمول، والكاميرا قريبًا قدر الإمكان.";
+"ga6-0I-KJW.text" = "1- أبقِ جهاز التوجيه، والجوال، والكاميرا قريبًا قدر الإمكان.";
 
 /* Class = "UILabel"; text = "%"; ObjectID = "tde-1b-RQj"; */
 "tde-1b-RQj.text" = "%";
@@ -1664,10 +1664,10 @@
 "TfU-Hd-Q8V.text" = "التسمية";
 
 /* Class = "UISegmentedControl"; nQ8-U4-3hG.segmentTitles[0] = "布防"; ObjectID = "nQ8-U4-3hG"; */
-"nQ8-U4-3hG.segmentTitles[0]" = "Arm";
+"nQ8-U4-3hG.segmentTitles[0]" = "شغّل";
 
 /* Class = "UISegmentedControl"; nQ8-U4-3hG.segmentTitles[1] = "撤防"; ObjectID = "nQ8-U4-3hG"; */
-"nQ8-U4-3hG.segmentTitles[1]" = "نزع السلاح";
+"nQ8-U4-3hG.segmentTitles[1]" = "عطّل";
 
 /* Class = "UISegmentedControl"; 5zv-5N-W4y.segmentTitles[0] = "设备控制"; ObjectID = "5zv-5N-W4y"; */
 "5zv-5N-W4y.segmentTitles[0]" = "التحكم في الجهاز";
@@ -1706,7 +1706,7 @@
 "tXj-NU-331.placeholder" = "6-16位، 包含字母،请注意大小写";
 
 /* Class = "UITextField"; placeholder = "请输入对方账号"; ObjectID = "5Im-fN-ueL"; */
-"5Im-fN-ueL.placeholder" = "الرجاء إدخال رقم الحساب";
+"5Im-fN-ueL.placeholder" = "رقم الحساب";
 
 /* Class = "UILabel"; text = "方式一：扫码添加"; ObjectID = "82E-Ji-zVB"; */
 "82E-Ji-zVB.text" = "الطريقة الأولى: مسح رمز QR ضوئيًا لإضافته";
@@ -1739,7 +1739,7 @@
 "dX4-ie-8d8.text" = "الاسم المستعار ： ";
 
 /* Class = "UILabel"; text = "扫一扫上面的二维码，邀请我成为家庭成员"; ObjectID = "gqg-m9-cmE"; */
-"gqg-m9-cmE.text" = "قم بمسح رمز QR آخر وقم بدعوته ليصبح عضوًا في العائلة";
+"gqg-m9-cmE.text" = "قم بمسح رمز QR آخر وقم بدعوته ليصبح عضوًا في المنزل";
 
 /* Class = "UILabel"; text = "账号"; ObjectID = "2sQ-xG-YL9"; */
 "2sQ-xG-YL9.text" = "الحساب";

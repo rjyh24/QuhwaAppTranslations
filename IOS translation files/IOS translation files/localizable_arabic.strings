@@ -12,18 +12,18 @@
 ///登录
 "Login" = "تسجيل الدخول";
 "Logging" = "تسجيل";
-"PhoneNum" = "رقم الهاتف";
+"PhoneNum" = "رقم الجوال";
 "Pwd" = "كلمة المرور";
-"PleaseEnterAccount" = "الرجاء إدخال رقم الحساب";
-"PleaseEnterPwd" = "الرجاء إدخال كلمة المرور";
-"PleaseCheckMobileNetwork" = "الاتصال بالإنترنت غير متاح، يرجى التحقق من اتصال شبكة الهاتف المحمول لديك.";
+"PleaseEnterAccount" = "رقم الحساب";
+"PleaseEnterPwd" = "كلمة المرور";
+"PleaseCheckMobileNetwork" = "الاتصال بالإنترنت غير متاح، يرجى التحقق من اتصال شبكة الجوال لديك.";
 "LoginFail" = "فشل تسجيل الدخول";
 "PwdError" = "خطأ في كلمة المرور";
 "HasBeenIntranet" = "تم بالفعل التبديل إلى الاختبار على الشبكة الداخلية";
 "HasBeenIssued" = "لقد تم تحويله بالفعل إلى اختبار ما قبل النشر";
 "HasBeenPublicNetwork" = "لقد تم تحويله بالفعل إلى الاختبار على الشبكة العامة";
 "ServerSwitch" = "تبديل الخادم";
-"AccountOrPwdNotNull" = "لا يمكن أن يكون رقم الحساب وكلمة المرور فارغين";
+"AccountOrPwdNotNull" = "رقم الحساب وكلمة المرور فارغين";
 "Tips" = "نصائح";
 "PwdNorMore20" = "لا يمكن أن تتجاوز كلمة المرور 20 حرفًا";
 "PleaseReadPrivacyPolicy" = "يُرجى قراءة سياسة الخصوصية أولاً";
@@ -37,16 +37,16 @@
 "SignUp" = "إنشاء حساب";
 "VerificationCode" = "رمز التحقق";
 "ConfirmPwd" = "تأكيد كلمة المرور";
-"SendVerificationCode" = "إرسال رمز التحقق";
-"PleaseEnterValidPhoneNum" = "الرجاء إدخال رقم هاتف محمول صالح";
+"SendVerificationCode" = "إرسال الرمز";
+"PleaseEnterValidPhoneNum" = "رقم جوال  صالح";
 "TwicePwdDifferent" = "كلمتا المرور اللتين أدخلتهما غير متناسقتين";
 "PwdLenghtError" = "يجب أن تتكون كلمة المرور من 6 أرقام على الأقل وألا تزيد عن 16 رقمًا";
 "PwdNotContantSpecialCharacters" = "لا يمكن أن تحتوي كلمة المرور على أحرف خاصة مثل ('$','@','&', 1-9)";
 "SingUpSuccess" = "تم إنشاء الحساب بنجاح";
 "SingUpFail" = "فشل التسجيل";
-"PwdWrongful" = "كلمة المرور غير مقبولة";
+"PwdWrongful" = "كلمة المرور غير صحيحة";
 "UserAlreadyExists" = "اسم المستخدم موجود بالفعل";
-"PhoneNumOrPwdNotNull" = "لا يمكن أن يكون رقم الهاتف وكلمة المرور فارغين";
+"PhoneNumOrPwdNotNull" = "رقم الجوال وكلمة المرور فارغين";
 "Registering" = "التسجيل";
 ///忘记密码
 "ForgotPwd" = "نسيت كلمة المرور";
@@ -56,9 +56,9 @@
 "ShowPwd" = "إظهار كلمة المرور";
 "HiddenPwd" = "إخفاء كلمة المرور";
 "SendVerificationCodeFail" = "فشل إرسال رمز التحقق";
-"SendVerificationCodeSuccess" = "تم إرسال رمز التحقق بنجاح، يرجى التحقق منه";
+"SendVerificationCodeSuccess" = "تم إرسال رمز التحقق بنجاح";
 "PwdNotNull" = "لا يمكن أن تكون كلمة المرور فارغة";
-"VerificationCodeErrorSingUpFail" = "خطأ في رمز التحقق، فشل إنشاء الحساب";
+"VerificationCodeErrorSingUpFail" = "خطأ في رمز التحقق";
 "ChangePwdSuccessReLogin" = "تم تغيير كلمة المرور بنجاح، يرجى تسجيل الدخول مرة أخرى";
 "ChangePwdFail" = "فشل تعديل كلمة المرور";
 "AccountOrPwdError" = "اسم المستخدم أو كلمة المرور غير صحيحة";
@@ -85,7 +85,7 @@
 "AddSuccess" = "تمت الإضافة بنجاح";
 "AddFail" = "فشلت الإضافة";
 "NameAlreadyExists" = "اسم المستخدم موجود بالفعل";
-"NotManagerTips" = "مسؤولو العائلة فقط لديهم الإذن بالتشغيل";
+"NotManagerTips" = "مسؤولو المنزل فقط لديهم الإذن بالتشغيل";
 "SetName" = "اسم التعيين";
 ///百度语音
 "GwNotBound" = "لا يمكن استخدامه إذا كانت البوابة غير مرتبطة";
@@ -102,7 +102,7 @@
 "RequestExpired" = "انتهت صلاحية الطلب";
 "ShowUnlockPwd" = "إظهار كلمة مرور إلغاء القفل";
 ///权限到期
-"Family" = "العائلة";
+"Family" = "المنزل";
 "YouAreNoLongerIn" = "لم تعد موجودًا";
 "YouAreNoLongerIn%@Family" = "لم تعد في المنزل %@";
 "PermissionExpiration" = "انتهت صلاحية الإذن أو تم حذفه بواسطة المسؤول";
@@ -136,7 +136,7 @@
 "CommonlyUsedDevice" = "المعدات الشائعة";
 ///加家庭
 "PleaseNameFamily" = "الرجاء تعديل اسم منزلك";
-"NameWrongful" = "اسم غير مقبول";
+"NameWrongful" = "اسم غير صحيح";
 "LenghtMore20" = "لا يمكن أن يتجاوز 20 حرفًا";
 "AdministratorsPermissions" = "المسؤول الدائم فقط لديه الإذن";
 ///编辑家庭
@@ -148,9 +148,9 @@
 "AreYouSureDeleteTheFamily" = "هل أنت متأكد من رغبتك في حذف هذا المنزل؟";
 ///庭管理
 "NewAddFamily" = "قم ببناء منزل جديد";
-"EditFamily" = "تحرير العائلة";
-"FamilyName" = "اسم العائلة";
-"SetFamilyName" = "تعيين اسم العائلة";
+"EditFamily" = "تحرير المنزل";
+"FamilyName" = "اسم المنزل";
+"SetFamilyName" = "تعيين اسم المنزل";
 "FamilyTimeZone" = "المنطقة الزمنية الرئيسية";
 "FamilyMainGw" = "البوابة الأساسية للمنزل";
 "AllDevice" = "جميع الأجهزة";
@@ -199,7 +199,7 @@
 ///扫描二维码
 "ScanQRCode" = "مسح رمز QR ضوئيًا";
 "AccessCamera" = "الوصول إلى الكاميرا";
-"PleaseSetCameraAuth" = "الرجاء تمكين إذن الوصول إلى الكاميرا في إعدادات الهاتف";
+"PleaseSetCameraAuth" = "الرجاء تمكين إذن الوصول إلى الكاميرا في إعدادات الجوال";
 "Back" = "رجوع";
 "SetUp" = "الإعداد";
 ///替换设备
@@ -328,14 +328,14 @@
 "OnlineVoiceLimit" = "حد الصوت عبر الإنترنت";
 "OnlineVoiceLimitTips" = "بعد التنشيط، يتحكم الصوت فقط في المشهد والجهاز ومجموعة التحكم في الإضاءة المرتبطة بهذا الجهاز.";
 ///虚拟设备更多
-"PleaseCheckNetwork" = "الاتصال بالإنترنت غير متاح، يرجى التحقق من اتصال شبكة الهاتف المحمول لديك!";
+"PleaseCheckNetwork" = "الاتصال بالإنترنت غير متاح، يرجى التحقق من اتصال شبكة الجوال لديك!";
 "PleaseCheckGw" = "البوابة غير متصلة بالإنترنت، يرجى التحقق من البوابة!";
 "PleaseCheckDev" = "الجهاز غير متصل بالإنترنت، يرجى التحقق من الجهاز!";
 ///备日志
 "MainGwLog" = "سجل البوابة الأساسية";
 "TryingLoad" = "جارٍ محاولة التحميل…";
 "NoMoreData" = "لا مزيد من البيانات";
-"Empty" = "فارغ";
+"Empty" = "مسح";
 "EmptyLog" = "مسح السجلات";
 "AreYouSureEmptyAllLog" = "هل أنت متأكد من مسح كافة السجلات؟";
 "EmptySuccess" = "نجحت عملية المسح";
@@ -520,10 +520,10 @@
 "Rename" = "إعادة التسمية";
 "UpdataDevName" = "تعديل اسم الجهاز";
 "BoundMainGwSuccess" = "نجح ربط البوابة الأساسية";
-"TheMianGwHasBeenBoundByAnotherFamily" = "تم ربط هذه البوابة الأساسية بعائلة أخرى";
+"TheMianGwHasBeenBoundByAnotherFamily" = "تم ربط هذه البوابة الأساسية بمنزل آخر";
 "AccountNotExistent" = "رقم الحساب غير موجود";
 "TheMianGwHasBeenBoundByMyself" = "لقد قمت بربط هذه البوابة الأساسية بنفسك";
-"TheGwHasBeenBoundByAnotherFamily" = "تم ربط البوابة بعائلة أخرى";
+"TheGwHasBeenBoundByAnotherFamily" = "تم ربط البوابة بمنزل آخر";
 "SerialCodeIllegal" = "رمز QR غير قانوني";
 "GwNotDetectedSuccess" = "لم يتم اكتشاف البوابة بنجاح";
 "GwTypeError" = "نوع البوابة خاطئ";
@@ -561,7 +561,7 @@
 "SetEnergyhreshold" = "تعيين عتبة الطاقة";
 ///空开关
 "PleaseCheckHomeAppliances" = "الرجاء التحقق من الأجهزة المنزلية في المنزل أولاً";
-"PleaseCheckHomeAppliances\nTips" = "يُرجى التحقق من الأجهزة المنزلية \n بعد أن يكون إيقاف تشغيلها إلزاميًا، وتشغيلها فقط من خلال تطبيق الهاتف المحمول، ومن المستحيل تشغيلها من خلال المعدات يدويًا";
+"PleaseCheckHomeAppliances\nTips" = "يُرجى التحقق من الأجهزة المنزلية \n بعد أن يكون إيقاف تشغيلها إلزاميًا، وتشغيلها فقط من خلال تطبيق الجوال، ومن المستحيل تشغيلها من خلال المعدات يدويًا";
 "TakeNote" = "ملاحظة";
 "Checked" = "محدد";
 "CelsiusDegree" = "درجة مئوية";
@@ -577,8 +577,8 @@
 "Next" = "الخطوة التالية";
 "RestoreRemoteSettings" = "استعادة الإعدادات عن بعد";
 "SmartAirSwitchRestoreRemoteSettings1" = "1. أولاً، افتح جميع مفاتيح الهواء يدويًا. كما هو موضح أعلاه:";
-"SmartAirSwitchRestoreRemoteSettings2" = "2. يرسل تطبيق الهاتف المحمول أوامر لفتح كافة مفاتيح الهواء";
-"SmartAirSwitchRestoreRemoteSettings3" = "3. يرسل تطبيق الهاتف المحمول أوامر لإغلاق كافة مفاتيح الهواء.";
+"SmartAirSwitchRestoreRemoteSettings2" = "2. يرسل تطبيق الجوال أوامر لفتح كافة مفاتيح الهواء";
+"SmartAirSwitchRestoreRemoteSettings3" = "3. يرسل تطبيق الجوال أوامر لإغلاق كافة مفاتيح الهواء.";
 "SmartAirSwitchRestoreRemoteSettings4" = "4. بعد إكمال الخطوات الثلاث المذكورة أعلاه، سيستأنف مفتاح الهواء التحكم عن بعد.";
 "SmartAirSwitchRestoreRemoteSettings5" = "(ملاحظة: يجب التأكد من أن الدائرة بأكملها والمعدات الكهربائية في حالة آمنة!)";
 "AllAirSwitchesOpened" = "جميع مفاتيح الهواء مفتوحة";
@@ -600,7 +600,7 @@
 "TheDevHasBeenLinkageTriggerSoucreCannotBoundScenes" = "هذا الجهاز مرتبط بالفعل بمشهد واحد ولا يمكن ربطه بمشاهد أخرى";
 "BoundFail" = "فشل الربط";
 "TheScenesHasBeenBound" = "تم ربط المشهد";
-"FamilyNoExistent" = "العائلة غير موجودة";
+"FamilyNoExistent" = "المنزل غير موجود";
 "UnboundSuccess" = "نجح إلغاء الربط";
 "UnboundFail" = "فشل إلغاء الربط";
 "ButtonName" = "اسم المفتاح";
@@ -630,7 +630,7 @@
 "PleaseSelectSpecifiedUser" = "الرجاء تحديد المستخدم المحدد";
 "YouHaveNewMsgPleaseCheckLook" = "لديك رسالة جديدة، يرجى الذهاب والتحقق منها في الوقت المناسب.";
 "DoorbellRequestEnteringSmartHomeUnlock" = "يطلب جرس الباب إلغاء القفل ولا يمكن فتحه إلا عند الدخول إلى المنزل الذكي.";
-"YouHaveMobilePushNotif" = "لديك إشعار دفع على الهاتف المحمول";
+"YouHaveMobilePushNotif" = "لديك إشعار دفع على الجوال";
 /// الصفحة الرئيسية
 "PlaySpecifiedVolumeAudioSource" = "تشغيل مصدر الصوت المحدد";
 ///亮度模块、色温模块
@@ -656,7 +656,7 @@
 "EveryDay" = "كل يوم";
 ///背景音乐
 "JumpSpecifiedPage" = "الانتقال إلى رقم الصفحة المحدد";
-"PleaseEnterSpecifiedpage" = "الرجاء إدخال رقم الصفحة التي تريدها";
+"PleaseEnterSpecifiedpage" = "رقم الصفحة التي تريدها";
 "JumpPageCannot0OrNull" = "لا يمكن أن يكون رقم الصفحة 0 أو فارغًا";
 "JumpPageCannotMoreMaxPage" = "لا يمكن أن يتجاوز رقم الصفحة الحد الأقصى لعدد الصفحة";
 "TheFirstPage" = "هذه هي الصفحة الأولى";
@@ -838,7 +838,7 @@
 ///场景库
 "LeastOnekeepScene" = "على الأقل للاحتفاظ بمشهد مشترك واحد";
 "Add" = "أضف";
-"ScenesLibs" = "Scenes Libs";
+"ScenesLibs" = "كل المشاهد";
 "Done" = "تم";
 ///间管理
 "RoomManagement" = "إدارة الغرفة";
@@ -846,26 +846,26 @@
 /// اسم المستخدم
 "Default" = "افتراضي";
 "SelectRoom" = "اختر غرفة";
-"NewAddRoom" = "إنشاء غرفة جديدة";
+"NewAddRoom" = "إضافة غرفة";
 "EditRoom" = "تحرير الغرفة";
 "RoomName" = "اسم الغرفة";
 "DeviceManager" = "إدارة الأجهزة";
 "DeleteRoom" = "حذف الغرفة";
 ///AI
-"Scenes" = "مشهد";
-"AISmart" = "ذكاء الذكاء الاصطناعي";
-"Multilink" = "مجموعات متعددة";
-"LampControlGroup" = "مجموعة التحكم في المصباح";
-"RecommendScenes" = "المشهد الموصى به";
-"MineScenes" = "المشهد الخاص بي";
-"MineAISmart" = "جهاز الذكاء الاصطناعي الذكي الخاص بي";
-"MineParalleling" = "موازاتي";
-"MineLinkage" = "ارتباطي";
-"MineLampControlGroup" = "مجموعة التحكم في المصباح الخاص بي";
-"ClickTopRightBtnAdd" = "الرجاء النقر فوق + للإضافة";
+"Scenes" = "المشاهد";
+"AISmart" = "الجدولة";
+"Multilink" = "المجموعات";
+"LampControlGroup" = "الإضاءة";
+"RecommendScenes" = "مشاهد مفترحة";
+"MineScenes" = "قائمة المشاهد";
+"MineAISmart" = "قائمة الجدولة";
+"MineParalleling" = "مجموعات الأجهزة";
+"MineLinkage" = "ربط الأجهزة";
+"MineLampControlGroup" = "مجموعات الإضاءة";
+"ClickTopRightBtnAdd" = "انقر + للإضافة";
 ///AI智能
-"NewAddAISmart" = "إنشاء منزل ذكي مدعوم بالذكاء الاصطناعي";
-"SetAISmartName" = "يُرجى تعديل اسم المنزل الذكي المزود بتقنية الذكاء الاصطناعي";
+"NewAddAISmart" = "إنشاء منزل";
+"SetAISmartName" = "صحّح اسم المنزل";
 "If" = "إذا";
 "Then" = "ثم";
 "OneOfTheConditions" = "عند استيفاء شرط واحد";
@@ -1025,8 +1025,8 @@
 "DeleteLinkage" = "حذف الارتباط";
 "LinkageNotExisit" = "الرابط غير موجود";
 "AddWhichGateway" = "الرجاء إضافة أي بوابة";
-"NewAddParalleling" = "إنشاء مجموعة جديدة";
-"NewAddLinkage" = "إنشاء اقتران جديد";
+"NewAddParalleling" = "مجموعة أجهزة";
+"NewAddLinkage" = "ربط أجهزة";
 "SetParallelName" = "يُرجى إعداد اسم المجموعة";
 "AddParallelDevice" = "إضافة جهاز موازي";
 "PleaseSelectDevice" = "الرجاء تحديد الجهاز";
@@ -1068,7 +1068,7 @@
 "TheDevVerLowCannotSelect" = "لا يمكن تحديد إصدار البرنامج الثابت للجهاز المنخفض جدًا";
 "AddLampControlSwitch" = "إضافة مفتاح التحكم في الإضاءة";
 ///灯控管理
-"LampControlManagement" = "إدارة التحكم في الضوء";
+"LampControlManagement" = "التحكم بالإضاءة";
 "SelectLampControl" = "حدد التحكم في الإضاءة";
 "TheLampControlGroupDevAlreadyNotExisit" = "جهاز مجموعة التحكم في الضوء غير موجود";
 "LampControlName" = "اسم التحكم في الضوء";
@@ -1096,16 +1096,16 @@
 "TheDevHasBeenLinkageTriggerSourceCannotSelect" = "لا يمكن تحديد الجهاز الذي كان بالفعل مصدر تشغيل الارتباط";
 ///推送通知
 "TextBroadcast" = "بث النص";
-"PleaseEnterBroadcastContent" = "الرجاء إدخال سياق البث";
+"PleaseEnterBroadcastContent" = "سياق البث";
 "NotifMsg" = "الإخطار";
 "DefaultNotif" = "الإشعار الافتراضي";
 "PleaseNoMore20" = "يُرجى تجاوز ما يصل إلى 20 حرفًا";
 ///Wi-Fi配置
-"MobileHasBeenConnectedDevWifi:%@" = "تم توصيل الهاتف المحمول بالجهاز WiFi:%@";
-"PleaseMobileConnectDevWifiBackThePage" = "بعد توصيل الهاتف المحمول بشبكة WiFi الخاصة بالجهاز، يرجى العودة إلى هذه الواجهة";
+"MobileHasBeenConnectedDevWifi:%@" = "تم توصيل الجوال بالجهاز WiFi:%@";
+"PleaseMobileConnectDevWifiBackThePage" = "بعد توصيل الجوال بشبكة WiFi الخاصة بالجهاز، يرجى العودة إلى هذه الواجهة";
 "PwdErrorWaitSetPwd" = "خطأ في كلمة المرور، انتظر لتعيين كلمة المرور";
 "MatchNetworkfail:%@" = "فشل الاتصال بالشبكة:%@";
-"MobileUnConectDevHotspot" = "الهاتف المحمول غير متصل بشبكة WiFi للجهاز";
+"MobileUnConectDevHotspot" = "الجوال غير متصل بشبكة WiFi للجهاز";
 "DevAlreadyHasBeenAdd" = "تمت إضافة الجهاز بالفعل";
 "SubGwHasBeenAdd" = "تمت إضافة البوابة الفرعية";
 "MainGwHasBeenBound" = "تم ربط البوابة الرئيسية";
@@ -1123,12 +1123,12 @@
 "SecurityState" = "حالة الأمان";
 "SecurityModeEdit" = "تحرير وضع الأمان";
 "CreateSecurityMode" = "إنشاء وضع أمان";
-"PleaseEnterName" = "الرجاء إدخال الاسم";
+"PleaseEnterName" = "الاسم";
 "NameNoMore10" = "لا يمكن أن يتجاوز الاسم 10 أحرف";
 "TheModeInAlertingCannotDelete" = "لا يمكن حذف الوضع الموجود في الحراسة";
 "WhetherDeleteTheSecurityMode" = "هل سيتم حذف وضع الأمان؟";
 "AllDayGuardCannotTurnOff" = "لا يمكن إيقاف تشغيل الحراسة طوال اليوم";
-"PleaseEnterSecurityName" = "الرجاء إدخال اسم الأمان";
+"PleaseEnterSecurityName" = "اسم الأمان";
 "TurnOnCountDown" = "تشغيل العد التنازلي";
 "EffectiveImmediately" = "فعال في نفس الوقت";
 "CountDown%dSecond" = "العد التنازلي %d ثانية";
@@ -1149,9 +1149,9 @@
 "SecurityMode" = "وضع الأمان";
 "SecurityStatus" = "حالة الأمان";
 "SecurityLog" = "سجلات الأمان";
-"SelfAlert" = "المنبه المحدد ذاتيًا";
-"HomeAlert" = "منبه العودة إلى المنزل";
-"LeaveHomneAlert" = "الخروج من إنذار المنزل";
+"SelfAlert" = "إنذار مخصص";
+"HomeAlert" = "إنذار العودة";
+"LeaveHomneAlert" = "إنذار المغادرة";
 "UnderGuard" = "تحت الحراسة";
 "Edit" = "تحرير";
 "Cancel" = "إلغاء";
@@ -1163,10 +1163,10 @@
 "AppDownloadQRCode" = "تنزيل التطبيق، رمز QR";
 "NoteNick(NoMore20)" = "الاسم المستعار للتعليق (لا يزيد عن 20 حرفًا)";
 "NameNoMore20" = "لا يمكن أن يتجاوز الاسم 20 حرفًا";
-"PleaseMobileSystemUpgradeToIOS12" = "يُرجى تحديث نظام الهاتف المحمول إلى iOS12 أو أكثر";
-"SmartLog" = "السجلات الذكية";
-"SetTheme" = "إعداد السمات";
-"PleaseSelectThemeUseLocation" = "الرجاء تحديد موقع السمة";
+"PleaseMobileSystemUpgradeToIOS12" = "يُرجى تحديث نظام الجوال إلى iOS12 أو أكثر";
+"SmartLog" = "السجلات";
+"SetTheme" = "تغيير الخلفية";
+"PleaseSelectThemeUseLocation" = "حدد مكان الخلفية";
 "UseCurrentLocation" = "استخدام الموقع الحالي";
 "UseAllLocation" = "يتم تطبيقه على كافة المواقع";
 "ChangeArea" = "تغيير المنطقة";
@@ -1197,13 +1197,13 @@
 "PwdAlreadyChangePleaseLoginIn" = "تم تغيير كلمة المرور بالفعل، يرجى تسجيل الدخول مرة أخرى";
 "OldPwdError" = "خطأ في كلمة المرور القديمة";
 "MsgCenter" = "مركز الرسائل";
-"Agreed" = "متفق عليه";
-"YouHasBeenJoinThefamily" = "لقد كنت عضوًا في العائلة";
+"Agreed" = "موافق";
+"YouHasBeenJoinThefamily" = "لقد كنت عضوًا في المنزل";
 "WhetherGoToLookOver" = "هل ترغب في التحقق منه؟";
 "LookOver" = "التحقق";
 "AgreeRequestFail" = "فشل طلب الموافقة";
-"About" = "حول";
-"HelpAndFaceback" = "المساعدة والتعليقات";
+"About" = "المزيد";
+"HelpAndFaceback" = "المساعدة";
 "Version" = "الإصدار";
 "Server" = "الخادم";
 "IntranetTest" = "اختبار على الشبكة الداخلية";
@@ -1237,8 +1237,8 @@
 "NoBoundMainGwPleaseBound" = "البوابة الرئيسية غير مرتبطة، يرجى ربط البوابة الرئيسية أولاً";
 "MemberManagement" = "إدارة الأعضاء";
 "AddSharedMembers" = "إضافة أعضاء مشتركين";
-"ExitFamily" = "الخروج من العائلة";
-"AreYouSureExitTheFamily" = "هل أنت متأكد من الخروج من العائلة؟";
+"ExitFamily" = "الخروج من المنزل";
+"AreYouSureExitTheFamily" = "هل تريد فعلا الخروج من المنزل؟";
 "NickNoSet" = "الاسم المستعار: غير محدد";
 "Account：%@" = "الحساب:%@";
 "Nick：%@" = "الاسم المستعار:%@";
@@ -1248,14 +1248,14 @@
 "TemporaryAdministrator" = "مسؤول مؤقت";
 "ExpirationTime：%@" = "وقت انتهاء الصلاحية:%@";
 "TemporaryMembers" = "أعضاء مؤقتون";
-"ExitFamilySuccess" = "الخروج من العائلة بنجاح";
-"ExitFamilyFail" = "فشل الخروج من العائلة";
+"ExitFamilySuccess" = "تم الخروج من المنزل بنجاح";
+"ExitFamilyFail" = "فشل الخروج من المنزل";
 "AddSharesMembers" = "إضافة أعضاء مشتركين";
 "PleaseScanAnotheAccountCodeToAdd" = "الرجاء مسح رمز الاستجابة السريعة الخاص بحساب الطرف الآخر لإضافته";
 "AddAccountCannotNull" = "لا يمكن أن يكون رقم الحساب المضاف خاليًا";
 "AddRequestSendSuccessPleaseWiat" = "تم إرسال طلب الإضافة بنجاح، يرجى الانتظار";
 "AddRequestFail" = "فشلت إضافة الطلب";
-"TheAccountAlreadyInfFamily" = "الحساب موجود بالفعل في العائلة.";
+"TheAccountAlreadyInfFamily" = "الحساب موجود بالفعل في المنزل.";
 "AdministratorsNotExisit" = "المسؤول غير موجود";
 "SearchUserNotExisit" = "المستخدم غير موجود";
 "AdministratorTransfer" = "نقل المسؤول";
@@ -1270,7 +1270,7 @@
 "yyyyYearMMMonthddDayHH:mm" = "yyyy/MM/dd HH:mm";
 "MMMonthddDay" = "MM/dd";// "MM Month dd Day";
 "MenberName" = "اسم العضو";
-"FamilyRole" = "دور العائلة";
+"FamilyRole" = "الصلاحيات";
 "ExpirationTime" = "وقت انتهاء الصلاحية";
 "DeleteMember" = "حذف العضو";
 "Forever" = "للأبد";
@@ -1299,11 +1299,11 @@
 "SpecificSet" = "التفضيلات";
 "SystemSet" = "إعدادات النظام";
 "MineMsgType1" = "لقد قمت بدعوة %@ إلى %@";
-"MineMsgType2" = "تم تخفيض تصنيفك في عائلة %@ بواسطة %@ إلى عضو مؤقت (الموعد النهائي %@)";
-"MineMsgType3" = "تم ترقيتك في عائلة %@ بواسطة %@ إلى مسؤول مؤقت (الموعد النهائي %@) ";
-"MineMsgType4" = "تم تخفيض تصنيفك في عائلة %@ بواسطة %@ إلى عضو";
-"MineMsgType5" = "لقد قمت بنقل مسؤول العائلة %@ إلى %@";
-"MineMsgType6" = "انتهت صلاحية إذن العائلة %@ الخاص بك";
+"MineMsgType2" = "تم تخفيض تصنيفك في منزل %@ بواسطة %@ إلى عضو مؤقت (الموعد النهائي %@)";
+"MineMsgType3" = "تم ترقيتك في منزل %@ بواسطة %@ إلى مسؤول مؤقت (الموعد النهائي %@) ";
+"MineMsgType4" = "تم تخفيض تصنيفك في منزل %@ بواسطة %@ إلى عضو";
+"MineMsgType5" = "لقد قمت بنقل مسؤول المنزل %@ إلى %@";
+"MineMsgType6" = "انتهت صلاحية إذن المنزل %@ الخاص بك";
 "MineMsgType7" = "تمت إزالة %@ من %@";
 "MineMsgType8" = "%@ يدعوك للانضمام إلى %@";
 "MineMsgType9" = "انضم%@ إلى %@";
@@ -1311,9 +1311,9 @@
 "MineMsgType11" = "في %@ قمت بتخفيض %@ إلى عضو مؤقت (الموعد النهائي %@)";
 "MineMsgType12" = "في %@ قمت بترقية %@ إلى مسؤول مؤقت (الموعد النهائي %@)";
 "MineMsgType13" = "في %@ قمت بتخفيض %@ إلى عضو";
-"MineMsgType14" = "%@ نقل مسؤول العائلة %@ إليك";
-"MineMsgType15" = "%@ خروج من العائلة %@";
-"MineMsgType16" = "انتهت صلاحية إذن %@ في %@ للعائلة";
+"MineMsgType14" = "%@ نقل مسؤول المنزل %@ إليك";
+"MineMsgType15" = "%@ خروج من المنزل %@";
+"MineMsgType16" = "انتهت صلاحية إذن %@ في %@ للمنزل";
 ///Siri快捷指令
 "SiriShortcutCommand" = "أوامر Siri السريعة";
 "SiriPhrase" = "عبارة Siri";
@@ -1493,10 +1493,10 @@
 //册方式
 "EmailLogin" = "تسجيل الدخول إلى عنوان البريد الإلكتروني";
 "Email" = "عنوان البريد الإلكتروني";
-"PhoneLogin" = "تسجيل الدخول برقم هاتف الجوال";
-"PleaseEnterValidEmail" = "الرجاء إدخال تنسيق البريد الإلكتروني الصحيح";
+"PhoneLogin" = "تسجيل الدخول برقم الجوال";
+"PleaseEnterValidEmail" = "البريد غير صحيح";
 "EmailRegister" = "إنشاء حساب عبر عنوان البريد الإلكتروني";
-"PhoneRegister" = "إنشاء حساب عبر رقم الهاتف المحمول";
+"PhoneRegister" = "إنشاء حساب عبر رقم الجوال";
 "ByEmail" = "عبر عنوان البريد الإلكتروني";
-"ByPhone" = "عبر رقم الهاتف المحمول";
+"ByPhone" = "عبر رقم الجوال";
 "Or" = "أو";

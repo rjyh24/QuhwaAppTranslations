@@ -67,7 +67,7 @@
     <string name="delete_device_have">تم حذف الجهاز</string>
     <string name="name_exist_fail">الاسم موجود بالفعل، فشل الحفظ</string>
     <string name="scene_have_bound">تم ربط السيناريو</string>
-    <string name="no_family">العائلة غير موجودة</string>
+    <string name="no_family">المنزل غير موجود</string>
     <string name="login_other">تم تسجيل دخول حسابك على جهاز آخر. يُرجى تسجيل الدخول مرة أخرى</string>
     <!-- ========================================Toast end========================================================-->
     
@@ -198,13 +198,13 @@
     <string name="scene_mine">المشهد الخاص بي (انقر فوق "إضافة" في الزاوية اليمنى العليا)</string>
     <string name="scene_my">المشهد الخاص بي</string>
     <string name="scene_name_tv">اسم المشهد</string>
-    <string name="scene_name_input">الرجاء إدخال اسم المشهد</string>
+    <string name="scene_name_input">اسم المشهد</string>
     <string name="scene_alia">إدارة الأسماء المستعارة</string>
     <string name="scene_icon">إدارة الأيقونات</string>
     <string name="scene_icon_tip">لا توجد أيقونات</string>
     <string name="scene_add_action">إضافة إجراء</string>
     <string name="scene_no_action">لم تتم إضافة أي مشهد</string>
-    <string name="scene_dialog_title">الرجاء إدخال اسم المشهد</string>
+    <string name="scene_dialog_title">اسم المشهد</string>
     <string name="scene_dialog_title_sub">يُرجى تعيين اسم المشهد</string>
     <string name="scene_dialog_title_update">تعديل اسم المشهد</string>
     <string name="scene_create">أنشئ مشهدًا جديدًا</string>
@@ -245,7 +245,7 @@
     <string name="delete_action">حذف الإجراء</string>
     <string name="scene_add_action_title">أضف إجراء المشهد</string>
     <string name="can_not_edit">غير قابل للتحرير</string>
-    <string name="action_send_msg_mobile">إرسال إشعار إلى الهاتف المحمول</string>
+    <string name="action_send_msg_mobile">إرسال إشعار إلى الجوال</string>
     <string name="set_delay">ضبط وقت التأخير</string>
     <string name="set_delay_thans">%ds</string>
     <string name="set_delay_دقيقة">%dm</string>
@@ -254,10 +254,10 @@
     <string name="action_do_scene">تنفيذ المشهد</string>
     <string name="alia_add_tv">أضف اسمًا مستعارًا</string>
     <string name="alia_add_not">لم تتم إضافة اسم مستعار</string>
-    <string name="alia_dialog_title">الرجاء إدخال الاسم المستعار للمشهد</string>
+    <string name="alia_dialog_title">الاسم المستعار للمشهد</string>
     <string name="alia_dialog_title_sub">إنشاء اسم مستعار للمشهد</string>
     <string name="alia_dialog_delete_title">حذف الاسم المستعار</string>
-    <string name="alia_dialog_delete_content">هل أنت متأكد من رغبتك في حذف هذا الاسم المستعار؟</string>
+    <string name="alia_dialog_delete_content">هل تريد فعلا حذف هذا الاسم المستعار؟</string>
     <string name="dialog_delete_scene">حذف المشاهد</string>
     <string name="dialog_delete_scene_content">هل أنت متأكد من أنك تريد حذف هذا المشهد ？ </string>
     <string name="edit_scene">تحرير المشهد</string>
@@ -313,8 +313,8 @@
     <string name="home_device_count">كميات جميع الأجهزة</string>
     <string name="home_have_delete">تم حذف المنزل</string>
     <string name="home_not_bind_gateway">غير منضم</string>
-    <string name="home_delete_fail">لا يمكن حذفه، احتفظ بعائلة واحدة على الأقل</string>
-    <string name="home_input_name">الرجاء إدخال اسم عائلتك</string>
+    <string name="home_delete_fail">لا يمكن حذف المنزل الوحيد</string>
+    <string name="home_input_name">اسم المنزل</string>
     <string name="online">متصل</string>
     <string name="unbound">إلغاء الربط</string>
     <string name="reset">إعادة الضبط</string>
@@ -324,11 +324,11 @@
     <!-- ========================================家庭管理 end========================================================-->
 
     <!-- ========================================成员管理 start========================================================-->
-    <string name="member_add">تمت المشاركة مع</string>
-    <string name="member_exit_home">الخروج من العائلة</string>
-    <string name="member_exit_home_content">هل أنت متأكد من رغبتك في مغادرة هذه العائلة؟</string>
+    <string name="member_add">إضافة عضو</string>
+    <string name="member_exit_home">الخروج من المنزل</string>
+    <string name="member_exit_home_content">هل تريد فعلا مغادرة هذه المنزل؟</string>
     <string name="exit">خروج</string>
-    <string name="member_nick">الاسم المستعار ： </string>
+    <string name="member_nick">اسم المستخدم ： </string>
     <string name="unset">غير محدد</string>
     <string name="member_account">الحساب ： </string>
     <string name="member_time_expired">وقت انتهاء الصلاحية ： </string>
@@ -341,21 +341,21 @@
     <string name="forever">للأبد</string>
     <string name="member_edit">تحرير الأعضاء</string>
     <string name="member_name">اسم العضو</string>
-    <string name="member_type">دور العائلة</string>
+    <string name="member_type">الصلاحيات</string>
     <string name="member_delete">حذف العضو</string>
-    <string name="member_delete_content">هل أنت متأكد من رغبتك في إزالة هذا العضو ？ </string>
+    <string name="member_delete_content">هل تريد فعلا إزالة هذا العضو ？ </string>
     <string name="member_time_expired_edit">وقت انتهاء الصلاحية</string>
     <string name="member_set_time">اضبط الوقت المتبقي</string>
     <string name="member_no_update">لا يوجد تغيير</string>
     <string name="member_update">تعديل العضو</string>
-    <string name="member_update_content">هل أنت متأكد من رغبتك في تعديل هذا العضو ？ </string>
+    <string name="member_update_content">هل تريد فعلا تعديل هذا العضو ？ </string>
     <string name="hour">ساعة</string>
     <string name="day">اليوم</string>
     <string name="add_member_tip">الطريقة الأولى: رمز الاستجابة السريعة</string>
     <string name="add_member_tip2">الطريقة الثانية: رقم الحساب</string>
     <string name="add_member">إضافة بحث</string>
     <string name="add_member_success">تم إرسال دعوة وفي انتظار الموافقة</string>
-    <string name="add_member_exist">الحساب موجود بالفعل في العائلة</string>
+    <string name="add_member_exist">الحساب موجود في المنزل</string>
     <string name="device_have_bind">الجهاز مرتبط بالفعل</string>
     <string name="no_account">الحساب غير موجود</string>
     <string name="scan_code">امسح رمز QR ضوئيًا</string>
@@ -363,7 +363,7 @@
     <string name="scan_code_tip_1">ضع الرمز الشريطي في الصندوق وسيتم مسحه ضوئيًا تلقائيًا</string>
     <string name="scan_code_tip_2">البيئة مظلمة للغاية، قم بتشغيل الفلاش</string>
     <string name="my_code">رمز QR الخاص بي</string>
-    <string name="my_code_tip">امسح رمز QR آخر ودعني لأصبح عضوًا في العائلة</string>
+    <string name="my_code_tip">امسح رمز QR آخر ودعني لأصبح عضوًا في المنزل</string>
     <!-- ========================================成员管理 end========================================================-->
 
     <!-- ========================================房间管理 start========================================================-->
@@ -401,7 +401,7 @@
     <string name="edit_room">تحرير الغرفة</string>
     <string name="edit_room_dialog">أعد تسمية الغرفة</string>
     <string name="delete_room">حذف الغرفة</string>
-    <string name="delete_room_dialog">هل أنت متأكد من رغبتك في حذف الغرفة؟</string>
+    <string name="delete_room_dialog">هل تريد فعلا حذف الغرفة؟</string>
     <string name="delete_room_tip">يُرجى إزالة جميع المعدات الموجودة في الغرفة الحالية قبل حذفها</string>
     <string name="room_name">اسم الغرفة</string>
     <string name="device_manager">إدارة الأجهزة</string>
@@ -415,14 +415,14 @@
 
     <!-- ========================================我的 start========================================================-->
     <string name="set_name">إعدادات الاسم</string>
-    <string name="set_name_tip">تعديل اللقب (لا يزيد عن 20 حرفًا)</string>
+    <string name="set_name_tip">تعديل الاسم (لا يزيد عن 20 حرفًا)</string>
     <string name="set_name_toast">لا يزيد عن 20 حرفًا</string>
     <string name="nickname_can_not_null">لا يمكن أن يكون الاسم فارغًا</string>
     <string name="me_nick">XXXXXXXXXXXX</string>
-    <string name="me_character_set">التفضيل</string>
-    <string name="room_manager">إدارة الغرفة</string>
+    <string name="me_character_set">المفضلات</string>
+    <string name="room_manager">إدارة الغرف</string>
     <string name="member_manager">إدارة الأعضاء</string>
-    <string name="theme_set">تعيين السمات</string>
+    <string name="theme_set">تغيير المظهر</string>
     <string name="theme_set_title">يُرجى تحديد موقع السمة</string>
     <string name="theme_set_current">استخدم الموقع الحالي</string>
     <string name="theme_set_all">يُطبق على جميع المواقع</string>
@@ -436,7 +436,7 @@
     <string name="commit_tip">يرجى التعليق</string>
     <string name="commit_success">تم الإرسال</string>
     <string name="commit_fail">فشل الإرسال</string>
-    <string name="me_about">حول</string>
+    <string name="me_about">المزيد</string>
     <string name="version">الإصدار</string>
     <string name="terms">المصطلحات &#160;&amp; &#160; الحالة</string>
     <string name="about_us">نبذة عنا</string>
@@ -445,15 +445,15 @@
     <string name="update_app_new">الإصدار الحالي هو الأحدث</string>
     <string name="msg_center">مركز الرسائل</string>
     <string name="msg_agree">متفق عليه</string>
-    <string name="msg_agree_dialog_title">لقد انضممت إلى عائلة جديدة</string>
-    <string name="msg_agree_dialog_content">تحقق منه ？ </string>
+    <string name="msg_agree_dialog_title">لقد انضممت إلى منزل جديد</string>
+    <string name="msg_agree_dialog_content">تأكيد؟</string>
     <string name="msg_agree_sure">نعم</string>
     <string name="msg_type_1">أنت تدعو %s إلى %s</string>
-    <string name="msg_type_2">تم تخفيض تصنيفك في عائلة %s بواسطة %s إلى عضو مؤقت (الموعد النهائي %s)</string>
-    <string name="msg_type_3">تمت ترقيتك في عائلة %s بواسطة %s إلى مسؤول مؤقت (الموعد النهائي %s) </string>
-    <string name="msg_type_4">تم تخفيض تصنيفك في عائلة %s بواسطة %s إلى عضو</string>
-    <string name="msg_type_5">لقد قمت بنقل مسؤول عائلة %s إلى %s</string>
-    <string name="msg_type_6">انتهت صلاحية إذن عائلتك %s</string>
+    <string name="msg_type_2">تم تخفيض تصنيفك في منزل %s بواسطة %s إلى عضو مؤقت (الموعد النهائي %s)</string>
+    <string name="msg_type_3">تمت ترقيتك في منزل %s بواسطة %s إلى مسؤول مؤقت (الموعد النهائي %s) </string>
+    <string name="msg_type_4">تم تخفيض تصنيفك في منزل %s بواسطة %s إلى عضو</string>
+    <string name="msg_type_5">لقد قمت بنقل مسؤول منزل %s إلى %s</string>
+    <string name="msg_type_6">انتهت صلاحيتك في المنزل %s</string>
     <string name="msg_type_7">تمت إزالة %s من %s</string>
     <string name="msg_type_8">يدعوك %s للانضمام إلى %s</string>
     <string name="msg_type_9">انضم %s إلى %s</string>
@@ -461,23 +461,23 @@
     <string name="msg_type_11">في %s تقوم بتخفيض %s إلى عضو مؤقت (الموعد النهائي %s)</string>
     <string name="msg_type_12">في %s قمت بترقية %s إلى مسؤول مؤقت (الموعد النهائي %s)</string>
     <string name="msg_type_13">في %s تقوم بتخفيض %s إلى عضو</string>
-    <string name="msg_type_14">%s ينقل %s مسؤول العائلة إليك</string>
-    <string name="msg_type_15">يخرج %s من العائلة %s</string>
-    <string name="msg_type_16">انتهت صلاحية إذن %s في عائلة %s</string>
+    <string name="msg_type_14">%s ينقل %s مسؤول المنزل إليك</string>
+    <string name="msg_type_15">يخرج %s من المنزل %s</string>
+    <string name="msg_type_16">انتهت صلاحية %s في منزل %s</string>
     <string name="change_area">تغيير المنطقة</string>
     <string name="change_area_1">البر الرئيسي الصيني</string>
-    <string name="only_this_area">في الوقت الحالي يتم دعم هذه المنطقة فقط</string>
+    <string name="only_this_area">حاليًا يتم دعم هذه المنطقة فقط</string>
     <string name="language">اللغة</string>
     <string name="chinese">الصينية</string>
     <string name="english">الإنجليزية</string>
     <string name="switch_language">تغيير اللغة</string>
     <string name="switch_language_content">بعد تغيير اللغة، ستتم إعادة تشغيل التطبيق تلقائيًا</string>
-    <string name="clear_cache">تنظيف ذاكرة التخزين المؤقت</string>
-    <string name="clear_cache_content">هل أنت متأكد من رغبتك في تنظيف ذاكرة التخزين المؤقت؟</string>
-    <string name="clear_cache_success">مسح ذاكرة التخزين المؤقت بنجاح</string>
-    <string name=" Close_account">حذف الحساب</string>
-    <string name=" Close_account_content">هل أنت متأكد من حذف الحساب الحالي؟ بعد حذف الحساب، سيتم حذف جميع البيانات ذات الصلة!</string>
-    <string name=" Close_account_success">تم إلغاء الحساب بنجاح</string>
+    <string name="clear_cache">مسح ذاكرة التخزين المؤقت</string>
+    <string name="clear_cache_content">هل تريد فعلا مسح ذاكرة التخزين المؤقت؟</string>
+    <string name="clear_cache_success">تم مسح ذاكرة التخزين المؤقت</string>
+    <string name=" Close_account">إغلاق الحساب</string>
+    <string name=" Close_account_content">هل أنت متأكد من إغلاق الحساب؟ بعد إغلاق الحساب، سيتم حذف جميع البيانات ذات الصلة!</string>
+    <string name=" Close_account_success">تم إغلاق الحساب بنجاح</string>
     <string name="account_exit">تسجيل الخروج</string>
     <string name="logout_tip">نصيحة</string>
     <string name="logout_content">هل أنت متأكد من أنك تريد تسجيل الخروج؟</string>
@@ -521,7 +521,7 @@
     <!-- ========================================智能门锁 start========================================================-->
     <string name="lock_log">سجلات قفل الباب</string>
     <string name="lock_default">******</string>
-    <string name="lock_nickname">إدارة الألقاب</string>
+    <string name="lock_nickname">إدارة الأسماء</string>
     <string name="lock_dialog_title">رسالة القفل الذكي</string>
     <string name="lock_dialog_content">يطلب جرس الباب فتح القفل. هل توافق على فتح القفل؟</string>
     <string name="reject">رفض</string>
@@ -550,7 +550,7 @@
     <string name="lock_error">القفل غير طبيعي</string>
     <string name="lock_ok">القفل طبيعي</string>
     <string name="lock_appoint_user">يتم تشغيله عند إلغاء قفل مستخدمين محددين</string>
-    <string name="input_nickname">الرجاء إدخال اللقب</string>
+    <string name="input_nickname">ادخل الاسم</string>
     <string name="lock_title">رسالة القفل الذكي</string>
     <string name="lock_content">يطلب جرس الباب فتح القفل.\n هل توافق على فتح القفل؟</string>
     <string name="lock_success">تم الإلغاء بنجاح.</string>
@@ -594,21 +594,21 @@
     <string name="air_cleaner_toast_sleep">قفل الأطفال غير متاح في الوضع الحالي.</string>
     <!-- ========================================空气净化器 end========================================================-->
     <!-- ========================================主页 start========================================================-->
-    <string name="home">الصفحة الرئيسية</string>
+    <string name="home">الرئيسية</string>
     <string name="smart">الأتمتة</string>
     <string name="security">الأمان</string>
     <string name="mine">حسابي</string>
     <string name="scene">المشاهد</string>
-    <string name="auto">ذكي</string>
-    <string name="multi_link">متعدد الروابط</string>
-    <string name="group">الضوء</string>
+    <string name="auto">الجدولة</string>
+    <string name="multi_link">المجموعات</string>
+    <string name="group">الإَضاءة</string>
     
     <string name="home_gateway">البوابة غير متصلة بالإنترنت</string>
     <string name="invalid_qr">رمز QR غير صالح</string>
     <string name="bind_gateway_success">كانت البوابة مرتبطة</string>
     <string name="bind_tip">انقر في الزاوية اليمنى العليا \'+\' للإضافة</string>
     <string name="home_tab_device">الجهاز</string>
-    <string name="simple_mode">الوضع البسيط</string>
+    <string name="simple_mode">الشكل المبسط</string>
     <string name="no_bind_gateway">إذا لم يكن المنزل الحالي مرتبطًا ببوابة، فاربطه أولاً</string>
     <string name="bind">امسح الرمز ضوئيًا</string>
     <string name="do_ok">تم</string>
@@ -631,50 +631,50 @@
     <string name="login">تسجيل الدخول</string>
     <string name="device_flag">لم يتم الحصول على علامة الجهاز</string>
     <string name="forgot_password_hint">نسيت كلمة المرور</string>
-    <string name="user_register">تسجيل المستخدم</string>
+    <string name="user_register">إنشاء حساب</string>
     <string name="agree">اقرأ سياسة الخصوصية</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
     <string name="and">&#160;&#160;and&#160;&#160;</string>
     <string name="service_agreement">UserServiceAgreement</string>
     <string name="agree_privacy_policy_hint">يُرجى الموافقة على سياسة الخصوصية أولاً</string>
-    <string name="phone_number_hint">الرجاء إدخال رقم الحساب</string>
-    <string name="password">الرجاء إدخال كلمة المرور</string>
+    <string name="phone_number_hint">رقم الحساب</string>
+    <string name="password">كلمة المرور</string>
     <string name="switch_server_ip_hint">تبديل الخادم</string>
     <string name="again_switch_server_ip_hint">تحتاج إلى تسجيل الدخول مرة أخرى لتبديل عنوان IP الخاص بالخادم، يرجى تحديد شبكة الخادم</string>
     <string name="network_public">شبكة عامة</string>
     <string name="network_in">الشبكة الداخلية</string>
     <string name="network_pre">الإصدار التجريبي</string>
-    <string name="valid_phone_number_hint">الرجاء إدخال رقم هاتف محمول صالح</string>
+    <string name="valid_phone_number_hint">رقم جوال  صالح</string>
     
     <string name="password_different">كلمتي المرور اللتين أدخلتهما غير متناسقتين</string>
     <string name="please_enter_password_hint">يجب أن تتكون كلمة المرور من 6 أرقام على الأقل ولا تزيد عن 16 رقمًا</string>
     <string name="password_no_special">لا يمكن أن تحتوي كلمة المرور على أحرف خاصة</string>
     <string name="password_illegal">كلمة المرور غير قانونية</string>
     <string name="user_name_exist">اسم المستخدم موجود بالفعل</string>
-    <string name="get_code">رمز التحقق</string>
+    <string name="get_code">إرسال الرمز</string>
     <string name="get_code_again">إعادة إرسال</string>
     <string name="get_code_count_down">%d ثانية لإعادة الإرسال</string>
     <string name="get_code_send">تم إرسال رمز التحقق</string>
     <string name="input_code">يُرجى إدخال رمز التحقق</string>
-    <string name="input_password_again">الرجاء إدخال كلمة المرور مرة أخرى</string>
+    <string name="input_password_again">كلمة المرور مرة أخرى</string>
     <string name="register_soon">اشترك الآن</string>
     <string name="register_success">تم التسجيل بنجاح</string>
     <string name="register_failed">فشل التسجيل</string>
-    <string name="code_invalid">رمز التحقق غير صالح</string>
+    <string name="code_invalid">رمز غير صالح</string>
     <string name="get_password">نسيت كلمة المرور</string>
     <string name="reset_password">تغيير كلمة المرور</string>
     <string name="reset_password_success">تم تغيير كلمة المرور</string>
-    <string name="reset_password_new">الرجاء إدخال كلمة مرور جديدة</string>
-    <string name="reset_password_new_again">الرجاء إدخال كلمة المرور الجديدة مرة أخرى</string>
-    <string name="get_no_phone">لم يتم الحصول على أرقام الهواتف المحمولة</string>
-    <string name="email_hint">الرجاء إدخال عنوان البريد الإلكتروني</string>
-    <string name="phone_login">سجل الدخول بالهاتف</string>
-    <string name="email_login">تسجيل الدخول بالبريد الإلكتروني</string>
+    <string name="reset_password_new">كلمة مرور جديدة</string>
+    <string name="reset_password_new_again">كلمة المرور الجديدة مرة أخرى</string>
+    <string name="get_no_phone">لم يتم الحصول على أرقام الهواتف الة</string>
+    <string name="email_hint">البريد الإلكتروني</string>
+    <string name="phone_login">تسجيل الدخول</string>
+    <string name="email_login">تسجيل الدخول</string>
     <string name="or">أو</string>
-    <string name="register_email">تسجيل البريد الإلكتروني</string>
-    <string name="register_phone">تسجيل الهاتف</string>
+    <string name="register_email">تسجيل</string>
+    <string name="register_phone">تسجيل الجوال</string>
     <string name="verify_code">رمز التحقق</string>
-    <string name="password_tip">كلمة المرور (6&#8211;16 رقمًا)</string>
+    <string name="password_tip">كلمة المرور (6&#8211;16 خانة)</string>
     <string name="password_confirm">تأكيد كلمة المرور</string>
     <string name="send_email_success">تم الإرسال بنجاح، يرجى الانتقال إلى صندوق البريد للتحقق</string>
     <string name="email_format_error">خطأ في تنسيق البريد الإلكتروني</string>
@@ -1028,7 +1028,7 @@
     <string name="tv_no_study">لم يتم التعرف على المفتاح</string>
     <string name="tv_key_custom">مفتاح مخصص (الضغط لفترة طويلة لتعديل الاسم)</string>
     <string name="command_delete_title">أمر الحذف</string>
-    <string name="command_delete_content">هل أنت متأكد من رغبتك في حذف هذا الأمر؟</string>
+    <string name="command_delete_content">هل تريد فعلا حذف هذا الأمر؟</string>
     <string name="tv_ch">CH</string>
     <string name="tv_vol">VOL</string>
     <string name="custom_key">تعديل اسم المفتاح المخصص</string>
@@ -1097,7 +1097,7 @@
     <!-- ******************************* 离线语音 end *****************************************-->
 
     <!-- ******************************* 监控 start *****************************************-->
-    <string name="monitor">الشاشة</string>
+    <string name="monitor">الشاشات</string>
     <string name="device_add">إضافة شاشة</string>
     <string name="monitor_nvr">إضافة طرق NVR:</string>
     <string name="monitor_ptz">إضافة طريقة لكاميرا PTZ:</string>
@@ -1116,16 +1116,16 @@
     <string name="device_id">معرف الجهاز</string>
     <string name="wifi_name">اسم Wi-Fi</string>
     <string name="wifi_password">كلمة مرور Wi-Fi</string>
-    <string name="tip_device_id">الرجاء إدخال معرف الجهاز</string>
-    <string name="tip_wifi_name">الرجاء إدخال اسم Wi-Fi</string>
-    <string name="tip_wifi_password">الرجاء إدخال كلمة مرور Wi-Fi</string>
+    <string name="tip_device_id">معرف الجهاز</string>
+    <string name="tip_wifi_name">اسم Wi-Fi</string>
+    <string name="tip_wifi_password">كلمة مرور Wi-Fi</string>
     <string name="monitor_code">رمز الاستجابة السريعة لمعلومات Wi-Fi</string>
     <string name="monitor_code_tip">يواجه رمز الاستجابة السريعة الكاميرا على مسافة 15&#8211;25 سم، وسيقوم الجهاز بالمسح الضوئي وإصدار صوت.</string>
     <string name="monitor_code_tip1">استمع إلى نغمة المطالبة، وتم توصيل الجهاز بالإنترنت بنجاح</string>
     <string name="monitor_config">ابدأ في تكوين الشبكة</string>
     <string name="config_connecting">جارٍ الاتصال…</string>
     <string name="config_connecting_tip">جارٍ عملية الاتصال، \nالرجاء عدم قطع اتصال الشبكة!</string>
-    <string name="config_connecting_tip2">1 、 أبقِ جهاز التوجيه والهاتف المحمول والكاميرا قريبًا قدر الإمكان.</string>
+    <string name="config_connecting_tip2">1 、 أبقِ جهاز التوجيه والجوال والكاميرا قريبًا قدر الإمكان.</string>
     <string name="config_connecting_tip3">2 、 لا تقم بفصل الشبكة، سيستغرق ذلك دقيقة أو دقيقتين.</string>
     <string name="add_device_list">إضافة إلى قائمة الأجهزة</string>
     <string name="monitor_config_result">نتائج تكوين الشبكة</string>
@@ -1134,9 +1134,9 @@
     <string name="monitor_config_fail">فشل</string>
     <string name="last_step">السابق</string>
     <string name="monitor_step_one">1 、 بعد تشغيل الجهاز، يرجى الضغط لفترة طويلة على زر إعادة الضبط إذا لم يومض مؤشر LED الأزرق. انتظر لحظة بعد سماع صوت \'Ding\'، وسيقوم الجهاز بالتنقل في رحلة بحرية ثم تكتمل عملية إعادة التعيين.</string>
-    <string name="monitor_step_twe">2 、 افتح الإعدادات > حدد WLAN، وقم بتوصيل الشبكة اللاسلكية للهاتف المحمول بنقطة اتصال الجهاز</string>
+    <string name="monitor_step_twe">2 、 افتح الإعدادات > حدد WLAN، وقم بتوصيل الشبكة اللاسلكية للجوال ال بنقطة اتصال الجهاز</string>
     <string name="monitor_step_three">3 、 حدد WiFi للجهاز \'IPCXX\' وكلمة المرور الافتراضية:</string>
-    <string name="monitor_step_four">4 、 حافظ على اتصال الهاتف المحمول بشبكة WiFi الخاصة بالجهاز قيد عملية إضافة الجهاز</string>
+    <string name="monitor_step_four">4 、 حافظ على اتصال الجوال بشبكة WiFi الخاصة بالجهاز قيد عملية إضافة الجهاز</string>
     <string name="monitor_step_five">5 、 بعد توصيله، ارجع إلى التطبيق</string>
     <string name="monitor_light_flash">انتقل إلى الإعداد</string>
     <string name="monitor_network_config">تكوين الشبكة</string>

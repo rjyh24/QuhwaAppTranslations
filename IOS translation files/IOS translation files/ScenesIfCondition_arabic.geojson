@@ -1,51 +1,51 @@
 {
     "0101": [
         {
-            "devDescription": "تشغيل",
+            "devDescription": "شغّل",
             "devStatus": "01"
         },
         {
-            "devDescription": "إيقاف",
+            "devDescription": "عطّل",
             "devStatus": "00"
         }
     ],
     "0102": [
         {
-            "devDescription": "تشغيل",
+            "devDescription": "شغّل",
             "devStatus": "01"
         },
         {
-            "devDescription": "إيقاف",
+            "devDescription": "عطّل",
             "devStatus": "00"
         }
     ],
     "0103": [
         {
-            "devDescription": "تشغيل",
+            "devDescription": "شغّل",
             "devStatus": "01"
         },
         {
-            "devDescription": "إيقاف",
+            "devDescription": "عطّل",
             "devStatus": "00"
         }
     ],
     "0104": [
         {
-            "devDescription": "تشغيل",
+            "devDescription": "شغّل",
             "devStatus": "01"
         },
         {
-            "devDescription": "إيقاف",
+            "devDescription": "عطّل",
             "devStatus": "00"
         }
     ],
     "0107": [
         {
-            "devDescription": "تشغيل",
+            "devDescription": "شغّل",
             "devStatus": "01"
         },
         {
-            "devDescription": "إيقاف",
+            "devDescription": "عطّل",
             "devStatus": "00"
         }
     ],
@@ -95,11 +95,11 @@
     ],
     "0119": [
         {
-            "devDescription": "تشغيل",
+            "devDescription": "شغّل",
             "devStatus": "01"
         },
         {
-            "devDescription": "إيقاف",
+            "devDescription": "عطّل",
             "devStatus": "00"
         },
         {
@@ -113,51 +113,51 @@
     ],
     "0130": [
         {
-            "devDescription": "تشغيل",
+            "devDescription": "شغّل",
             "devStatus": "01"
         },
         {
-            "devDescription": "إيقاف",
+            "devDescription": "عطّل",
             "devStatus": "00"
         }
     ],
     "0131": [
         {
-            "devDescription": "تشغيل",
+            "devDescription": "شغّل",
             "devStatus": "01"
         },
         {
-            "devDescription": "إيقاف",
+            "devDescription": "عطّل",
             "devStatus": "00"
         }
     ],
     "0132": [
         {
-            "devDescription": "تشغيل",
+            "devDescription": "شغّل",
             "devStatus": "01"
         },
         {
-            "devDescription": "إيقاف",
+            "devDescription": "عطّل",
             "devStatus": "00"
         }
     ],
     "0133": [
         {
-            "devDescription": "تشغيل",
+            "devDescription": "شغّل",
             "devStatus": "01"
         },
         {
-            "devDescription": "إيقاف",
+            "devDescription": "عطّل",
             "devStatus": "00"
         }
     ],
     "0204": [
         {
-            "devDescription": "ذراع",
+            "devDescription": "شغّل",
             "devStatus": "01"
         },
         {
-            "devDescription": "نزع السلاح",
+            "devDescription": "عطّل",
             "devStatus": "00"
         },
         {
@@ -171,11 +171,11 @@
     ],
     "0205": [
         {
-            "devDescription": "ذراع",
+            "devDescription": "شغّل",
             "devStatus": "01"
         },
         {
-            "devDescription": "نزع السلاح",
+            "devDescription": "عطّل",
             "devStatus": "00"
         },
         {
@@ -189,11 +189,11 @@
     ],
     "0206": [
         {
-            "devDescription": "ذراع",
+            "devDescription": "شغّل",
             "devStatus": "01"
         },
         {
-            "devDescription": "نزع السلاح",
+            "devDescription": "عطّل",
             "devStatus": "00"
         }
     ],
@@ -209,31 +209,31 @@
     ],
     "0801": [
         {
-            "devDescription": "تشغيل",
+            "devDescription": "شغّل",
             "devStatus": "01"
         },
         {
-            "devDescription": "إيقاف",
+            "devDescription": "عطّل",
             "devStatus": "00"
         }
     ],
     "0802": [
         {
-            "devDescription": "تشغيل",
+            "devDescription": "شغّل",
             "devStatus": "01"
         },
         {
-            "devDescription": "إيقاف",
+            "devDescription": "عطّل",
             "devStatus": "00"
         }
     ],
     "0803": [
         {
-            "devDescription": "تشغيل",
+            "devDescription": "شغّل",
             "devStatus": "01"
         },
         {
-            "devDescription": "إيقاف",
+            "devDescription": "عطّل",
             "devStatus": "00"
         }
     ]
