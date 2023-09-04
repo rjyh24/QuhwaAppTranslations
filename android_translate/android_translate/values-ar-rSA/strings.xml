@@ -48,7 +48,7 @@
     <string name="code_21">هو بوابة فرعية وتم ربطها بالفعل</string>
     <string name="str_user_notexist">الحساب غير موجود</string>
     <string name="code_failed">فشل الرمز = %d</string>
-    <string name="can_not_set_gateway">بدون ربط، لا يمكن تعيين البوابة</string>
+    <string name="can_not_set_gateway">لا يمكن تعيين البوابة بدون ربط</string>
     <string name="code_7">المستخدم موجود بالفعل</string>
     <string name="code_7_scene_alia">اسم السيناريو موجود بالفعل</string>
     <string name="str_user_noperm">المستخدم ليس لديه أذونات</string>
@@ -284,9 +284,9 @@
     <string name="search_again_tv">انقر على "بحث" مرة أخرى لإضافة المزيد من الأجهزة</string>
     <string name="search_time">120 ثانية</string>
     <string name="search_time_number">%ds</string>
-    <string name="search_help">لا يمكنك العثور على الجهاز؟ انقر لقراءة التعليمات></string>
+    <string name="search_help">لا يمكنك العثور على الجهاز؟ انقر لقراءة التعليمات</string>
     <string name="search_no_permission">أنت لست مسؤولاً ولا يمكنك إضافة أجهزة!</string>
-    <string name="search_bind_gateway_first">يُرجى ربط البوابة أولاً</string>
+    <string name="search_bind_gateway_first">يُرجى ربط البوابةالرئيسية أولاً</string>
     <string name="search_bind_gateway_click">البوابة الأساسية غير مرتبطة، يرجى ربط البوابة الرئيسية أولاً</string>
     <string name="search_bind_gateway_offline">البوابة غير متصلة بالإنترنت، يرجى التحقق من البوابة!</string>
     <string name="only_manager_have_permission">المسؤولون فقط لديهم الأذونات</string>
@@ -312,15 +312,15 @@
     <string name="home_main_gateway_offline">إشعار البوابة الأساسية بلا اتصال</string>
     <string name="home_device_count">كميات جميع الأجهزة</string>
     <string name="home_have_delete">تم حذف المنزل</string>
-    <string name="home_not_bind_gateway">غير منضم</string>
+    <string name="home_not_bind_gateway">البوابة غير متصلة</string>
     <string name="home_delete_fail">لا يمكن حذف المنزل الوحيد</string>
     <string name="home_input_name">اسم المنزل</string>
-    <string name="online">متصل</string>
-    <string name="unbound">إلغاء الربط</string>
+    <string name="online">متصلة</string>
+    <string name="unbound">غير متصلة</string>
     <string name="reset">إعادة الضبط</string>
     <string name="upgrade_success">نجحت الترقية</string>
-    <string name="bound_success">مقيد</string>
-    <string name="unbound_success">غير منضم</string>
+    <string name="bound_success">تم الإتصال</string>
+    <string name="unbound_success">تم إلغاء الإتصال</string>
     <!-- ========================================家庭管理 end========================================================-->
 
     <!-- ========================================成员管理 start========================================================-->
@@ -603,14 +603,14 @@
     <string name="multi_link">المجموعات</string>
     <string name="group">الإَضاءة</string>
     
-    <string name="home_gateway">البوابة غير متصلة بالإنترنت</string>
+    <string name="home_gateway">البوابة غير متصلة</string>
     <string name="invalid_qr">رمز QR غير صالح</string>
     <string name="bind_gateway_success">كانت البوابة مرتبطة</string>
     <string name="bind_tip">انقر في الزاوية اليمنى العليا \'+\' للإضافة</string>
-    <string name="home_tab_device">الجهاز</string>
+    <string name="home_tab_device">الأجهزة</string>
     <string name="simple_mode">الشكل المبسط</string>
-    <string name="no_bind_gateway">إذا لم يكن المنزل الحالي مرتبطًا ببوابة، فاربطه أولاً</string>
-    <string name="bind">امسح الرمز ضوئيًا</string>
+    <string name="no_bind_gateway">المنزل غير مرتبط ببوابة</string>
+    <string name="bind">اربط البوابة</string>
     <string name="do_ok">تم</string>
     <string name="move">نقل</string>
     <string name="rename">إعادة التسمية</string>
@@ -647,7 +647,7 @@
     <string name="valid_phone_number_hint">رقم جوال  صالح</string>
     
     <string name="password_different">كلمتي المرور اللتين أدخلتهما غير متناسقتين</string>
-    <string name="please_enter_password_hint">يجب أن تتكون كلمة المرور من 6 أرقام على الأقل ولا تزيد عن 16 رقمًا</string>
+    <string name="please_enter_password_hint">6-16 خانة</string>
     <string name="password_no_special">لا يمكن أن تحتوي كلمة المرور على أحرف خاصة</string>
     <string name="password_illegal">كلمة المرور غير قانونية</string>
     <string name="user_name_exist">اسم المستخدم موجود بالفعل</string>
@@ -787,11 +787,11 @@
     <string name="panel_romance_open">مفتاح الرومانسية قيد التشغيل</string>
     <string name="update_bound_scene">تعديل المشهد المنضم</string>
     <string name="update_bound_scene_tip">هل أنت متأكد من حذف ربط هذا المفتاح؟</string>
-    <string name="bounding">مقيد</string>
-    <string name="unbind">غير منضم</string>
-    <string name="sure_bounding_tip">هذا المفتاح غير مرتبط بالمشهد. هل تريد ربطه؟</string>
-    <string name="bounding_success">مقيد</string>
-    <string name="code_27">هذا الجهاز مرتبط بالفعل بمشهد واحد ولا يمكن ربطه بمشاهد أخرى.</string>
+    <string name="bounding">مربوط</string>
+    <string name="unbind">غير مربوط</string>
+    <string name="sure_bounding_tip">هذا المفتاح غير مربوط المشهد. هل تريد ربطه؟</string>
+    <string name="bounding_success">تم الربط</string>
+    <string name="code_27">هذا الجهاز مربوط بمشهد واحد ولا يمكن ربطه بمشاهد أخرى.</string>
     <string name="update_name">تعديل الاسم</string>
     <string name="update_name_key">تعديل اسم المفتاح</string>
     <!-- ******************************* 场景开关、随手贴、可视对讲 end *****************************************-->
@@ -1075,15 +1075,15 @@
     <string name="speak_only_one">أضف أمرًا واحدًا فقط</string>
     <string name="speak_classify">تصنيف الأوامر</string>
     <string name="just_add_one"> الرقم التسلسلي </string>
-    <string name="gateway_name">带屏网关</string>
-    <string name="gateway_center">中控</string>
-    <string name="gateway_key"> مفتاح </string>
-    <string name="gateway_voice"> العنوان الفرعي </ string>
+    <string name="gateway_name">الاسم</string>
+    <string name="gateway_center">مركز التحكم</string>
+    <string name="gateway_key"> المفتاح </string>
+    <string name="gateway_voice"> العنوان الفرعي </string>
     <string name="gateway_tip"> المفتاح الصحيح </string>
-    <string name="voice_limit"> الرقم التسلسلي< /string>
+    <string name="voice_limit"> الرقم التسلسلي </string>
     <string name="voice_limit_tip"> الاسم ، اسم المنتج، اسم المنتج </string>
-    <string name="chart_gpt"> يحتوي على ChartGPT</string>
-    <string name="chart_gpt_tip"> الإجابة على سؤال ما إذا كان الأمر كذلك</string >
+    <string name="chart_gpt"> تجربة ChatGPT</string>
+    <string name="chart_gpt_tip"> قد تتأثر هذه التجربة بالشبكة، يرجى الانتظار</string >
     <string name="learn_command_one">تعرف على الأمر الأول</string>
     <string name="learn_command_twe">تعرف على الأمر الثاني</string>
     <string name="learn_command_three">تعلم الأمر الثالث</string>

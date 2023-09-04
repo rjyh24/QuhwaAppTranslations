@@ -20,7 +20,7 @@
 "AL3-en-IXT.normalTitle" = "Can't find the device? Click to view help";
 
 /* Class = "UIButton"; normalTitle = "重新搜索"; ObjectID = "Fxi-8R-ZBl"; */
-"Fxi-8R-ZBl.normalTitle" = "Search again";
+"Fxi-8R-ZBl.normalTitle" = "Search Again";
 
 /* Class = "UILabel"; text = "正在搜索附近的设备..."; ObjectID = "Rfz-kh-esO"; */
 "Rfz-kh-esO.text" = "Searching for nearby devices...";
@@ -1706,7 +1706,7 @@
 "tXj-NU-331.placeholder" = "6-16位，若包含字母，请注意大小写";
 
 /* Class = "UITextField"; placeholder = "请输入对方账号"; ObjectID = "5Im-fN-ueL"; */
-"5Im-fN-ueL.placeholder" = "Please enter account number";
+"5Im-fN-ueL.placeholder" = "Account number";
 
 /* Class = "UILabel"; text = "方式一：扫码添加"; ObjectID = "82E-Ji-zVB"; */
 "82E-Ji-zVB.text" = "Method 1: Scan QR code to add";

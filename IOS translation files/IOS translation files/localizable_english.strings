@@ -14,8 +14,8 @@
 "Logging" = "Logging";
 "PhoneNum" = "Mobile";
 "Pwd" = "Password";
-"PleaseEnterAccount" = "Please enter the account number";
-"PleaseEnterPwd" = "Please enter a password";
+"PleaseEnterAccount" = "Account number";
+"PleaseEnterPwd" = "Password";
 "PleaseCheckMobileNetwork" = "Internet connection is not available, please check your mobile network connection.";
 "LoginFail" = "Login failed";
 "PwdError" = "Password error";
@@ -26,8 +26,8 @@
 "AccountOrPwdNotNull" = "Account number and password can't be empty";
 "Tips" = "Tips";
 "PwdNorMore20" = "Password can't exceed 20 characters";
-"PleaseReadPrivacyPolicy" = "Please read privacy policy firstly";
-"ReadPrivacyPolicy" = "Read The Privacy Policy";
+"PleaseReadPrivacyPolicy" = "Please agree to privacy policy first";
+"ReadPrivacyPolicy" = "I agree to the privacy policy";
 "PrivacyPolicy" = "Privacy policy";
 "LoggingIn" = "Logging in";
 "NetWorkError" = "Network error";
@@ -55,8 +55,8 @@
 "ConfirmNewPwd" = "Confirm Password";
 "ShowPwd" = "Show password";
 "HiddenPwd" = "Hide password";
-"SendVerificationCodeFail" = "Verfication code failed to be sent";
-"SendVerificationCodeSuccess" = "Verfication code was sent successfully, please check it";
+"SendVerificationCodeFail" = "Failed to send code";
+"SendVerificationCodeSuccess" = "Code was sent, please check";
 "PwdNotNull" = "Password can't be empty";
 "VerificationCodeErrorSingUpFail" = "Verification code error, account failed to be created";
 "ChangePwdSuccessReLogin" = "Password was changed successfully, please sign in again";
@@ -71,7 +71,7 @@
 "Security" = "Security";
 "Mine" = "Account";
 ///主页
-"Device" = "Device";
+"Device" = "Devices";
 "FamilyManager" = "Manage Home";
 "AccessToBuildings" = "Access to a building";
 "NetworkConnectionNotAvailable" = "The network connection is not available. Please check the network or try again later!";
@@ -143,7 +143,7 @@
 "GwNotBoundTemporarily" = "Gateway is not bound until now";
 "UpdataFamilyName" = "Modify home name";
 "NameNotUpdata" = "Name unchanged";
-"PleaseBoundGw" = "Please bind the gateway first";
+"PleaseBoundGw" = "Please bind the gateway";
 "DeleteFamily" = "Delete home";
 "AreYouSureDeleteTheFamily" = "Are you sure you want to delete this home?";
 ///家庭管理
@@ -163,8 +163,8 @@
 "TheFuncNotActivated" = "The function is unavailable";
 ///添加设备
 "AddDev" = "Add a device";
-"SearchDev" = "Search device";
-"PleaseBoundMainGw" = "Please bind the primary gateway first";
+"SearchDev" = "Search for Devices";
+"PleaseBoundMainGw" = "ParallelingNotExisitlease bind the gateway first";
 "SubGw" = "Sub-gateway";
 "BgMusic" = "Background music";
 "BgMusic-S" = "Background music S";
@@ -344,8 +344,8 @@
 ///设备日志翻译中文
 "Online" = "Online";
 "Offline" = "Offline";
-"Unbound" = "Unbind";
-"Reset" = "Resetting";
+"Unbound" = "Scan to Bind";
+"Reset" = "Reset";
 "UpgradSuccess" = "Upgrade succeeded";
 "BoundSuccess" = "Binding succeeded";
 "Close" = "Close";
@@ -512,7 +512,7 @@
 "CenterKeyTouch" = "Center key click";
 "RightKeyTouch" = "Right key click";
 ///设备主页
-"ToBound" = "Unbind";
+"ToBound" = "Not bound";
 "PleaseAddDev" = "Please add a device first";
 "RoomNoDev" = "There is no equipment in the room";
 "RefreshData" = "Refresh data";
@@ -656,7 +656,7 @@
 "EveryDay" = "Every day";
 ///背景音乐
 "JumpSpecifiedPage" = "Move to specified page number";
-"PleaseEnterSpecifiedpage" = "Please enter the page number you want";
+"PleaseEnterSpecifiedpage" = "Page number";
 "JumpPageCannot0OrNull" = "Page number cannot be 0 or empty";
 "JumpPageCannotMoreMaxPage" = "Page number cannot exceed the maximum page number";
 "TheFirstPage" = "This is the first page";
@@ -963,9 +963,9 @@
 "Interval%@Min" = "Interval %@ Min";
 "Every%@" = "Every %@";
 ///自动化
-"DeleteAISmart" = "Delete AI Smart";
-"AreYouSureDeleteTheAISmart" = "Are you sure to delete the AI Smart?";
-"TheAISmartNotExisit" = "The AI Smart does not exist";
+"DeleteAISmart" = "Delete schedule";
+"AreYouSureDeleteTheAISmart" = "Are you sure to delete the schedule?";
+"TheAISmartNotExisit" = "The schedule does not exist";
 "ConditionCannotNull" = "Condition cannot be empty";
 "ExecuteResultCannotNull" = "Executed result cannot be empty";
 "AllConditionsMet" = "When meet all conditions";
@@ -973,8 +973,8 @@
 "Interval%dMin" = "Interval %d Min";
 "CustomTiming" = "Customized";
 "Execute" = "Execute";
-"PleaseSetAISmartName" = "Please set AI Smart name";
-"UpdataAISmartName" = "Modify AI Smart name";
+"PleaseSetAISmartName" = "Please set schedule name";
+"UpdataAISmartName" = "Modify schedule name";
 "AddUpTriggerConditions6" = "Add up to 6 trigger conditions";
 "AddUpJudge6" = "Add up to 6 judging conditions";
 "AlreadyATimingConditionAndCannotBeAddedAgain" = "There is already one countdown condition, no more to add";
@@ -982,7 +982,7 @@
 "EditCondition" = "Edit condition";
 "DeleteCondition" = "Delete condition";
 "PleaseSelectConditionsMet" = "Please select the condition";
-"AISmartNotExisist" = "AI Smart does not exist";
+"AISmartNotExisist" = "schedule does not exist";
 "Monday" = "Monday";
 "Tuesday" = "Tuesday";
 "wednesday" = "Wednesday";
@@ -1045,7 +1045,7 @@
 "Selected" = "Selected";
 "HasBeenSelected" = "Already selected";
 "TheDevHasBeenBoundSceneCannotSelect" = "The device which bond to scene cannot be selected";
-"TheDevIsAISmartTriggerConditionCannotSelect" = "The device which has been an AI smart trigger condition cannot be selected";
+"TheDevIsAISmartTriggerConditionCannotSelect" = "The device which has been a shedule trigger condition cannot be selected";
 "AddDevTypeNeedKeepTogether" = "The added device types should be consistent";
 "TheDevUnMatchPleaseMatch" = "The deivce is not matched, please match";
 ///灯控组
@@ -1096,10 +1096,10 @@
 "TheDevHasBeenLinkageTriggerSourceCannotSelect" = "The device which has already been a linkage trigger source cannot be selected";
 ///推送通知
 "TextBroadcast" = "Text broadcast";
-"PleaseEnterBroadcastContent" = "Please enter broadcast context";
+"PleaseEnterBroadcastContent" = "Broadcast context";
 "NotifMsg" = "Notification";
 "DefaultNotif" = "Default notification";
-"PleaseNoMore20" = "Please exceed up to 20 characters";
+"PleaseNoMore20" = "Add 20 characters fields";
 ///Wi-Fi配置
 "MobileHasBeenConnectedDevWifi:%@" = "Mobile phone has been connected to device WiFi:%@";
 "PleaseMobileConnectDevWifiBackThePage" = "After mobile phone is connected to device WiFi, please return to this interface";
@@ -1123,12 +1123,12 @@
 "SecurityState" = "Security Status";
 "SecurityModeEdit" = "Security mode edit";
 "CreateSecurityMode" = "Create security mode";
-"PleaseEnterName" = "Please enter name";
+"PleaseEnterName" = "Name";
 "NameNoMore10" = "Name cannot exceed 10 characters";
 "TheModeInAlertingCannotDelete" = "The mode which is in guard cannot be deleted";
 "WhetherDeleteTheSecurityMode" = "Whether to delete the security mode?";
 "AllDayGuardCannotTurnOff" = "The all-day guard cannot be turned off";
-"PleaseEnterSecurityName" = "Please enter security name";
+"PleaseEnterSecurityName" = "Security name";
 "TurnOnCountDown" = "Turn on count down";
 "EffectiveImmediately" = "Effective at once";
 "CountDown%dSecond" = "Count down %d Second";

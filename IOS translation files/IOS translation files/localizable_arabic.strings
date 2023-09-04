@@ -40,7 +40,7 @@
 "SendVerificationCode" = "إرسال الرمز";
 "PleaseEnterValidPhoneNum" = "رقم جوال  صالح";
 "TwicePwdDifferent" = "كلمتا المرور اللتين أدخلتهما غير متناسقتين";
-"PwdLenghtError" = "يجب أن تتكون كلمة المرور من 6 أرقام على الأقل وألا تزيد عن 16 رقمًا";
+"PwdLenghtError" = "6-16 خانة";
 "PwdNotContantSpecialCharacters" = "لا يمكن أن تحتوي كلمة المرور على أحرف خاصة مثل ('$','@','&', 1-9)";
 "SingUpSuccess" = "تم إنشاء الحساب بنجاح";
 "SingUpFail" = "فشل التسجيل";
@@ -71,7 +71,7 @@
 "Security" = "الأمان";
 "Mine" = "حسابي";
 ///主页
-"Device" = "الجهاز";
+"Device" = "الأجهزة";
 "FamilyManager" = "إدارة المنزل";
 "AccessToBuildings" = "الوصول إلى المبنى";
 "NetworkConnectionNotAvailable" = "اتصال الشبكة غير متاح. الرجاء التحقق من الشبكة أو المحاولة مرة أخرى لاحقًا!";
@@ -1491,12 +1491,12 @@
 "ExperienceChatGPT" = "تجربة chatGPT";
 "ChatGPTTips" = "قد تتأثر التجربة باتصال الشبكة، يرجى التحلي بالصبر.";
 //册方式
-"EmailLogin" = "تسجيل الدخول إلى عنوان البريد الإلكتروني";
-"Email" = "عنوان البريد الإلكتروني";
-"PhoneLogin" = "تسجيل الدخول برقم الجوال";
+"EmailLogin" = "تسجيل الدخول";
+"Email" = "البريد الإلكتروني";
+"PhoneLogin" = "تسجيل الدخول";
 "PleaseEnterValidEmail" = "البريد غير صحيح";
-"EmailRegister" = "إنشاء حساب عبر عنوان البريد الإلكتروني";
-"PhoneRegister" = "إنشاء حساب عبر رقم الجوال";
-"ByEmail" = "عبر عنوان البريد الإلكتروني";
+"EmailRegister" = "إنشاء حساب";
+"PhoneRegister" = "إنشاء حساب";
+"ByEmail" = "عبر البريد الإلكتروني";
 "ByPhone" = "عبر رقم الجوال";
 "Or" = "أو";

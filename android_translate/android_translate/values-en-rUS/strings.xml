@@ -197,13 +197,13 @@
     <string name="scene_mine">Scenes(Add in the top right corner)</string>
     <string name="scene_my">Scenes List</string>
     <string name="scene_name_tv">Scene name</string>
-    <string name="scene_name_input">Please enter the scene name</string>
+    <string name="scene_name_input">Scene name</string>
     <string name="scene_alia">Alias management</string>
     <string name="scene_icon">Icon management</string>
     <string name="scene_icon_tip">There are no icons</string>
     <string name="scene_add_action">Add Action</string>
     <string name="scene_no_action">No scene action added</string>
-    <string name="scene_dialog_title">Please enter the scene name</string>
+    <string name="scene_dialog_title">Scene name</string>
     <string name="scene_dialog_title_sub">Please set scene name</string>
     <string name="scene_dialog_title_update">Modify scene name</string>
     <string name="scene_create">Create a new scene</string>
@@ -253,7 +253,7 @@
     <string name="action_do_scene">Execute scene</string>
     <string name="alia_add_tv">Add an alias</string>
     <string name="alia_add_not">No alias added</string>
-    <string name="alia_dialog_title">Please enter a scene alias</string>
+    <string name="alia_dialog_title">Scene alias</string>
     <string name="alia_dialog_title_sub">Create an alias for the scene</string>
     <string name="alia_dialog_delete_title">Delete alias</string>
     <string name="alia_dialog_delete_content">Are you sure you want to delete this alias?</string>
@@ -276,17 +276,17 @@
     <!-- ========================================场景 end========================================================-->
 
     <!-- ========================================搜索设备 start========================================================-->
-    <string name="search_device_title">Search device</string>
+    <string name="search_device_title">Search for Devices</string>
     <string name="search_device_tv">Searching for nearby devices</string>
     <string name="search_device_animation">Searching for nearby devices. . .%s</string>
-    <string name="search_again">Search again</string>
+    <string name="search_again">Search Again</string>
     <string name="search_again_tv">Click Search again to add more devices</string>
     <string name="search_time">120s</string>
     <string name="search_time_number">%ds</string>
-    <string name="search_help">Cannot find the device? Click to read help></string>
+    <string name="search_help">Cannot find the device? Click to read help</string>
     <string name="search_no_permission">You are not an administrator and cannot add devices!</string>
-    <string name="search_bind_gateway_first">Please bind the gateway first</string>
-    <string name="search_bind_gateway_click">Primary gateway is not bound, please bind main gateway first</string>
+    <string name="search_bind_gateway_first">Please bind the gateway</string>
+    <string name="search_bind_gateway_click">Primary gateway is not bound, please bind it first</string>
     <string name="search_bind_gateway_offline">The gateway is offline, please check the gateway!</string>
     <string name="only_manager_have_permission">Only administrators have permissions</string>
     <string name="bind_main_gateway">Bind primary gateway</string>
@@ -315,11 +315,11 @@
     <string name="home_delete_fail">Can't delete the only home</string>
     <string name="home_input_name">Enter home name</string>
     <string name="online">Online</string>
-    <string name="unbound">Unbind</string>
-    <string name="reset">Resetting</string>
+    <string name="unbound">Offline</string>
+    <string name="reset">Reset</string>
     <string name="upgrade_success">Upgrade succeeded</string>
-    <string name="bound_success">Bound</string>
-    <string name="unbound_success">Unbound</string>
+    <string name="bound_success">Binding succeeded</string>
+    <string name="unbound_success">Unbinding succeeded</string>
     <!-- ========================================家庭管理 end========================================================-->
 
     <!-- ========================================成员管理 start========================================================-->
@@ -606,10 +606,10 @@
     <string name="invalid_qr">Invalid QR code</string>
     <string name="bind_gateway_success">The gateway was bound</string>
     <string name="bind_tip">Click top right corner \'+\' to add</string>
-    <string name="home_tab_device">Device</string>
+    <string name="home_tab_device">Devices</string>
     <string name="simple_mode">Simple Mode</string>
-    <string name="no_bind_gateway">If the current home is not bound to a gateway, bind it first</string>
-    <string name="bind">Scan the code</string>
+    <string name="no_bind_gateway">Please bind the gateway</string>
+    <string name="bind">Scan to Bind</string>
     <string name="do_ok">Done</string>
     <string name="move">Move</string>
     <string name="rename">Rename</string>
@@ -629,21 +629,21 @@
     <string name="disagree">DisAgree</string>
     <string name="login">Login</string>
     <string name="device_flag">The device tag is not obtained</string>
-    <string name="forgot_password_hint">Forget password</string>
-    <string name="user_register">User registration</string>
-    <string name="agree">Read the Privacy Policy</string>
+    <string name="forgot_password_hint">Forgot Password?</string>
+    <string name="user_register">Register</string>
+    <string name="agree">I agree to the Privacy Policy</string>
     <string name="privacy_policy">Privacy Policy</string>
     <string name="and">&#160;&#160;and&#160;&#160;</string>
     <string name="service_agreement">UserServiceAgreement</string>
-    <string name="agree_privacy_policy_hint">Please agree to the privacy policy first</string>
-    <string name="phone_number_hint">Please enter the account number</string>
-    <string name="password">Please enter a password</string>
+    <string name="agree_privacy_policy_hint">Please agree to privacy policy first</string>
+    <string name="phone_number_hint">Account Number</string>
+    <string name="password">Password</string>
     <string name="switch_server_ip_hint">Server switch</string>
     <string name="again_switch_server_ip_hint">You need to sign in again to switch the server IP, please select the server network</string>
     <string name="network_public">Public network</string>
     <string name="network_in">Internal network</string>
     <string name="network_pre">Pre-release</string>
-    <string name="valid_phone_number_hint">Please enter a valid mobile</string>
+    <string name="valid_phone_number_hint">Enter a valid mobile</string>
 
     <string name="password_different">The two passwords you entered are inconsistent</string>
     <string name="please_enter_password_hint">Password (6-16) digits</string>
@@ -655,11 +655,11 @@
     <string name="get_code_count_down">%d seconds to retry</string>
     <string name="get_code_send">Code has been sent</string>
     <string name="input_code">Verification Code</string>
-    <string name="input_password_again">Please enter your password again</string>
-    <string name="register_soon">Sign up now</string>
-    <string name="register_success">Registration successful</string>
+    <string name="input_password_again">Confirm Password</string>
+    <string name="register_soon">Register</string>
+    <string name="register_success">Registered successful</string>
     <string name="register_failed">Registration failed</string>
-    <string name="code_invalid">The code is invalid</string>
+    <string name="code_invalid">Invalid Code</string>
     <string name="get_password">Forgot Password</string>
     <string name="reset_password">Reset Password</string>
     <string name="reset_password_success">Password Changed</string>
@@ -667,16 +667,16 @@
     <string name="reset_password_new_again">Confirm Password</string>
     <string name="get_no_phone">No mobiles were obtained</string>
     <string name="email_hint">Email</string>
-    <string name="phone_login">Sign In with phone</string>
-    <string name="email_login">Email Login</string>
+    <string name="phone_login">Log In</string>
+    <string name="email_login">Log In</string>
     <string name="or">or</string>
     <string name="register_email">Register</string>
     <string name="register_phone">Register</string>
     <string name="verify_code">Code</string>
     <string name="password_tip">Password (6&#8211;16 digits)</string>
     <string name="password_confirm">Confirm Password</string>
-    <string name="send_email_success">Sent successfully, please go to the mailbox to check</string>
-    <string name="email_format_error">E-mail format error</string>
+    <string name="send_email_success">Sent successfully, please check your inbox/spam folder</string>
+    <string name="email_format_error">Invalid email</string>
     <!-- ========================================登陆注册 end========================================================-->
 
     <!-- ========================================安防  start========================================================-->
@@ -787,9 +787,9 @@
     <string name="update_bound_scene">Modify bound scene</string>
     <string name="update_bound_scene_tip">Are you sure to delete the binding of this key?</string>
     <string name="bounding">Bound</string>
-    <string name="unbind">Unbound</string>
+    <string name="unbind">Not bound</string>
     <string name="sure_bounding_tip">This key is not bound to the scene. Do you want to bind it?</string>
-    <string name="bounding_success">Bound</string>
+    <string name="bounding_success">Bound successfully</string>
     <string name="code_27">This device is already associated to one scene and cannot be bound to other scenes.</string>
     <string name="update_name">Modify name</string>
     <string name="update_name_key">Modify key name</string>
@@ -1073,16 +1073,16 @@
     <string name="speak_study_content">Please choose command to the small speaker:</string>
     <string name="speak_only_one">Add only one command</string>
     <string name="speak_classify">Command classification</string>
-    <string name="just_add_one">只能添加一条</string>
-    <string name="gateway_name">带屏网关</string>
-    <string name="gateway_center">中控</string>
-    <string name="gateway_key">按键</string>
-    <string name="gateway_voice">语音口令</string>
-    <string name="gateway_tip">功能配置</string>
-    <string name="voice_limit">在线语音限定</string>
-    <string name="voice_limit_tip">开启后,语音仅控制本设备绑定的场景、设备和灯控组</string>
-    <string name="chart_gpt">体验ChartGPT</string>
-    <string name="chart_gpt_tip">该体验可能会受网络影响,请耐心等待</string>
+    <string name="just_add_one">Only one can be added</string>
+    <string name="gateway_name">Gateway with screen</string>
+    <string name="gateway_center">Central control</string>
+    <string name="gateway_key">Key</string>
+    <string name="gateway_voice">Voice password</string>
+    <string name="gateway_tip">Function configuration</string>
+    <string name="voice_limit">Online voice limit</string>
+    <string name="voice_limit_tip">After turning it on, voice will only control the scenes, devices and light control groups bound to this device</string>
+    <string name="chart_gpt">Experience ChatGPT</string>
+    <string name="chart_gpt_tip">This experience may be affected by the network, please wait</string>
     <string name="learn_command_one">Learn command one</string>
     <string name="learn_command_twe">Learn command twe</string>
     <string name="learn_command_three">Learn command three</string>
