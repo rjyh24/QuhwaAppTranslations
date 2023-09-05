@@ -25,7 +25,7 @@
     <string name="http_token_error">تسجيل الدخول غير صالح، يُرجى تسجيل الدخول مجدداً</string>
     <string name="http_data_explain_error">استثناف تحليل البيانات، يُرجى الانتظار</string>
     <string name="http_server_out_time">انتهت مهلة طلب الخادم، يُرجى المحاولة لاحقًا</string>
-    <string name="http_network_error">فشل الطلب، يُرجى التحقق من إعدادات الشبكة</string>
+    <string name="http_network_error">فشل الطلب، يُرجى التحقق من إعدادات الإنترنت</string>
     <string name="http_response_error">استجابة غير طبيعية من الخادم، يُرجى المحاولة لاحقًا</string>
     <string name="http_server_error">اتصال الخادم غير طبيعي، يُرجى المحاولة لاحقًا</string>
     <string name="http_request_cancel">تم انقطاع الطلب، يُرجى المحاولة مرة أخرى</string>
@@ -34,7 +34,7 @@
 
     <!-- ========================================Toast start========================================================-->
     <string name="mqtt_error">استقطاب MQTT غير طبيعي، وبدأ التطبيق في الخروج</string>
-    <string name="network_disconnected">الشبكة غير طبيعية. يُرجى التحقق من شبكة الجوال</string>
+    <string name="network_disconnected">تحقق من الإتصال بالإنترنت</string>
     <string name="login_failed">فشل تسجيل الدخول</string>
     <string name="code_5">كلمة المرور غير صحيحة</string>
     <string name="str_param_null">المعلمة تحتوي على قيمة فارغة</string>
@@ -195,8 +195,8 @@
 
     <!-- ========================================场景 start========================================================-->
     <string name="scene_recommend">المشهد الموصى به</string>
-    <string name="scene_mine">المشهد الخاص بي (انقر فوق "إضافة" في الزاوية اليمنى العليا)</string>
-    <string name="scene_my">المشهد الخاص بي</string>
+    <string name="scene_mine">المشاهد (انقر فوق "إضافة" في الزاوية اليمنى العليا)</string>
+    <string name="scene_my">المشاهد</string>
     <string name="scene_name_tv">اسم المشهد</string>
     <string name="scene_name_input">اسم المشهد</string>
     <string name="scene_alia">إدارة الأسماء المستعارة</string>
@@ -438,7 +438,7 @@
     <string name="commit_fail">فشل الإرسال</string>
     <string name="me_about">المزيد</string>
     <string name="version">الإصدار</string>
-    <string name="terms">المصطلحات &#160;&amp; &#160; الحالة</string>
+    <string name="terms">الشروط والأحكام</string>
     <string name="about_us">نبذة عنا</string>
     <string name="update_app">يُرجى تنزيل Tencent App Market أولاً</string>
     <string name="update_app_tip">تم العثور على إصدار جديد، يمكنك النقر عليه لتحديثه</string>
@@ -627,15 +627,15 @@
     
     <string name="agree_look">مراجعة&#160;</string>
     <string name="agree_1">أوافق</string>
-    <string name="disagree">غير موافق</string>
+    <string name="disagree">لا موافق</string>
     <string name="login">تسجيل الدخول</string>
     <string name="device_flag">لم يتم الحصول على علامة الجهاز</string>
     <string name="forgot_password_hint">نسيت كلمة المرور</string>
     <string name="user_register">إنشاء حساب</string>
-    <string name="agree">اقرأ سياسة الخصوصية</string>
+    <string name="agree">موافق على سياسة الخصوصية</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
-    <string name="and">&#160;&#160;and&#160;&#160;</string>
-    <string name="service_agreement">UserServiceAgreement</string>
+    <string name="and">&#160;&#160;و&#160;&#160;</string>
+    <string name="service_agreement">الشروط والأحكام</string>
     <string name="agree_privacy_policy_hint">يُرجى الموافقة على سياسة الخصوصية أولاً</string>
     <string name="phone_number_hint">رقم الحساب</string>
     <string name="password">كلمة المرور</string>
@@ -1083,7 +1083,7 @@
     <string name="voice_limit"> الرقم التسلسلي </string>
     <string name="voice_limit_tip"> الاسم ، اسم المنتج، اسم المنتج </string>
     <string name="chart_gpt"> تجربة ChatGPT</string>
-    <string name="chart_gpt_tip"> قد تتأثر هذه التجربة بالشبكة، يرجى الانتظار</string >
+    <string name="chart_gpt_tip"> قد تتأثر هذه التجربة بالإنترنت، يرجى الانتظار</string >
     <string name="learn_command_one">تعرف على الأمر الأول</string>
     <string name="learn_command_twe">تعرف على الأمر الثاني</string>
     <string name="learn_command_three">تعلم الأمر الثالث</string>
@@ -1124,9 +1124,9 @@
     <string name="monitor_code_tip1">استمع إلى نغمة المطالبة، وتم توصيل الجهاز بالإنترنت بنجاح</string>
     <string name="monitor_config">ابدأ في تكوين الشبكة</string>
     <string name="config_connecting">جارٍ الاتصال…</string>
-    <string name="config_connecting_tip">جارٍ عملية الاتصال، \nالرجاء عدم قطع اتصال الشبكة!</string>
+    <string name="config_connecting_tip">جارٍ عملية الاتصال، \nالرجاء عدم قطع اتصال الإنترنت!</string>
     <string name="config_connecting_tip2">1 、 أبقِ جهاز التوجيه والجوال والكاميرا قريبًا قدر الإمكان.</string>
-    <string name="config_connecting_tip3">2 、 لا تقم بفصل الشبكة، سيستغرق ذلك دقيقة أو دقيقتين.</string>
+    <string name="config_connecting_tip3">2 、 لا تقم بفصل الإنترنت، سيستغرق ذلك دقيقة أو دقيقتين.</string>
     <string name="add_device_list">إضافة إلى قائمة الأجهزة</string>
     <string name="monitor_config_result">نتائج تكوين الشبكة</string>
     <string name="monitor_name">تعيين اسم الجهاز:</string>
@@ -1134,12 +1134,12 @@
     <string name="monitor_config_fail">فشل</string>
     <string name="last_step">السابق</string>
     <string name="monitor_step_one">1 、 بعد تشغيل الجهاز، يرجى الضغط لفترة طويلة على زر إعادة الضبط إذا لم يومض مؤشر LED الأزرق. انتظر لحظة بعد سماع صوت \'Ding\'، وسيقوم الجهاز بالتنقل في رحلة بحرية ثم تكتمل عملية إعادة التعيين.</string>
-    <string name="monitor_step_twe">2 、 افتح الإعدادات > حدد WLAN، وقم بتوصيل الشبكة اللاسلكية للجوال ال بنقطة اتصال الجهاز</string>
+    <string name="monitor_step_twe">2 、 افتح الإعدادات ثم حدد WLAN، وقم بتوصيل الشبكة اللاسلكية للجوال ال بنقطة اتصال الجهاز</string>
     <string name="monitor_step_three">3 、 حدد WiFi للجهاز \'IPCXX\' وكلمة المرور الافتراضية:</string>
     <string name="monitor_step_four">4 、 حافظ على اتصال الجوال بشبكة WiFi الخاصة بالجهاز قيد عملية إضافة الجهاز</string>
     <string name="monitor_step_five">5 、 بعد توصيله، ارجع إلى التطبيق</string>
     <string name="monitor_light_flash">انتقل إلى الإعداد</string>
-    <string name="monitor_network_config">تكوين الشبكة</string>
+    <string name="monitor_network_config">تكوين الإنترنت</string>
     <string name="speak_press">اضغط مع الاستمرار للتحدث</string>
     <string name="monitor_msg">الرسالة</string>
     <string name="setting_title">ضبط الجهاز</string>
@@ -1184,7 +1184,7 @@
     <string name="setting_ipc_storage">إعدادات التخزين</string>
     <string name="setting_high">الإعدادات المتقدمة</string>
     <string name="setting_high_device_tip">إعدادات الجهاز</string>
-    <string name="setting_high_network_tip">حالة الشبكة</string>
+    <string name="setting_high_network_tip">حالة الإنترنت</string>
     <string name="setting_high_time_tip">إعدادات الوقت</string>
     <string name="setting_high_security_tip">إعدادات الأمان</string>
     <string name="setting_about">حول</string>

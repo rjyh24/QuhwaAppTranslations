@@ -437,7 +437,7 @@
     <string name="commit_fail">Failed to submit</string>
     <string name="me_about">About</string>
     <string name="version">Version</string>
-    <string name="terms">Terms &#160;&amp; &#160; Condition</string>
+    <string name="terms">Terms &#160;&amp; &#160; Conditions</string>
     <string name="about_us">About Us</string>
     <string name="update_app">Please download Tencent app market first</string>
     <string name="update_app_tip">New version found, you can click to update it</string>
@@ -1133,7 +1133,7 @@
     <string name="monitor_config_fail">Failed</string>
     <string name="last_step">Previous</string>
     <string name="monitor_step_one">1、After power on the device, please long press Reset button if blue LED is not flashing. Wait for a moment after hear a \'Ding\' sound, and the device will navigate a cruise then reset process is complete.</string>
-    <string name="monitor_step_twe">2、Open Settings > select WLAN, connect the mobile phone wireless network to the device hotspot</string>
+    <string name="monitor_step_twe">2、Open Settings then select WLAN, connect the mobile phone wireless network to the device hotspot</string>
     <string name="monitor_step_three">3、Select device WiFi \'IPCXX\' and default password:</string>
     <string name="monitor_step_four">4、Keep the mobile phone is connected to device WiFi in process of adding the device</string>
     <string name="monitor_step_five">5、After it\'s connected, return to APP</string>

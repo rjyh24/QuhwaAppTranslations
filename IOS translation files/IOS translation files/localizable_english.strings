@@ -1187,7 +1187,7 @@
 "Ok" = "Ok";
 "AccountCancellationFail" = "Failed to cancel account";
 "PopLogin" = "Log out";
-"Exiting" = "Exiting…";
+"Exiting" = "Logging out…";
 "ExitAccountSuccess" = "Exit account successfully";
 "AccountHasBeenLoggedOutPleaseLogInAgain" = "Account already logged out, please sign in again";
 "ExitAccountFail" = "Failed to exit account";

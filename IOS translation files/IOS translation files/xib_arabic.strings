@@ -1541,7 +1541,7 @@
 "K97-QW-hDl.text" = "1";
 
 /* Class = "UILabel"; text = "2、连接大约需要1-2分钟，请勿断开网络；"; ObjectID = "UfU-hL-SBx"; */
-"UfU-hL-SBx.text" = "2- لا تقم بفصل الشبكة، سيستغرق ذلك من دقيقة إلى دقيقتين.";
+"UfU-hL-SBx.text" = "2- لا تقم بفصل الإنترنت، سيستغرق ذلك من دقيقة إلى دقيقتين.";
 
 /* Class = "UILabel"; text = "连接中..."; ObjectID = "bj5-xm-Kmn"; */
 "bj5-xm-Kmn.text" = "جارٍ الاتصال...";
@@ -1556,13 +1556,13 @@
 "tu3-gL-crw.text" = "3- من فضلك لا تترك هذه الواجهة عند الاتصال، وإلا فسوف يفشل";
 
 /* Class = "UILabel"; text = "正在配置，请勿断开网络！"; ObjectID = "vea-w4-wbA"; */
-"vea-w4-wbA.text" = "أثناء عملية الاتصال، من فضلك لا تقم بفصل الشبكة!";
+"vea-w4-wbA.text" = "أثناء عملية الاتصال، من فضلك لا تقم بفصل الإنترنت!";
 
 /* Class = "UILabel"; text = "设置设备名称："; ObjectID = "1Hn-zS-fy1"; */
 "1Hn-zS-fy1.text" = "تعيين اسم الجهاز:";
 
 /* Class = "UILabel"; text = "网络配置成功"; ObjectID = "4f0-iG-ND4"; */
-"4f0-iG-ND4.text" = "تم إعداد الشبكة";
+"4f0-iG-ND4.text" = "تم إعداد الإنترنت";
 
 /* Class = "UITextField"; text = "摄像机"; ObjectID = "A0n-Qb-F24"; */
 "A0n-Qb-F24.text" = "الكاميرا";

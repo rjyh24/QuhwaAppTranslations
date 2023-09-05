@@ -16,7 +16,7 @@
 "Pwd" = "كلمة المرور";
 "PleaseEnterAccount" = "رقم الحساب";
 "PleaseEnterPwd" = "كلمة المرور";
-"PleaseCheckMobileNetwork" = "الاتصال بالإنترنت غير متاح، يرجى التحقق من اتصال شبكة الجوال لديك.";
+"PleaseCheckMobileNetwork" = "الاتصال بالإنترنت غير متاح، يرجى التحقق من اتصال الإنترنت لديك.";
 "LoginFail" = "فشل تسجيل الدخول";
 "PwdError" = "خطأ في كلمة المرور";
 "HasBeenIntranet" = "تم بالفعل التبديل إلى الاختبار على الشبكة الداخلية";
@@ -30,7 +30,7 @@
 "ReadPrivacyPolicy" = "قراءة سياسة الخصوصية";
 "PrivacyPolicy" = "سياسة الخصوصية";
 "LoggingIn" = "تسجيل الدخول";
-"NetWorkError" = "خطأ في الشبكة";
+"NetWorkError" = "خطأ في الإنترنت";
 "DataExceptionLoginFail" = "استثناء البيانات، فشل تسجيل الدخول";
 "AuthorizationFailedPleaseLoginAgain" = "فشل التفويض، يرجى تسجيل الدخول مرة أخرى!";
 /// 注册
@@ -74,7 +74,7 @@
 "Device" = "الأجهزة";
 "FamilyManager" = "إدارة المنزل";
 "AccessToBuildings" = "الوصول إلى المبنى";
-"NetworkConnectionNotAvailable" = "اتصال الشبكة غير متاح. الرجاء التحقق من الشبكة أو المحاولة مرة أخرى لاحقًا!";
+"NetworkConnectionNotAvailable" = "اتصال الإنترنت غير متاح. الرجاء التحقق من الإنترنت أو المحاولة مرة أخرى لاحقًا!";
 "PleaseAddAction" = "يُرجى إضافة إجراء";
 "TheLastPage" = "الصفحة الأخيرة";
 "TheTopPage" = "أعلى الصفحة";
@@ -328,7 +328,7 @@
 "OnlineVoiceLimit" = "حد الصوت عبر الإنترنت";
 "OnlineVoiceLimitTips" = "بعد التنشيط، يتحكم الصوت فقط في المشهد والجهاز ومجموعة التحكم في الإضاءة المرتبطة بهذا الجهاز.";
 ///虚拟设备更多
-"PleaseCheckNetwork" = "الاتصال بالإنترنت غير متاح، يرجى التحقق من اتصال شبكة الجوال لديك!";
+"PleaseCheckNetwork" = "الاتصال بالإنترنت غير متاح، يرجى التحقق من اتصال الإنترنت لديك!";
 "PleaseCheckGw" = "البوابة غير متصلة بالإنترنت، يرجى التحقق من البوابة!";
 "PleaseCheckDev" = "الجهاز غير متصل بالإنترنت، يرجى التحقق من الجهاز!";
 ///备日志
@@ -344,7 +344,7 @@
 ///备日志翻译中文
 "Online" = "متصل";
 "Offline" = "غير متصل";
-"Unbound" = "فك الارتباط";
+"Unbound" = "امسح الرمز للربط";
 "Reset" = "إعادة الضبط";
 "UpgradSuccess" = "نجحت الترقية";
 "BoundSuccess" = "نجح الربط";
@@ -1104,7 +1104,7 @@
 "MobileHasBeenConnectedDevWifi:%@" = "تم توصيل الجوال بالجهاز WiFi:%@";
 "PleaseMobileConnectDevWifiBackThePage" = "بعد توصيل الجوال بشبكة WiFi الخاصة بالجهاز، يرجى العودة إلى هذه الواجهة";
 "PwdErrorWaitSetPwd" = "خطأ في كلمة المرور، انتظر لتعيين كلمة المرور";
-"MatchNetworkfail:%@" = "فشل الاتصال بالشبكة:%@";
+"MatchNetworkfail:%@" = "فشل الاتصال بالإنترنت:%@";
 "MobileUnConectDevHotspot" = "الجوال غير متصل بشبكة WiFi للجهاز";
 "DevAlreadyHasBeenAdd" = "تمت إضافة الجهاز بالفعل";
 "SubGwHasBeenAdd" = "تمت إضافة البوابة الفرعية";
@@ -1187,7 +1187,7 @@
 "Ok" = "موافق";
 "AccountCancellationFail" = "فشل إلغاء الحساب";
 "PopLogin" = "تسجيل الخروج";
-"Exiting" = "الخروج...";
+"Exiting" = "خروج...";
 "ExitAccountSuccess" = "الخروج من الحساب بنجاح";
 "AccountHasBeenLoggedOutPleaseLogInAgain" = "تم تسجيل الخروج من الحساب بالفعل، يرجى تسجيل الدخول مرة أخرى";
 "ExitAccountFail" = "فشل الخروج من الحساب";
@@ -1489,7 +1489,7 @@
 "TerminationLearnReason" = "لقد فشل تعليمك بسبب انسحابك من التعلم. إذا كنت بحاجة إلى التعلم، يرجى إعادة الإدخال.";
 //chatGPT
 "ExperienceChatGPT" = "تجربة chatGPT";
-"ChatGPTTips" = "قد تتأثر التجربة باتصال الشبكة، يرجى التحلي بالصبر.";
+"ChatGPTTips" = "قد تتأثر التجربة باتصال الإنترنت، يرجى التحلي بالصبر.";
 //册方式
 "EmailLogin" = "تسجيل الدخول";
 "Email" = "البريد الإلكتروني";
