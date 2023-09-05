@@ -1500,3 +1500,21 @@
 "ByEmail" = "Via email address";
 "ByPhone" = "Via mobile mobile";
 "Or" = "Or";
+//电池版摄像机
+"DevReset" = "设备重置";
+"SelectWIFI" = "选择Wi-Fi";
+"WifiQrCode" = "Wi-Fi信息二维码";
+//语言
+"Arabic" = "بالعربية";
+"Help" = "ساعد";
+"FAQ" = "أسئلة وأجوبة";
+"TermsAndConditions" = "الشروط والأحكام";
+"AboutUs" = "عنا";
+//引导页
+"Skip" = "تخطي";
+"GuideText1" = "تطبيق واحد يفي بالغرض!";
+"GuideText2" = "علمهم!";
+"GuideText3" = "تحكم من أي مكان";
+"GuideSubText1" = "تحكم بأجهزتك الذكية كلها، لكن بطريقة أذكى!";
+"GuideSubText2" = "قم بإرشاد أجهزتك الذكية للقيام بما تحتاجه عن طريقة الأتمتة";
+"GuideSubText3" = "من أي مكان تتواجد فيه، تحكم بالأجهزة الذكية بكل سهولة";
