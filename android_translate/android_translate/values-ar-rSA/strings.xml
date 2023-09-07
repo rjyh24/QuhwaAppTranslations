@@ -301,7 +301,7 @@
     <string name="home_edit">تحرير الصفحة الرئيسية</string>
     <string name="home_edit_dialog_title">تعيين اسم المنزل</string>
     <string name="home_edit_dialog_content">عدل اسم المنزل</string>
-    <string name="home_delete">احذف الصفحة الرئيسية</string>
+    <string name="home_delete">احذف المنزل</string>
     <string name="home_delete_dialog_content">هل أنت متأكد أنك تريد حذف %s؟</string>
     <string name="home_name">اسم المنزل</string>
     <string name="home_time_zone">المنطقة الزمنية الرئيسية</string>
