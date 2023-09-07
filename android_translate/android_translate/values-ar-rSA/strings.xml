@@ -1036,7 +1036,7 @@
     <string name="tv_tip">يُرجى تعيين رقم القناة أولاً (لا يزيد عن 3 أرقام)</string>
     <string name="tv_input_tip">لا يزيد عن 3 أرقام</string>
     <string name="tv_input_no_tip">غير محدد</string>
-    <string name="tv_key_custom_action"> المفتاح< /string >
+    <string name="tv_key_custom_action"> المفتاح</string>
     <string name="tv_key_custom_action_content">من التلفاز إلى %s</string>
     
     <string name="ac_command_create">أمر مشهد جديد</string>
