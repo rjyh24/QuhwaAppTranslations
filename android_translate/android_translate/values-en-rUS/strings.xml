@@ -626,7 +626,7 @@
 
     <string name="agree_look">Review&#160;</string>
     <string name="agree_1">Agree</string>
-    <string name="disagree">DisAgree</string>
+    <string name="disagree">Disagree</string>
     <string name="login">Login</string>
     <string name="device_flag">The device tag is not obtained</string>
     <string name="forgot_password_hint">Forgot Password?</string>
@@ -1262,4 +1262,177 @@
     <string name="synchronous_success">Synchronization succeeded</string>
     <string name="deviceSetting_Time_zone_setting">Time zone setting</string>
     <!-- ******************************* 监控 end *****************************************-->
+    
+    <string name="page_one_title">ONE APP FOR ALL</string>
+    <string name="page_one_tip_one">One super app for all your products \nBut in a smart way!</string>
+    <string name="page_twe_title">TEACH THEM</string>
+    <string name="page_twe_tip_one">Instruct your smart devices to do what you need \nwith ready scenes</string>
+    <string name="page_three_title">ACCESS ANYWHERE</string>
+    <string name="page_three_tip_one">From where you\'re setting,control your \nhome and smart products</string>
+
+    <string name="permission_rejected">The permission is denied, you can open it in the system settings</string>
+    <string name="no_scan_result">no data scanned</string>
+    <string name="arabic">Arabic</string>
+    <string name="tv_mode">Mode</string>
+    <string name="opt_success">Successful operation</string>
+    <string name="ac_not_matching">Air Conditioning Companion Not Matched!</string>
+    <string name="select_one_must">select at least one</string>
+    <string name="security_delete_content">Are you sure you want to delete this security alert?</string>
+    <string name="security_countdown_content">%s count down %d second</string>
+    <string name="security_arm">Security alert change</string>
+    <string name="security_auto_arm">Self-selected</string>
+    <string name="security_home_arm">Return home</string>
+    <string name="security_out_arm">Exit home</string>
+
+    <!-- ******************************* 自动化 start *****************************************-->
+    <string name="auto_my">My AI smart</string>
+    <string name="auto_create">Create AI smart home</string>
+    <string name="auto_edit">Edit AI smart home</string>
+    <string name="auto_judge">AI condition</string>
+    <string name="auto_add">Please click + to add</string>
+    <string name="auto_delete_title">Delete AI Smart</string>
+    <string name="auto_delete_content">Are you sure to delete the AI Smart?</string>
+    <string name="auto_tv_tip">Smart AI home name</string>
+    <string name="auto_tv_tip1">Please edit AI smart name</string>
+    <string name="auto_tv_if">If:</string>
+    <string name="auto_tv_then">Then:</string>
+    <string name="auto_do_once">Execute once</string>
+    <string name="auto_do_once_tip">Smart home will automatically turn off after one execution.</string>
+    <string name="auto_set_condition">Set judgment conditions</string>
+    <string name="auto_set_active">Set executed period</string>
+    <string name="auto_set_active_all">The whole day</string>
+    <string name="auto_set_timing">Please select timing type</string>
+    <string name="auto_set_timing_custom">Customized</string>
+    <string name="auto_set_timing_loop">Loop execution multiple times</string>
+    <string name="auto_set_time">Set time</string>
+    <string name="auto_time_1">Schedule setting</string>
+    <string name="auto_set_time_item">Customize timing</string>
+    <string name="auto_set_time_loop">Cycle many times everyday</string>
+    <string name="auto_set_time_loop_tip">Cycle interval</string>
+    <string name="auto_set_time_loop_intervals">Interval %s min</string>
+    <string name="auto_condition_limit">Add up to 6 judging conditions</string>
+    <string name="auto_timing_limit">There is already one countdown condition, no more to add</string>
+    <string name="auto_time">min</string>
+    <string name="auto_time_real">%s min</string>
+    <string name="push_tip_title">Notification message</string>
+    <string name="push_tip_title_2">Text broadcast</string>
+    <string name="push_tip">Default notification</string>
+    <string name="push_count">0/20</string>
+    <string name="push_content">Please enter broadcast context</string>
+    <!-- ******************************* 自动化 end *****************************************-->
+
+    <!-- ******************************* 自动化条件 start *****************************************-->
+    <string name="auto_condition_open">On</string>
+    <string name="auto_condition_close">Off</string>
+    <string name="auto_condition_curtain_open">Open</string>
+    <string name="auto_condition_curtain_pause">Pause</string>
+    <string name="auto_condition_curtain_close">Stop</string>
+    <string name="auto_condition_window_open">Push window</string>
+    <string name="auto_condition_window_pause">Pause</string>
+    <string name="auto_condition_window_close">Pull window</string>
+    <string name="auto_condition_valve_open">Open</string>
+    <string name="auto_condition_valve_pause">Pause</string>
+    <string name="auto_condition_valve_close">Stop</string>
+    <string name="auto_condition_curtain_percent_open">Open curtain manually</string>
+    <string name="auto_condition_curtain_percent_close">Close curtain manually</string>
+    <string name="auto_condition_first">Press the first key once</string>
+    <string name="auto_condition_twe">Press the second key once</string>
+    <string name="auto_condition_three">Press the third key once</string>
+    <string name="auto_condition_four">Press the forth key once</string>
+    <string name="auto_condition_five">Press the fifth key once</string>
+    <string name="auto_condition_six">Press the sixth key once</string>
+    <string name="main_no_men_move_one">No movement within one minute</string>
+    <string name="main_no_men_move_twe">No movement within 2 minutes</string>
+    <string name="main_no_men_move_five">No movement within 5 minutes</string>
+    <string name="main_no_men_move_ten">No movement within 10 minutes</string>
+    <string name="main_no_men_move_twenty">No movement within 20 minutes</string>
+    <string name="lock_condition_all">It\'s triggered once all people unlock</string>
+    <string name="lock_condition_specify">Triggered when specified users unlock</string>
+    <!-- ******************************* 自动化条件 end *****************************************-->
+    <!-- ******************************* 多联 start *****************************************-->
+    <string name="multi_link_create">Create a new group</string>
+    <string name="multi_relative_create">Create a new association</string>
+    <string name="multi_link_mine">My paralleling(Please click + to add)</string>
+    <string name="multi_link_mine_one">My paralleling</string>
+    <string name="multi_name_tv">Group name</string>
+    <string name="multi_name_set">Please setup group name</string>
+    <string name="multi_device_add_tv">Add device to the group</string>
+    <string name="multi_device_add_none">No device added</string>
+    <string name="multi_create">Create a new group</string>
+    <string name="multi_edit">Edit group</string>
+    <string name="multi_delete">Delete paralleling</string>
+    <string name="multi_delete_content">Are you sure to delete the paralleling?</string>
+    <string name="multi_dialog_title">Edit group name</string>
+    <string name="multi_dialog_title_sub">Edit group name</string>
+    <string name="multi_add_device">Add device to the group</string>
+    <string name="multi_choose_twe_more">Choose at least two</string>
+    <string name="hide_device">Hide devices</string>
+    <string name="relate_mine">My association(Please click + to add)</string>
+    <string name="relate_mine_one">My association</string>
+    <string name="related_create">Create a new association</string>
+    <string name="related_edit">Edit association</string>
+    <string name="related_delete">Delete Linkage</string>
+    <string name="related_delete_content">Are you sure to delete the linkage?</string>
+    <string name="related_name_tip">Interaction name</string>
+    <string name="related_name_set">Please setup association name</string>
+    <string name="related_add_resource_title">Add linkage trigger source</string>
+    <string name="related_add_resource">Add linkage trigger source：</string>
+    <string name="related_no_resource">Trigger source not added</string>
+    <string name="related_add_device">Add association device：</string>
+    <string name="related_add_device_title">Add association device</string>
+    <string name="related_no_device">No device added</string>
+    <string name="related_have_deleted">Grouping has been deleted</string>
+    <string name="related_tip">Select up to 3 trigger source devices</string>
+    <string name="related_tip_six">Link up to 6 devices</string>
+    <string name="related_tip_one_condition">Select at least one trigger source</string>
+    <string name="related_tip_one_control">Select at least one linkage device</string>
+    <string name="related_exist">Device already exists</string>
+    <string name="related_same_scene">The device has been bound to a scene and cannot be used as a trigger source.</string>
+    <string name="related_same_auto">The device has been used as a schedule condition and cannot be used as a trigger source.</string>
+    <string name="related_same_choose">The same device cannot be selected again!</string>
+    <string name="have_selected">selected</string>
+    <string name="have_selected_tip">The device type is inconsistent with the selected one, please select again!</string>
+    <!-- ******************************* 多联 end *****************************************-->
+    <!-- ******************************* 网关列表 start *****************************************-->
+    <string name="gateway_list">Gateway list</string>
+    <string name="gateway_list_choose">Please add which gateway</string>
+    <string name="gateway_main">Primary gateway</string>
+    <string name="gateway_main_sub">Sub-gateway</string>
+    <string name="gateway_screen">QPad</string>
+    <string name="gateway_screen_sub">QPads</string>
+    <string name="gateway_screen_air">QPad Air</string>
+    <string name="gateway_screen_air_sub">QPad Airs</string>
+    <string name="gateway_version_low">This function is not available since current gateway version is too low.</string>
+    <string name="coordinator_version_low">This function is not available since current coordinator version is too low.</string>
+    <string name="gateway_mac_same">Unable to add, MAC is the same as the main gateway</string>
+    <!-- ******************************* 网关列表 end *****************************************-->
+
+    <!-- ******************************* 技能组 start *****************************************-->
+    <string name="group_setting">Edit light control</string>
+    <string name="group_manager">Light control management</string>
+    <string name="group_dialog_delete_title">Delete light control</string>
+    <string name="group_dialog_delete_content">Are you want to delete light control?</string>
+    <string name="group_mine">My light control</string>
+    <string name="group_create">Create a light control</string>
+    <string name="group_dialog_title_sub">Name setting</string>
+    <string name="group_dialog_title_sub_update">Set light control name</string>
+    <string name="group_name">Light control name</string>
+    <string name="group_set_name">Please set light control name</string>
+    <string name="group_add_device">Add light control device</string>
+    <string name="group_add_key">Add light control switch</string>
+    <string name="group_device_all_open">All on</string>
+    <string name="group_device_all_close">All off</string>
+    <string name="group_tip2">The coordinator version does not support adding light switches</string>
+    <string name="device_selected_max_limited">no more than %s</string>
+    <string name="device_selected_not_same_type">The device type is different and cannot be selected.</string>
+    <string name="device_selected_version_low">The device version number is too low and cannot be selected</string>
+    <string name="group_have_delete">Light control group have deleted</string>
+    <string name="info_synchronization_device">Sync status of light control devices</string>
+    <string name="info_group_delete">Delete light control group</string>
+    <string name="info_group_delete_content">Are you sure you want to delete the lighting control group?</string>
+    <string name="info_group_name">Light control name</string>
+    <string name="info_group_mac">Light control mac</string>
+    <string name="info_group_synchronization_success">Sync succeed</string>
+    <string name="info_group_synchronization_fail">Sync failed</string>
+    <!-- ******************************* 技能组 end *****************************************-->
 </resources>
