@@ -1478,7 +1478,7 @@
 "uZD-b2-T7x.normalTitle" = "Day";
 
 /* Class = "UIButton"; normalTitle = "满足其一条件时"; ObjectID = "YdL-5m-kPw"; */
-"YdL-5m-kPw.normalTitle" = "When meet one condition";
+"YdL-5m-kPw.normalTitle" = "When 1 condition is met";
 
 /* Class = "UILabel"; text = "打开"; ObjectID = "g9n-se-i6M"; */
 "g9n-se-i6M.text" = "Open";

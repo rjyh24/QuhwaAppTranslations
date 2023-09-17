@@ -212,13 +212,13 @@
     <string name="delayed">Delay</string>
     <string name="delayed_second">Delay %s s</string>
     <string name="delayed_minute">Delay %d min</string>
-    <string name="judge">Judging condition</string>
+    <string name="judge">Conditions</string>
     <string name="judge_one">Condition(1)</string>
     <string name="judge_count">Condition(%d)</string>
-    <string name="condition_list">List of judging condition</string>
-    <string name="related_meet_one_condition">When meet one condition</string>
+    <string name="condition_list">List of conditions</string>
+    <string name="related_meet_one_condition">When 1 condition is met</string>
     <string name="related_meet_all_condition">When all Conditions are met</string>
-    <string name="time_trigger">Effective period</string>
+    <string name="time_trigger">Effective Period</string>
     <string name="time_daily">Every day</string>
     <string name="time_sunday">Sunday</string>
     <string name="time_monday">Monday</string>

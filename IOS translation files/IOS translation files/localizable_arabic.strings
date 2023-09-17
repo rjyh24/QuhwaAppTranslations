@@ -872,9 +872,9 @@
 "PleaseAddConditionAndAction" = "يُرجى إضافة الشرط والإجراء";
 "ExecuteOnce" = "التنفيذ مرة واحدة";
 "ExecuteOnceAISmartClose" = "سيتم إيقاف تشغيل المنزل الذكي تلقائيًا بعد تنفيذ عملية واحدة";
-"JudgmentCondition" = "شرط القاضي";
+"JudgmentCondition" = "شرط الأولوية";
 "SetEffectiveTime" = "تعيين فترة التنفيذ";
-"EffectiveTime" = "فترة النفاذ";
+"EffectiveTime" = "فترة التنفيذ";
 "AllDays" = "اليوم بأكمله";
 ///房间
 "Room0" = "صالون";
@@ -958,7 +958,7 @@
 "SetScenesName" = "تعيين اسم المشهد";
 "IconManager" = "إدارة الأيقونات";
 "AddAction" = "إضافة إجراء";
-"JudgingCondition(%ld)" = "شرط التحكيم(%ld)";
+"JudgingCondition(%ld)" = "شرط (%ld)";
 "SceneAlias" = "الاسم المستعار للمشهد";
 "Interval%@Min" = "الفاصل الزمني %@ الحد الأدنى";
 "Every%@" = "كل %@";
@@ -976,7 +976,7 @@
 "PleaseSetAISmartName" = "الرجاء تعيين اسم الذكاء الاصطناعي الذكي";
 "UpdataAISmartName" = "تعديل اسم الذكاء الاصطناعي الذكي";
 "AddUpTriggerConditions6" = "أضف ما يصل إلى 6 شروط تشغيل";
-"AddUpJudge6" = "أضف ما يصل إلى 6 شروط تحكيم";
+"AddUpJudge6" = "أضف ما يصل إلى 6 شروط";
 "AlreadyATimingConditionAndCannotBeAddedAgain" = "يوجد بالفعل شرط عد تنازلي واحد، لا يوجد المزيد لإضافته";
 "ConditionCannotAddDelay" = "لا يمكن إضافة الشرط مع تأخير";
 "EditCondition" = "تحرير الشرط";
@@ -1088,18 +1088,18 @@
 "TheDevModelUnSupport" = "طراز الجهاز لا يدعم";
 "PleaseTurnOffAllAay24Hours" = "الرجاء إيقاف تشغيل اليوم بالكامل لمدة 24 ساعة أولاً";
 ///判断条件列表
-"JudgingConditionsList" = "قائمة شروط التحكيم";
+"JudgingConditionsList" = "قائمة الشروط";
 "TimingSelect" = "إعداد الجدول الزمني";
 "AlreadyAnEffectiveTimeCannotAdd" = "لا يمكن إضافة المزيد نظرًا لوجود فترة سارية بالفعل";
-"RepeatOption" = "الخيار المتكرر";
+"RepeatOption" = "يرجى الإختيار";
 "Custom" = "مخصص";
 "TheDevHasBeenLinkageTriggerSourceCannotSelect" = "لا يمكن تحديد الجهاز الذي كان بالفعل مصدر تشغيل الارتباط";
 ///推送通知
 "TextBroadcast" = "بث النص";
 "PleaseEnterBroadcastContent" = "سياق البث";
-"NotifMsg" = "الإخطار";
+"NotifMsg" = "الإشعار";
 "DefaultNotif" = "الإشعار الافتراضي";
-"PleaseNoMore20" = "يُرجى تجاوز ما يصل إلى 20 حرفًا";
+"PleaseNoMore20" = "يُرجى إدخال ما يصل إلى 20 حرفًا";
 ///Wi-Fi配置
 "MobileHasBeenConnectedDevWifi:%@" = "تم توصيل الجوال بالجهاز WiFi:%@";
 "PleaseMobileConnectDevWifiBackThePage" = "بعد توصيل الجوال بشبكة WiFi الخاصة بالجهاز، يرجى العودة إلى هذه الواجهة";

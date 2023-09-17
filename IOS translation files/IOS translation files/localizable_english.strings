@@ -868,11 +868,11 @@
 "SetAISmartName" = "Edit Home name";
 "If" = "If";
 "Then" = "Then";
-"OneOfTheConditions" = "When meet one condition";
+"OneOfTheConditions" = "When 1 condition is met";
 "PleaseAddConditionAndAction" = "Please add condition and action";
 "ExecuteOnce" = "Execute once";
 "ExecuteOnceAISmartClose" = "Smart home will automatically turn off after one execution";
-"JudgmentCondition" = "Judge condition";
+"JudgmentCondition" = "Priority condition";
 "SetEffectiveTime" = "Set executed period";
 "EffectiveTime" = "Effective period";
 "AllDays" = "The whole day";
@@ -958,7 +958,7 @@
 "SetScenesName" = "Set scene name";
 "IconManager" = "Icon management";
 "AddAction" = "Add Action";
-"JudgingCondition(%ld)" = "Judging condition(%ld)";
+"JudgingCondition(%ld)" = "Condition(%ld)";
 "SceneAlias" = "Scene Alias";
 "Interval%@Min" = "Interval %@ Min";
 "Every%@" = "Every %@";
@@ -968,7 +968,7 @@
 "TheAISmartNotExisit" = "The schedule does not exist";
 "ConditionCannotNull" = "Condition cannot be empty";
 "ExecuteResultCannotNull" = "Executed result cannot be empty";
-"AllConditionsMet" = "When meet all conditions";
+"AllConditionsMet" = "When all conditions are met";
 "CycleManyTimesEveryDay" = "Cycle many times everyday";
 "Interval%dMin" = "Interval %d Min";
 "CustomTiming" = "Customized";
@@ -976,7 +976,7 @@
 "PleaseSetAISmartName" = "Please set schedule name";
 "UpdataAISmartName" = "Modify schedule name";
 "AddUpTriggerConditions6" = "Add up to 6 trigger conditions";
-"AddUpJudge6" = "Add up to 6 judging conditions";
+"AddUpJudge6" = "Add up to 6 conditions";
 "AlreadyATimingConditionAndCannotBeAddedAgain" = "There is already one countdown condition, no more to add";
 "ConditionCannotAddDelay" = "The condition cannot be added with a delay";
 "EditCondition" = "Edit condition";
@@ -1088,7 +1088,7 @@
 "TheDevModelUnSupport" = "The device model does not support";
 "PleaseTurnOffAllAay24Hours" = "Please turn off whole day 24 hours firstly";
 ///判断条件列表
-"JudgingConditionsList" = "List of judging condition";
+"JudgingConditionsList" = "List of conditions";
 "TimingSelect" = "Schedule Settings";
 "AlreadyAnEffectiveTimeCannotAdd" = "Cannot add more since there is already a effective period";
 "RepeatOption" = "Please Select";
