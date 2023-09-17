@@ -195,12 +195,12 @@
 
     <!-- ========================================场景 start========================================================-->
     <string name="scene_recommend">المشهد الموصى به</string>
-    <string name="scene_mine">المشاهد (انقر فوق "إضافة" في الزاوية اليمنى العليا)</string>
+    <string name="scene_mine">المشاهد (انقر + للإضافة)</string>
     <string name="scene_my">المشاهد</string>
     <string name="scene_name_tv">اسم المشهد</string>
     <string name="scene_name_input">اسم المشهد</string>
-    <string name="scene_alia">إدارة الأسماء المستعارة</string>
-    <string name="scene_icon">إدارة الأيقونات</string>
+    <string name="scene_alia">الاسم المستعار</string>
+    <string name="scene_icon">الأيقونة</string>
     <string name="scene_icon_tip">لا توجد أيقونات</string>
     <string name="scene_add_action">إضافة إجراء</string>
     <string name="scene_no_action">لم تتم إضافة أي مشهد</string>
@@ -1264,4 +1264,176 @@
     <string name="deviceSetting_Time_zone_setting">إعدادات المنطقة الزمنية</string>
     
     <!-- ******************************* 监控 end *****************************************-->
+    <string name="page_one_title">تطبيق واحد يفي بالغرض!</string>
+    <string name="page_one_tip_one">تحكم بأجهزتك الذكية كلها، لكن بطريقة أذكى!</string>
+    <string name="page_twe_title">علمهم!</string>
+    <string name="page_twe_tip_one">قم بإرشاد أجهزتك الذكية للقيام بما تحتاجه عن طريقة الأتمتة</string>
+    <string name="page_three_title">تحكم من أي مكان</string>
+    <string name="page_three_tip_one">من أي مكان تتواجد فيه، تحكم بالأجهزة الذكية بكل سهولة</string>
+
+    <string name="permission_rejected">تم رفض الإذن، يمكنك فتحه في إعدادات النظام</string>
+    <string name="no_scan_result">لا توجد بيانات تم مسحها</string>
+    <string name="arabic">العربية</string>
+    <string name="tv_mode">الوضع</string>
+    <string name="opt_success">عملية ناجحة</string>
+    <string name="ac_not_matching">جهاز التحكم في مكيف الهواء غير متطابق!</string>
+    <string name="select_one_must">يرجى تحديد على الأقل واحد</string>
+    <string name="security_delete_content">هل أنت متأكد أنك تريد حذف هذا التنبيه الأمني؟</string>
+    <string name="security_countdown_content">%s انتظر لمدة %d ثانية</string>
+    <string name="security_arm">تغيّر التنبيه الأمني</string>
+    <string name="security_auto_arm">إنذار العودة</string>
+    <string name="security_home_arm">إنذار المغادرة</string>
+    <string name="security_out_arm">تحت الحراسة</string>
+
+    <!-- ******************************* 自动化 start *****************************************-->
+    <string name="auto_my">ذكائي الاصطناعي</string>
+    <string name="auto_create">إنشاء منزل ذكي بواسطة الذكاء الاصطناعي</string>
+    <string name="auto_edit">تعديل منزل ذكي بواسطة الذكاء الاصطناعي</string>
+    <string name="auto_judge">شرط الذكاء الاصطناعي</string>
+    <string name="auto_add">الرجاء النقر على + للإضافة</string>
+    <string name="auto_delete_title">حذف الذكاء الاصطناعي</string>
+    <string name="auto_delete_content">هل أنت متأكد من رغبتك في حذف الذكاء الاصطناعي؟</string>
+    <string name="auto_tv_tip">اسم المنزل الذكي بواسطة الذكاء الاصطناعي</string>
+    <string name="auto_tv_tip1">الرجاء تعديل اسم المنزل الذكي بواسطة الذكاء الاصطناعي</string>
+    <string name="auto_tv_if">إذا:</string>
+    <string name="auto_tv_then">ثم:</string>
+    <string name="auto_do_once">تنفيذ مرة واحدة</string>
+    <string name="auto_do_once_tip">سيتم إيقاف تشغيل المنزل الذكي تلقائيًا بعد تنفيذه مرة واحدة.</string>
+    <string name="auto_set_condition">تعيين شروط التقدير</string>
+    <string name="auto_set_active">تعيين فترة التنفيذ</string>
+    <string name="auto_set_active_all">طوال اليوم</string>
+    <string name="auto_set_timing">الرجاء اختيار نوع التوقيت</string>
+    <string name="auto_set_timing_custom">مخصص</string>
+    <string name="auto_set_timing_loop">تنفيذ متكرر عدة مرات</string>
+    <string name="auto_set_time">تعيين الوقت</string>
+    <string name="auto_time_1">ضبط الجدول الزمني</string>
+    <string name="auto_set_time_item">تخصيص التوقيت</string>
+    <string name="auto_set_time_loop">التنفيذ المتكرر طوال اليوم</string>
+    <string name="auto_set_time_loop_tip">فاصل التكرار</string>
+    <string name="auto_set_time_loop_intervals">فاصل %s دقيقة</string>
+    <string name="auto_condition_limit">يمكن إضافة حتى 6 شروط تقديرية</string>
+    <string name="auto_timing_limit">هناك بالفعل شرط واحد للعد التنازلي، لا يمكن إضافة المزيد</string>
+    <string name="auto_time">دقيقة</string>
+    <string name="auto_time_real">%s دقيقة</string>
+    <string name="push_tip_title">رسالة تنبيه</string>
+    <string name="push_tip_title_2">بث نصي</string>
+    <string name="push_tip">تنبيه افتراضي</string>
+    <string name="push_count">0/20</string>
+    <string name="push_content">الرجاء إدخال نص البث</string>
+    <!-- ******************************* 自动化 end *****************************************-->
+
+    <!-- ******************************* 自动化条件 start *****************************************-->
+    <string name="auto_condition_open">تشغيل</string>
+    <string name="auto_condition_close">إيقاف</string>
+    <string name="auto_condition_curtain_open">فتح</string>
+    <string name="auto_condition_curtain_pause">إيقاف مؤقت</string>
+    <string name="auto_condition_curtain_close">إيقاف</string>
+    <string name="auto_condition_window_open">فتح النافذة</string>
+    <string name="auto_condition_window_pause">إيقاف مؤقت</string>
+    <string name="auto_condition_window_close">إغلاق النافذة</string>
+    <string name="auto_condition_valve_open">فتح</string>
+    <string name="auto_condition_valve_pause">إيقاف مؤقت</string>
+    <string name="auto_condition_valve_close">إيقاف</string>
+    <string name="auto_condition_curtain_percent_open">فتح الستائر يدويًا</string>
+    <string name="auto_condition_curtain_percent_close">إغلاق الستائر يدويًا</string>
+    <string name="auto_condition_first">الضغط على الزر الأول مرة واحدة</string>
+    <string name="auto_condition_twe">الضغط على الزر الثاني مرة واحدة</string>
+    <string name="auto_condition_three">الضغط على الزر الثالث مرة واحدة</string>
+    <string name="auto_condition_four">الضغط على الزر الرابع مرة واحدة</string>
+    <string name="auto_condition_five">الضغط على الزر الخامس مرة واحدة</string>
+    <string name="auto_condition_six">الضغط على الزر السادس مرة واحدة</string>
+    <string name="main_no_men_move_one">لا حركة خلال دقيقة واحدة</string>
+    <string name="main_no_men_move_twe">لا حركة خلال 2 دقيقة</string>
+    <string name="main_no_men_move_five">لا حركة خلال 5 دقائق</string>
+    <string name="main_no_men_move_ten">لا حركة خلال 10 دقائق</string>
+    <string name="main_no_men_move_twenty">لا حركة خلال 20 دقيقة</string>
+    <string name="lock_condition_all">يُتنشط مرة واحدة عندما يقوم جميع الأشخاص بإلغاء القفل</string>
+    <string name="lock_condition_specify">يتم تنشيطه عندما يُلغى القفل بواسطة المستخدمين المحددين</string>
+    <!-- ******************************* 自动化条件 end *****************************************-->
+    <!-- ******************************* 多联 start *****************************************-->
+    <string name="multi_link_create">إنشاء مجموعة جديدة</string>
+    <string name="multi_relative_create">إنشاء ارتباط جديد</string>
+    <string name="multi_link_mine">موازيتي (الرجاء النقر على + للإضافة)</string>
+    <string name="multi_link_mine_one">موازيتي</string>
+    <string name="multi_name_tv">اسم المجموعة</string>
+    <string name="multi_name_set">الرجاء تعيين اسم المجموعة</string>
+    <string name="multi_device_add_tv">إضافة جهاز إلى المجموعة</string>
+    <string name="multi_device_add_none">لم يتم إضافة أي جهاز</string>
+    <string name="multi_create">إنشاء مجموعة جديدة</string>
+    <string name="multi_edit">تعديل المجموعة</string>
+    <string name="multi_delete">حذف الموازاة</string>
+    <string name="multi_delete_content">هل أنت متأكد من رغبتك في حذف الموازاة؟</string>
+    <string name="multi_dialog_title">تعديل اسم المجموعة</string>
+    <string name="multi_dialog_title_sub">تعديل اسم المجموعة</string>
+    <string name="multi_add_device">إضافة جهاز إلى المجموعة</string>
+    <string name="multi_choose_twe_more">الرجاء اختيار ما لا يقل عن اثنين</string>
+    <string name="hide_device">إخفاء الأجهزة</string>
+    <string name="relate_mine">ارتباطي (الرجاء النقر على + للإضافة)</string>
+    <string name="relate_mine_one">ارتباطي</string>
+    <string name="related_create">إنشاء ارتباط جديد</string>
+    <string name="related_edit">تعديل الارتباط</string>
+    <string name="related_delete">حذف الربط</string>
+    <string name="related_delete_content">هل أنت متأكد من رغبتك في حذف الربط؟</string>
+    <string name="related_name_tip">اسم التفاعل</string>
+    <string name="related_name_set">الرجاء تعيين اسم الارتباط</string>
+    <string name="related_add_resource_title">إضافة مصدر تفعيل الربط</string>
+    <string name="related_add_resource">إضافة مصدر تفعيل الربط:</string>
+    <string name="related_no_resource">لم يتم إضافة مصدر التفعيل</string>
+    <string name="related_add_device">إضافة جهاز الارتباط:</string>
+    <string name="related_add_device_title">إضافة جهاز الارتباط</string>
+    <string name="related_no_device">لم يتم إضافة أي جهاز</string>
+    <string name="related_have_deleted">تم حذف المجموعة</string>
+    <string name="related_tip">اختيار ما يصل إلى 3 أجهزة كمصدر تفعيل</string>
+    <string name="related_tip_six">ربط ما يصل إلى 6 أجهزة</string>
+    <string name="related_tip_one_condition">اختيار مصدر تفعيل واحد على الأقل</string>
+    <string name="related_tip_one_control">اختيار جهاز الربط واحد على الأقل</string>
+    <string name="related_exist">الجهاز موجود بالفعل</string>
+    <string name="related_same_scene">تم ربط الجهاز بالفعل بمشهد ولا يمكن استخدامه كمصدر تفعيل</string>
+    <string name="related_same_auto">تم استخدام الجهاز كشرط جدول زمني ولا يمكن استخدامه كمصدر تفعيل</string>
+    <string name="related_same_choose">لا يمكن اختيار نفس الجهاز مرة أخرى!</string>
+    <string name="have_selected">تم الاختيار</string>
+    <string name="have_selected_tip">نوع الجهاز غير متوافق مع الجهاز المختار، الرجاء اختيار مرة أخرى!</string>
+    <!-- ******************************* 多联 end *****************************************-->
+    <!-- ******************************* 网关列表 start *****************************************-->
+    <string name="gateway_list">قائمة البوابات</string>
+    <string name="gateway_list_choose">الرجاء إضافة أي بوابة</string>
+    <string name="gateway_main">البوابة الرئيسية</string>
+    <string name="gateway_main_sub">بوابة فرعية</string>
+    <string name="gateway_screen">QPad</string>
+    <string name="gateway_screen_sub">QPads</string>
+    <string name="gateway_screen_air">QPad Air</string>
+    <string name="gateway_screen_air_sub">QPad Airs</string>
+    <string name="gateway_version_low">هذه الوظيفة غير متاحة حاليًا نظرًا لأن إصدار البوابة الحالي منخفض جدًا.</string>
+    <string name="coordinator_version_low">هذه الوظيفة غير متاحة حاليًا نظرًا لأن إصدار المنسق الحالي منخفض جدًا.</string>
+    <string name="gateway_mac_same">غير قادر على الإضافة، عنوان MAC هو نفسه كعنوان MAC البوابة الرئيسية</string>
+    <!-- ******************************* 网关列表 end *****************************************-->
+
+    <!-- ******************************* 技能组 start *****************************************-->
+    <string name="group_setting">تحرير تحكم الإضاءة</string>
+    <string name="group_manager">إدارة تحكم الإضاءة</string>
+    <string name="group_dialog_delete_title">حذف تحكم الإضاءة</string>
+    <string name="group_dialog_delete_content">هل ترغب في حذف تحكم الإضاءة؟</string>
+    <string name="group_mine">تحكم الإضاءة الخاص بي</string>
+    <string name="group_create">إنشاء تحكم إضاءة</string>
+    <string name="group_dialog_title_sub">إعداد الاسم</string>
+    <string name="group_dialog_title_sub_update">تعيين اسم تحكم الإضاءة</string>
+    <string name="group_name">اسم تحكم الإضاءة</string>
+    <string name="group_set_name">الرجاء تعيين اسم تحكم الإضاءة</string>
+    <string name="group_add_device">إضافة جهاز تحكم الإضاءة</string>
+    <string name="group_add_key">إضافة مفتاح تحكم الإضاءة</string>
+    <string name="group_device_all_open">تشغيل الكل</string>
+    <string name="group_device_all_close">إيقاف الكل</string>
+    <string name="group_tip2">إصدار المنسق لا يدعم إضافة مفاتيح تحكم الإضاءة</string>
+    <string name="device_selected_max_limited">لا يمكن تحديد أكثر من %s</string>
+    <string name="device_selected_not_same_type">نوع الجهاز مختلف ولا يمكن تحديده.</string>
+    <string name="device_selected_version_low">إصدار الجهاز منخفض جدًا ولا يمكن تحديده</string>
+    <string name="group_have_delete">تم حذف مجموعة تحكم الإضاءة</string>
+    <string name="info_synchronization_device">مزامنة حالة أجهزة تحكم الإضاءة</string>
+    <string name="info_group_delete">حذف مجموعة تحكم الإضاءة</string>
+    <string name="info_group_delete_content">هل ترغب حقًا في حذف مجموعة تحكم الإضاءة؟</string>
+    <string name="info_group_name">اسم تحكم الإضاءة</string>
+    <string name="info_group_mac">MAC تحكم الإضاءة</string>
+    <string name="info_group_synchronization_success">نجحت المزامنة</string>
+    <string name="info_group_synchronization_fail">فشلت المزامنة</string>
+    <!-- ******************************* 技能组 end *****************************************-->
 </resources>

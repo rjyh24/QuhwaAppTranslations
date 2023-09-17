@@ -857,10 +857,10 @@
 "Multilink" = "Grouping";
 "LampControlGroup" = "Lights";
 "RecommendScenes" = "Recommended scene";
-"MineScenes" = "Scenes List";
-"MineAISmart" = "Schedulings";
-"MineParalleling" = "Devices Groups";
-"MineLinkage" = "Devices Linkages";
+"MineScenes" = "Scenes";
+"MineAISmart" = "Schedules";
+"MineParalleling" = "Groups";
+"MineLinkage" = "Linkages";
 "MineLampControlGroup" = "Lights Groups";
 "ClickTopRightBtnAdd" = "Click + to add";
 ///AI智能
@@ -1002,8 +1002,8 @@
 "LowerSpecifiedTemperature" = "Lower than the specified temperature";
 "SliderHumidityRange(0-99%)" = "Slide to change humidity in the range(0-99%)";
 ///多联
-"DeleteParalleling" = "Delete paralleling";
-"AreYouSureDeleteTheParalleling" = "Are you sure to delete the paralleling?";
+"DeleteParalleling" = "Delete group";
+"AreYouSureDeleteTheParalleling" = "Are you sure to delete this?";
 "DeleteLinkage" = "Delete Linkage";
 "AreYouSureDeleteTheLinkage" = "Are you sure to delete the linkage?";
 "%dDevices" = "%d Devices";
@@ -1011,14 +1011,14 @@
 "%dCount" = "%d Count";
 "SelectLeastDevices2" = "Select at least 2 devices";
 "Hiddened" = "Hidden";
-"PleaseSetParallelingName" = "Please set paralleling name";
+"PleaseSetParallelingName" = "Please set group name";
 "UpdataParallelingName" = "Modify group name";
 "ShowDevice" = "Show device";
-"RemoveParalleling" = "Remove paralleling";
+"RemoveParalleling" = "Remove group";
 "HiddenDevice" = "Hide device";
-"ParallelingNotExisit" = "Paralleling does not exist";
+"ParallelingNotExisit" = "Group does not exist";
 "PleaseSetLinkageName" = "Please set linkage name";
-"UpdataLinkageName" = "Modify association name";
+"UpdataLinkageName" = "Edit linkage name";
 "SelectUpTriggerSourceDevices3" = "Select up to 3 trigger source devices";
 "LinkageUpDevices6" = "Link up to 6 devices";
 "DeleteTriggerSource" = "Delete trigger source";
@@ -1027,19 +1027,19 @@
 "AddWhichGateway" = "Please add which gateway";
 "NewAddParalleling" = "Devices Group";
 "NewAddLinkage" = "Devices Linkage";
-"SetParallelName" = "Please setup group name";
-"AddParallelDevice" = "Add paralleling device";
+"SetParallelName" = "Please set group name";
+"AddParallelDevice" = "Add group device";
 "PleaseSelectDevice" = "Please select device";
 "SelectDevice" = "Select device";
-"SetLinkageName" = "Please setup the association name";
+"SetLinkageName" = "Please set linkage name";
 "AddLinkageTriggerSource" = "Add linkage trigger source";
-"AddLinkageDevice" = "Add association device";
+"AddLinkageDevice" = "Add linkage device";
 "PleaseSelectTriggerSource" = "Please select trigger source";
 "PleaseSelectLeast2Devices" = "Please select at least 2 devices";
 "PleaseSelectLeast1LightControlDevice" = "Please select at least 1 light control device";
 ///多联设备库
 "SubGwDevices" = "Sub gateway devices";
-"AddParallelingDevice" = "Add paralleling device";
+"AddParallelingDevice" = "Add group device";
 "AirConditionUnMatchUCannotSelect" = "Unmatched air condition companion cannot be selected";
 "AddTriggerSourceDevice" = "Add trigger source device";
 "Selected" = "Selected";
@@ -1089,9 +1089,9 @@
 "PleaseTurnOffAllAay24Hours" = "Please turn off whole day 24 hours firstly";
 ///判断条件列表
 "JudgingConditionsList" = "List of judging condition";
-"TimingSelect" = "Schedule setting";
+"TimingSelect" = "Schedule Settings";
 "AlreadyAnEffectiveTimeCannotAdd" = "Cannot add more since there is already a effective period";
-"RepeatOption" = "Repeated option";
+"RepeatOption" = "Please Select";
 "Custom" = "Customized";
 "TheDevHasBeenLinkageTriggerSourceCannotSelect" = "The device which has already been a linkage trigger source cannot be selected";
 ///推送通知
@@ -1150,9 +1150,9 @@
 "SecurityStatus" = "Security state";
 "SecurityLog" = "Security Logs";
 "SelfAlert" = "Custom Alarm";
-"HomeAlert" = "Return alarm";
-"LeaveHomneAlert" = "Leave alarm";
-"UnderGuard" = "Under Guarding";
+"HomeAlert" = "Returning Alarm";
+"LeaveHomneAlert" = "Leaving Alarm";
+"UnderGuard" = "Guarded";
 "Edit" = "Edit";
 "Cancel" = "Cancel";
 "Confirm" = "Confirm";
